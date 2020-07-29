@@ -181,7 +181,7 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Fire Oil": 2,
-            "Kingsblood": 1, 
+            "Kingsblood": 1,
             "Leaded Vial": 1
         }
     },
@@ -268,7 +268,7 @@ recipes = {
     },
     "Elixir of Greater Firepower": {
         "ID":       21546,
-        "Learn-PHASE-5":    250,
+        "Learn":    250,
         "Yellow":   265,
         "Green":    285,
         "Grey":     305,

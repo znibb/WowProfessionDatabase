@@ -511,7 +511,7 @@ recipes = {
     },
     "Brilliant Mana Oil": {
         "ID":       25130,
-        "Learn-PHASE5":    300,
+        "Learn":    300,
         "Yellow":   310,
         "Green":    320,
         "Grey":     330,
@@ -525,7 +525,7 @@ recipes = {
     },
     "Brilliant Wizard Oil": {
         "ID":       25129,
-        "Learn-PHASE5":    300,
+        "Learn":    300,
         "Yellow":   310,
         "Green":    320,
         "Grey":     330,
@@ -1448,7 +1448,7 @@ recipes = {
     },
     "Lesser Mana Oil": {
         "ID":       25127,
-        "Learn-PHASE-5":    250,
+        "Learn":    250,
         "Yellow":   260,
         "Green":    270,
         "Grey":     280,
@@ -1475,7 +1475,7 @@ recipes = {
     },
     "Lesser Wizard Oil": {
         "ID":       25126,
-        "Learn-PHASE-5":    200,
+        "Learn":    200,
         "Yellow":   210,
         "Green":    220,
         "Grey":     230,
@@ -1489,7 +1489,7 @@ recipes = {
     },
     "Minor Mana Oil": {
         "ID":       25125,
-        "Learn-PHASE-5":    150,
+        "Learn":    150,
         "Yellow":   160,
         "Green":    170,
         "Grey":     180,
@@ -1503,7 +1503,7 @@ recipes = {
     },
     "Minor Mana Oil": {
         "ID":       25125,
-        "Learn-PHASE-5":    150,
+        "Learn":    150,
         "Yellow":   160,
         "Green":    170,
         "Grey":     180,
@@ -1517,7 +1517,7 @@ recipes = {
     },
     "Minor Wizard Oil": {
         "ID":       25124,
-        "Learn-PHASE-5":    45,
+        "Learn":    45,
         "Yellow":   55,
         "Green":    65,
         "Grey":     75,
@@ -1617,7 +1617,7 @@ recipes = {
     },
     "Wizard Oil": {
         "ID":       25128,
-        "Learn-PHASE-5":    275,
+        "Learn":    275,
         "Yellow":   285,
         "Green":    295,
         "Grey":     305,

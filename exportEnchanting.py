@@ -77,6 +77,32 @@ recipes = {
 			"Strange Dust": 6
         }
     },
+    "2H Weapon - Major Intellect": {
+        "ID":       20036,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16249,
+        "Reagents": {
+			"Greater Eternal Essence": 12,
+			"Large Brilliant Shard": 2
+        }
+    },
+    "2H Weapon - Major Spirit": {
+        "ID":       20035,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16255,
+        "Reagents": {
+			"Greater Eternal Essence": 12,
+			"Large Brilliant Shard": 2
+        }
+    },
     "2H Weapon - Minor Impact": {
         "ID":       7745,
         "Learn":    100,
@@ -296,6 +322,21 @@ recipes = {
 			"Greater Nether Essence": 1
         }
     },
+    "Bracer - Healing Power": {
+        "ID":       23802,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 19447,
+        "Reagents": {
+			"Large Brilliant Shard": 2,
+            "Illusion Dust": 20,
+            "Greater Eternal Essence": 4,
+            "Living Essence": 6
+        }
+    },
     "Bracer - Intellect": {
         "ID":       13822,
         "Learn":    210,
@@ -496,6 +537,18 @@ recipes = {
 			"Dream Dust": 10
         }
     },
+    "Bracer - Superior Stamina": {
+        "ID":       20011,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16251,
+        "Reagents": {
+			"Illusion Dust": 15
+        }
+    },
     "Bracer - Superior Strength": {
         "ID":       20010,
         "Learn":    295,
@@ -557,6 +610,20 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Greater Mystic Essence": 1
+        }
+    },
+    "Chest - Greater Stats": {
+        "ID":       20025,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16253,
+        "Reagents": {
+			"Large Brilliant Shard": 4,
+            "Illusion Dust": 15,
+            "Greater Eternal Essence": 10
         }
     },
     "Chest - Health": {
@@ -756,6 +823,20 @@ recipes = {
 			"Soul Dust": 3
         }
     },
+    "Cloak - Dodge": {
+        "ID":       25086,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20736,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Guardian Stone": 8
+        }
+    },
     "Cloak - Fire Resistance": {
         "ID":       13657,
         "Learn":    175,
@@ -777,6 +858,34 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Vision Dust": 3
+        }
+    },
+    "Cloak - Greater Nature Resistance": {
+        "ID":       25082,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 20732,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Essence of Fire": 4
+        }
+    },
+    "Cloak - Dodge": {
+        "ID":       25086,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20733,
+        "Reagents": {
+            "Nexus Crystal": 2,
+			"Large Brilliant Shard": 8,
+            "Living Essence": 4
         }
     },
     "Cloak - Greater Resistance": {
@@ -892,6 +1001,34 @@ recipes = {
 			"Lesser Nether Essence": 1
         }
     },
+    "Cloak - Stealth": {
+        "ID":       25083,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20734,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Black Lotus": 2
+        }
+    },
+    "Cloak - Subtlety": {
+        "ID":       25084,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20735,
+        "Reagents": {
+            "Nexus Crystal": 4,
+			"Large Brilliant Shard": 6,
+            "Black Diamond": 2
+        }
+    },
     "Cloak - Superior Defense": {
         "ID":       20015,
         "Learn":    285,
@@ -942,6 +1079,20 @@ recipes = {
 			"Vision Dust": 1
         }
     },
+    "Gloves - Fire Power": {
+        "ID":       25078,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20729,
+        "Reagents": {
+            "Nexus Crystal": 2,
+			"Large Brilliant Shard": 10,
+            "Essence of Fire": 4
+        }
+    },
     "Gloves - Fishing": {
         "ID":       13620,
         "Learn":    145,
@@ -953,6 +1104,20 @@ recipes = {
         "Reagents": {
 			"Soul Dust": 1,
 			"Blackmouth Oil": 3
+        }
+    },
+    "Gloves - Frost Power": {
+        "ID":       25074,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20728,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 10,
+            "Essence of Water": 4
         }
     },
     "Gloves - Greater Agility": {
@@ -979,6 +1144,20 @@ recipes = {
         "Reagents": {
 			"Greater Eternal Essence": 4,
 			"Illusion Dust": 4
+        }
+    },
+    "Gloves - Healing Power": {
+        "ID":       25079,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20730,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Righteous Orb": 1
         }
     },
     "Gloves - Herbalism": {
@@ -1032,6 +1211,20 @@ recipes = {
 			"Dream Dust": 3
         }
     },
+    "Gloves - Shadow Power": {
+        "ID":       25073,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20727,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 10,
+            "Essence of Undeath": 6
+        }
+    },
     "Gloves - Skinning": {
         "ID":       13698,
         "Learn":    200,
@@ -1055,6 +1248,34 @@ recipes = {
         "Reagents": {
 			"Lesser Nether Essence": 2,
 			"Vision Dust": 3
+        }
+    },
+    "Gloves - Superior Agility": {
+        "ID":       25080,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20731,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Essence of Air": 4
+        }
+    },
+    "Gloves - Threat": {
+        "ID":       25072,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20726,
+        "Reagents": {
+            "Nexus Crystal": 4,
+			"Large Brilliant Shard": 6,
+            "Larval Acid": 8
         }
     },
     "Shield - Frost Resistance": {
@@ -1210,6 +1431,19 @@ recipes = {
 			"Essence of Air": 2
         }
     },
+    "Weapon - Crusader": {
+        "ID":       20034,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16252,
+        "Reagents": {
+			"Large Brilliant Shard": 4,
+			"Righteous Orb": 2
+        }
+    },
     "Weapon - Demonslaying": {
         "ID":       13915,
         "Learn":    230,
@@ -1247,6 +1481,22 @@ recipes = {
         "Reagents": {
 			"Large Radiant Shard": 2,
 			"Greater Nether Essence": 2
+        }
+    },
+    "Weapon - Healing Power": {
+        "ID":       22750,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 18260,
+        "Reagents": {
+			"Large Brilliant Shard": 4,
+            "Greater Eternal Essence": 8,
+            "Living Essence": 6,
+            "Essence of Water": 6,
+			"Righteous Orb": 1
         }
     },
     "Weapon - Icy Chill": {
@@ -1304,6 +1554,48 @@ recipes = {
 			"Large Glimmering Shard": 1
         }
     },
+    "Weapon - Lifestealing": {
+        "ID":       20032,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16254,
+        "Reagents": {
+			"Large Brilliant Shard": 6,
+            "Essence of Undeath": 6,
+			"Living Essence": 6
+        }
+    },
+    "Weapon - Mighty Intellect": {
+        "ID":       23804,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 19449,
+        "Reagents": {
+			"Large Brilliant Shard": 15,
+            "Greater Eternal Essence": 12,
+			"Illusion Dust": 20
+        }
+    },
+    "Weapon - Mighty Spirit": {
+        "ID":       23803,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 19448,
+        "Reagents": {
+			"Large Brilliant Shard": 10,
+            "Greater Eternal Essence": 8,
+			"Illusion Dust": 15
+        }
+    },
     "Weapon - Minor Beastslayer": {
         "ID":       7786,
         "Learn":    90,
@@ -1328,6 +1620,23 @@ recipes = {
 			"Strange Dust": 2,
 			"Greater Magic Essence": 1,
 			"Small Glimmering Shard": 1
+        }
+    },
+    "Weapon - Spell Power": {
+        "ID":       22749,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 18259,
+        "Reagents": {
+			"Large Brilliant Shard": 4,
+            "Greater Eternal Essence": 12,
+            "Essence of Fire": 4,
+            "Essence of Water": 4,
+            "Essence of Air": 4,
+			"Golden Pearl": 2
         }
     },
     "Weapon - Strength": {
@@ -1355,6 +1664,19 @@ recipes = {
         "Reagents": {
 			"Greater Mystic Essence": 2,
 			"Large Glowing Shard": 1
+        }
+    },
+    "Weapon - Superior Striking": {
+        "ID":       20031,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16250,
+        "Reagents": {
+			"Large Brilliant Shard": 2,
+			"Greater Eternal Essence": 10
         }
     },
     "Weapon - Unholy Weapon": {

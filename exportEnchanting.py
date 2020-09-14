@@ -874,20 +874,6 @@ recipes = {
             "Essence of Fire": 4
         }
     },
-    "Cloak Dodge": {
-        "ID":       25086,
-        "Learn":    300,
-        "Yellow":   320,
-        "Green":    340,
-        "Grey":     360,
-        "Source":   "Drop",
-        "RecipeID": 20733,
-        "Reagents": {
-            "Nexus Crystal": 2,
-			"Large Brilliant Shard": 8,
-            "Living Essence": 4
-        }
-    },
     "Cloak Greater Resistance": {
         "ID":       20014,
         "Learn":    265,

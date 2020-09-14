@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.7
 
 recipes = {
-	"2H Weapon - Agility": {
+	"2H Weapon Agility": {
         "ID":       27837,
         "Learn":    290,
         "Yellow":   310,
@@ -16,7 +16,7 @@ recipes = {
 			"Essence of Air": 4
         }
     },
-    "2H Weapon - Greater Impact": {
+    "2H Weapon Greater Impact": {
         "ID":       13937,
         "Learn":    240,
         "Yellow":   260,
@@ -28,7 +28,7 @@ recipes = {
 			"Dream Dust": 2
         }
     },
-    "2H Weapon - Impact": {
+    "2H Weapon Impact": {
         "ID":       13695,
         "Learn":    200,
         "Yellow":   220,
@@ -40,7 +40,7 @@ recipes = {
 			"Large Glowing Shard": 1
         }
     },
-    "2H Weapon - Lesser Impact": {
+    "2H Weapon Lesser Impact": {
         "ID":       13529,
         "Learn":    145,
         "Yellow":   170,
@@ -52,7 +52,7 @@ recipes = {
 			"Large Glimmering Shard": 1
         }
     },
-    "2H Weapon - Lesser Intellect": {
+    "2H Weapon Lesser Intellect": {
         "ID":       7793,
         "Learn":    100,
         "Yellow":   130,
@@ -64,7 +64,7 @@ recipes = {
 			"Greater Magic Essence": 3
         }
     },
-    "2H Weapon - Lesser Spirit": {
+    "2H Weapon Lesser Spirit": {
         "ID":       13380,
         "Learn":    110,
         "Yellow":   135,
@@ -77,7 +77,33 @@ recipes = {
 			"Strange Dust": 6
         }
     },
-    "2H Weapon - Minor Impact": {
+    "2H Weapon Major Intellect": {
+        "ID":       20036,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16249,
+        "Reagents": {
+			"Greater Eternal Essence": 12,
+			"Large Brilliant Shard": 2
+        }
+    },
+    "2H Weapon Major Spirit": {
+        "ID":       20035,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16255,
+        "Reagents": {
+			"Greater Eternal Essence": 12,
+			"Large Brilliant Shard": 2
+        }
+    },
+    "2H Weapon Minor Impact": {
         "ID":       7745,
         "Learn":    100,
         "Yellow":   130,
@@ -89,7 +115,7 @@ recipes = {
 			"Small Glimmering Shard": 1
         }
     },
-    "2H Weapon - Superior Impact": {
+    "2H Weapon Superior Impact": {
         "ID":       20030,
         "Learn":    295,
         "Yellow":   315,
@@ -102,7 +128,7 @@ recipes = {
 			"Illusion Dust": 10
         }
     },
-    "Boots - Agility": {
+    "Boots Agility": {
         "ID":       13935,
         "Learn":    235,
         "Yellow":   255,
@@ -113,7 +139,7 @@ recipes = {
 			"Greater Nether Essence": 2
         }
     },
-    "Boots - Greater Agility": {
+    "Boots Greater Agility": {
         "ID":       20023,
         "Learn":    295,
         "Yellow":   315,
@@ -125,7 +151,7 @@ recipes = {
 			"Greater Eternal Essence": 8
         }
     },
-    "Boots - Greater Stamina": {
+    "Boots Greater Stamina": {
         "ID":       20020,
         "Learn":    260,
         "Yellow":   280,
@@ -137,7 +163,7 @@ recipes = {
 			"Dream Dust": 10
         }
     },
-    "Boots - Lesser Agility": {
+    "Boots Lesser Agility": {
         "ID":       13637,
         "Learn":    160,
         "Yellow":   180,
@@ -149,7 +175,7 @@ recipes = {
 			"Lesser Mystic Essence": 1
         }
     },
-    "Boots - Lesser Spirit": {
+    "Boots Lesser Spirit": {
         "ID":       13687,
         "Learn":    190,
         "Yellow":   210,
@@ -162,7 +188,7 @@ recipes = {
 			"Lesser Mystic Essence": 2
         }
     },
-    "Boots - Lesser Stamina": {
+    "Boots Lesser Stamina": {
         "ID":       13644,
         "Learn":    170,
         "Yellow":   190,
@@ -173,7 +199,7 @@ recipes = {
 			"Soul Dust": 4
         }
     },
-    "Boots - Minor Agility": {
+    "Boots Minor Agility": {
         "ID":       7867,
         "Learn":    125,
         "Yellow":   150,
@@ -186,7 +212,7 @@ recipes = {
 			"Lesser Astral Essence": 2
         }
     },
-    "Boots - Minor Speed": {
+    "Boots Minor Speed": {
         "ID":       13890,
         "Learn":    225,
         "Yellow":   245,
@@ -199,7 +225,7 @@ recipes = {
 			"Lesser Nether Essence": 1
         }
     },
-    "Boots - Minor Stamina": {
+    "Boots Minor Stamina": {
         "ID":       7863,
         "Learn":    125,
         "Yellow":   150,
@@ -210,7 +236,7 @@ recipes = {
 			"Strange Dust": 8
         }
     },
-    "Boots - Spirit": {
+    "Boots Spirit": {
         "ID":       20024,
         "Learn":    275,
         "Yellow":   295,
@@ -223,7 +249,7 @@ recipes = {
 			"Lesser Eternal Essence": 1
         }
     },
-    "Boots - Stamina": {
+    "Boots Stamina": {
         "ID":       13836,
         "Learn":    215,
         "Yellow":   235,
@@ -234,7 +260,7 @@ recipes = {
 			"Vision Dust": 5
         }
     },
-    "Bracer - Deflection": {
+    "Bracer Deflection": {
         "ID":       13931,
         "Learn":    235,
         "Yellow":   255,
@@ -247,7 +273,7 @@ recipes = {
 			"Dream Dust": 2
         }
     },
-    "Bracer - Greater Intellect": {
+    "Bracer Greater Intellect": {
         "ID":       20008,
         "Learn":    255,
         "Yellow":   275,
@@ -259,7 +285,7 @@ recipes = {
 			"Lesser Eternal Essence": 3
         }
     },
-    "Bracer - Greater Spirit": {
+    "Bracer Greater Spirit": {
         "ID":       13846,
         "Learn":    220,
         "Yellow":   240,
@@ -272,7 +298,7 @@ recipes = {
 			"Vision Dust": 1
         }
     },
-    "Bracer - Greater Stamina": {
+    "Bracer Greater Stamina": {
         "ID":       13945,
         "Learn":    245,
         "Yellow":   265,
@@ -284,7 +310,7 @@ recipes = {
 			"Dream Dust": 5
         }
     },
-    "Bracer - Greater Strength": {
+    "Bracer Greater Strength": {
         "ID":       13939,
         "Learn":    240,
         "Yellow":   260,
@@ -296,7 +322,22 @@ recipes = {
 			"Greater Nether Essence": 1
         }
     },
-    "Bracer - Intellect": {
+    "Bracer Healing Power": {
+        "ID":       23802,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 19447,
+        "Reagents": {
+			"Large Brilliant Shard": 2,
+            "Illusion Dust": 20,
+            "Greater Eternal Essence": 4,
+            "Living Essence": 6
+        }
+    },
+    "Bracer Intellect": {
         "ID":       13822,
         "Learn":    210,
         "Yellow":   230,
@@ -307,7 +348,7 @@ recipes = {
 			"Lesser Nether Essence": 2
         }
     },
-    "Bracer - Lesser Deflection": {
+    "Bracer Lesser Deflection": {
         "ID":       13646,
         "Learn":    170,
         "Yellow":   190,
@@ -320,7 +361,7 @@ recipes = {
 			"Soul Dust": 2
         }
     },
-    "Bracer - Lesser Intellect": {
+    "Bracer Lesser Intellect": {
         "ID":       13622,
         "Learn":    150,
         "Yellow":   175,
@@ -331,7 +372,7 @@ recipes = {
 			"Greater Astral Essence": 2
         }
     },
-    "Bracer - Lesser Spirit": {
+    "Bracer Lesser Spirit": {
         "ID":       7859,
         "Learn":    120,
         "Yellow":   145,
@@ -343,7 +384,7 @@ recipes = {
 			"Lesser Astral Essence": 2
         }
     },
-    "Bracer - Lesser Stamina": {
+    "Bracer Lesser Stamina": {
         "ID":       13501,
         "Learn":    130,
         "Yellow":   155,
@@ -354,7 +395,7 @@ recipes = {
 			"Soul Dust": 2
         }
     },
-    "Bracer - Lesser Strength": {
+    "Bracer Lesser Strength": {
         "ID":       13536,
         "Learn":    140,
         "Yellow":   165,
@@ -366,7 +407,7 @@ recipes = {
 			"Soul Dust": 2
         }
     },
-    "Bracer - Mana Regeneration": {
+    "Bracer Mana Regeneration": {
         "ID":       23801,
         "Learn":    290,
         "Yellow":   310,
@@ -380,7 +421,7 @@ recipes = {
 			"Essence of Water": 2
         }
     },
-    "Bracer - Minor Agility": {
+    "Bracer Minor Agility": {
         "ID":       7779,
         "Learn":    80,
         "Yellow":   115,
@@ -392,7 +433,7 @@ recipes = {
 			"Greater Magic Essence": 1
         }
     },
-    "Bracer - Minor Deflect": {
+    "Bracer Minor Deflect": {
         "ID":       7428,
         "Learn":    1,
         "Yellow":   80,
@@ -404,7 +445,7 @@ recipes = {
 			"Strange Dust": 1
         }
     },
-    "Bracer - Minor Health": {
+    "Bracer Minor Health": {
         "ID":       7418,
         "Learn":    1,
         "Yellow":   70,
@@ -415,7 +456,7 @@ recipes = {
 			"Strange Dust": 1
         }
     },
-    "Bracer - Minor Spirit": {
+    "Bracer Minor Spirit": {
         "ID":       7766,
         "Learn":    60,
         "Yellow":   105,
@@ -427,7 +468,7 @@ recipes = {
 			"Lesser Magic Essence": 2
         }
     },
-    "Bracer - Minor Stamina": {
+    "Bracer Minor Stamina": {
         "ID":       7457,
         "Learn":    50,
         "Yellow":   100,
@@ -438,7 +479,7 @@ recipes = {
 			"Strange Dust": 3
         }
     },
-    "Bracer - Minor Strength": {
+    "Bracer Minor Strength": {
         "ID":       7782,
         "Learn":    80,
         "Yellow":   115,
@@ -450,7 +491,7 @@ recipes = {
 			"Strange Dust": 5
         }
     },
-    "Bracer - Spirit": {
+    "Bracer Spirit": {
         "ID":       13642,
         "Learn":    165,
         "Yellow":   185,
@@ -461,7 +502,7 @@ recipes = {
 			"Lesser Mystic Essence": 1
         }
     },
-    "Bracer - Stamina": {
+    "Bracer Stamina": {
         "ID":       13648,
         "Learn":    170,
         "Yellow":   190,
@@ -472,7 +513,7 @@ recipes = {
 			"Soul Dust": 6
         }
     },
-    "Bracer - Strength": {
+    "Bracer Strength": {
         "ID":       13661,
         "Learn":    180,
         "Yellow":   200,
@@ -483,7 +524,7 @@ recipes = {
 			"Vision Dust": 1
         }
     },
-    "Bracer - Superior Spirit": {
+    "Bracer Superior Spirit": {
         "ID":       20009,
         "Learn":    270,
         "Yellow":   290,
@@ -496,7 +537,19 @@ recipes = {
 			"Dream Dust": 10
         }
     },
-    "Bracer - Superior Strength": {
+    "Bracer Superior Stamina": {
+        "ID":       20011,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16251,
+        "Reagents": {
+			"Illusion Dust": 15
+        }
+    },
+    "Bracer Superior Strength": {
         "ID":       20010,
         "Learn":    295,
         "Yellow":   315,
@@ -537,7 +590,7 @@ recipes = {
             "Imbued Vial": 1
         }
     },
-    "Chest - Greater Health": {
+    "Chest Greater Health": {
         "ID":       13640,
         "Learn":    160,
         "Yellow":   180,
@@ -548,7 +601,7 @@ recipes = {
 			"Soul Dust": 3
         }
     },
-    "Chest - Greater Mana": {
+    "Chest Greater Mana": {
         "ID":       13663,
         "Learn":    185,
         "Yellow":   205,
@@ -559,7 +612,21 @@ recipes = {
 			"Greater Mystic Essence": 1
         }
     },
-    "Chest - Health": {
+    "Chest Greater Stats": {
+        "ID":       20025,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16253,
+        "Reagents": {
+			"Large Brilliant Shard": 4,
+            "Illusion Dust": 15,
+            "Greater Eternal Essence": 10
+        }
+    },
+    "Chest Health": {
         "ID":       7857,
         "Learn":    120,
         "Yellow":   145,
@@ -571,7 +638,7 @@ recipes = {
 			"Lesser Astral Essence": 1
         }
     },
-    "Chest - Lesser Absorption": {
+    "Chest Lesser Absorption": {
         "ID":       13538,
         "Learn":    140,
         "Yellow":   165,
@@ -584,7 +651,7 @@ recipes = {
 			"Large Glimmering Shard": 1
         }
     },
-    "Chest - Lesser Health": {
+    "Chest Lesser Health": {
         "ID":       7748,
         "Learn":    60,
         "Yellow":   105,
@@ -596,7 +663,7 @@ recipes = {
 			"Lesser Magic Essence": 2
         }
     },
-    "Chest - Lesser Mana": {
+    "Chest Lesser Mana": {
         "ID":       7776,
         "Learn":    80,
         "Yellow":   115,
@@ -609,7 +676,7 @@ recipes = {
 			"Lesser Magic Essence": 1
         }
     },
-    "Chest - Lesser Stats": {
+    "Chest Lesser Stats": {
         "ID":       13700,
         "Learn":    200,
         "Yellow":   220,
@@ -622,7 +689,7 @@ recipes = {
 			"Large Glowing Shard": 1
         }
     },
-    "Chest - Major Health": {
+    "Chest Major Health": {
         "ID":       20026,
         "Learn":    275,
         "Yellow":   295,
@@ -635,7 +702,7 @@ recipes = {
 			"Small Brilliant Shard": 1
         }
     },
-    "Chest - Major Mana": {
+    "Chest Major Mana": {
         "ID":       20028,
         "Learn":    290,
         "Yellow":   310,
@@ -648,7 +715,7 @@ recipes = {
 			"Small Brilliant Shard": 1
         }
     },
-    "Chest - Mana": {
+    "Chest Mana": {
         "ID":       13607,
         "Learn":    145,
         "Yellow":   170,
@@ -660,7 +727,7 @@ recipes = {
 			"Lesser Astral Essence": 2
         }
     },
-    "Chest - Minor Absorption": {
+    "Chest Minor Absorption": {
         "ID":       7426,
         "Learn":    40,
         "Yellow":   90,
@@ -672,7 +739,7 @@ recipes = {
 			"Lesser Magic Essence": 1
         }
     },
-    "Chest - Minor Health": {
+    "Chest Minor Health": {
         "ID":       7420,
         "Learn":    15,
         "Yellow":   70,
@@ -683,7 +750,7 @@ recipes = {
 			"Strange Dust": 1
         }
     },
-    "Chest - Minor Mana": {
+    "Chest Minor Mana": {
         "ID":       7443,
         "Learn":    20,
         "Yellow":   80,
@@ -695,7 +762,7 @@ recipes = {
 			"Lesser Magic Essence": 1
         }
     },
-    "Chest - Minor Stats": {
+    "Chest Minor Stats": {
         "ID":       13626,
         "Learn":    150,
         "Yellow":   175,
@@ -708,7 +775,7 @@ recipes = {
 			"Large Glimmering Shard": 1
         }
     },
-    "Chest - Stats": {
+    "Chest Stats": {
         "ID":       13941,
         "Learn":    245,
         "Yellow":   265,
@@ -721,7 +788,7 @@ recipes = {
 			"Greater Nether Essence": 2
         }
     },
-    "Chest - Superior Health": {
+    "Chest Superior Health": {
         "ID":       13858,
         "Learn":    220,
         "Yellow":   240,
@@ -732,7 +799,7 @@ recipes = {
 			"Vision Dust": 6
         }
     },
-    "Chest - Superior Mana": {
+    "Chest Superior Mana": {
         "ID":       13917,
         "Learn":    230,
         "Yellow":   250,
@@ -744,7 +811,7 @@ recipes = {
 			"Lesser Nether Essence": 2
         }
     },
-    "Cloak - Defense": {
+    "Cloak Defense": {
         "ID":       13635,
         "Learn":    155,
         "Yellow":   175,
@@ -756,7 +823,21 @@ recipes = {
 			"Soul Dust": 3
         }
     },
-    "Cloak - Fire Resistance": {
+    "Cloak Dodge": {
+        "ID":       25086,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20736,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Guardian Stone": 8
+        }
+    },
+    "Cloak Fire Resistance": {
         "ID":       13657,
         "Learn":    175,
         "Yellow":   195,
@@ -768,7 +849,7 @@ recipes = {
 			"Elemental Fire": 1
         }
     },
-    "Cloak - Greater Defense": {
+    "Cloak Greater Defense": {
         "ID":       13746,
         "Learn":    205,
         "Yellow":   225,
@@ -779,7 +860,35 @@ recipes = {
 			"Vision Dust": 3
         }
     },
-    "Cloak - Greater Resistance": {
+    "Cloak Greater Nature Resistance": {
+        "ID":       25082,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 20732,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Essence of Fire": 4
+        }
+    },
+    "Cloak Dodge": {
+        "ID":       25086,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20733,
+        "Reagents": {
+            "Nexus Crystal": 2,
+			"Large Brilliant Shard": 8,
+            "Living Essence": 4
+        }
+    },
+    "Cloak Greater Resistance": {
         "ID":       20014,
         "Learn":    265,
         "Yellow":   285,
@@ -796,7 +905,7 @@ recipes = {
 			"Ichor of Undeath": 1
         }
     },
-    "Cloak - Lesser Agility": {
+    "Cloak Lesser Agility": {
         "ID":       13882,
         "Learn":    225,
         "Yellow":   245,
@@ -808,7 +917,7 @@ recipes = {
 			"Lesser Nether Essence": 2
         }
     },
-    "Cloak - Lesser Fire Resistance": {
+    "Cloak Lesser Fire Resistance": {
         "ID":       7861,
         "Learn":    125,
         "Yellow":   150,
@@ -820,7 +929,7 @@ recipes = {
 			"Lesser Astral Essence": 1
         }
     },
-    "Cloak - Lesser Protection": {
+    "Cloak Lesser Protection": {
         "ID":       13421,
         "Learn":    115,
         "Yellow":   140,
@@ -832,7 +941,7 @@ recipes = {
 			"Small Glimmering Shard": 1
         }
     },
-    "Cloak - Lesser Shadow Resistance": {
+    "Cloak Lesser Shadow Resistance": {
         "ID":       13522,
         "Learn":    135,
         "Yellow":   160,
@@ -845,7 +954,7 @@ recipes = {
 			"Shadow Protection Potion": 1
         }
     },
-    "Cloak - Minor Agility": {
+    "Cloak Minor Agility": {
         "ID":       13419,
         "Learn":    110,
         "Yellow":   135,
@@ -857,7 +966,7 @@ recipes = {
 			"Lesser Astral Essence": 1
         }
     },
-    "Cloak - Minor Protection": {
+    "Cloak Minor Protection": {
         "ID":       7771,
         "Learn":    70,
         "Yellow":   110,
@@ -869,7 +978,7 @@ recipes = {
 			"Greater Magic Essence": 1
         }
     },
-    "Cloak - Minor Resistance": {
+    "Cloak Minor Resistance": {
         "ID":       7454,
         "Learn":    45,
         "Yellow":   95,
@@ -881,7 +990,7 @@ recipes = {
 			"Lesser Magic Essence": 2
         }
     },
-    "Cloak - Resistance": {
+    "Cloak Resistance": {
         "ID":       13794,
         "Learn":    205,
         "Yellow":   225,
@@ -892,7 +1001,35 @@ recipes = {
 			"Lesser Nether Essence": 1
         }
     },
-    "Cloak - Superior Defense": {
+    "Cloak Stealth": {
+        "ID":       25083,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20734,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Black Lotus": 2
+        }
+    },
+    "Cloak Subtlety": {
+        "ID":       25084,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20735,
+        "Reagents": {
+            "Nexus Crystal": 4,
+			"Large Brilliant Shard": 6,
+            "Black Diamond": 2
+        }
+    },
+    "Cloak Superior Defense": {
         "ID":       20015,
         "Learn":    285,
         "Yellow":   305,
@@ -904,7 +1041,7 @@ recipes = {
 			"Illusion Dust": 8
         }
     },
-    "Gloves - Advanced Herbalism": {
+    "Gloves Advanced Herbalism": {
         "ID":       13868,
         "Learn":    225,
         "Yellow":   245,
@@ -917,7 +1054,7 @@ recipes = {
 			"Sungrass": 3
         }
     },
-    "Gloves - Advanded Mining": {
+    "Gloves Advanded Mining": {
         "ID":       13841,
         "Learn":    215,
         "Yellow":   235,
@@ -930,7 +1067,7 @@ recipes = {
 			"Truesilver Bar": 3
         }
     },
-    "Gloves - Agility": {
+    "Gloves Agility": {
         "ID":       13815,
         "Learn":    210,
         "Yellow":   230,
@@ -942,7 +1079,21 @@ recipes = {
 			"Vision Dust": 1
         }
     },
-    "Gloves - Fishing": {
+    "Gloves Fire Power": {
+        "ID":       25078,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20729,
+        "Reagents": {
+            "Nexus Crystal": 2,
+			"Large Brilliant Shard": 10,
+            "Essence of Fire": 4
+        }
+    },
+    "Gloves Fishing": {
         "ID":       13620,
         "Learn":    145,
         "Yellow":   170,
@@ -955,7 +1106,21 @@ recipes = {
 			"Blackmouth Oil": 3
         }
     },
-    "Gloves - Greater Agility": {
+    "Gloves Frost Power": {
+        "ID":       25074,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20728,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 10,
+            "Essence of Water": 4
+        }
+    },
+    "Gloves Greater Agility": {
         "ID":       20012,
         "Learn":    270,
         "Yellow":   290,
@@ -968,7 +1133,7 @@ recipes = {
 			"Illusion Dust": 3
         }
     },
-    "Gloves - Greater Strength": {
+    "Gloves Greater Strength": {
         "ID":       20013,
         "Learn":    295,
         "Yellow":   315,
@@ -981,7 +1146,21 @@ recipes = {
 			"Illusion Dust": 4
         }
     },
-    "Gloves - Herbalism": {
+    "Gloves Healing Power": {
+        "ID":       25079,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20730,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Righteous Orb": 1
+        }
+    },
+    "Gloves Herbalism": {
         "ID":       13617,
         "Learn":    145,
         "Yellow":   170,
@@ -994,7 +1173,7 @@ recipes = {
 			"Kingsblood": 3
         }
     },
-    "Gloves - Mining": {
+    "Gloves Mining": {
         "ID":       13612,
         "Learn":    145,
         "Yellow":   170,
@@ -1007,7 +1186,7 @@ recipes = {
 			"Iron Ore": 3
         }
     },
-    "Gloves - Minor Haste": {
+    "Gloves Minor Haste": {
         "ID":       13948,
         "Learn":    250,
         "Yellow":   270,
@@ -1019,7 +1198,7 @@ recipes = {
 			"Wildvine": 2
         }
     },
-    "Gloves - Riding Skill": {
+    "Gloves Riding Skill": {
         "ID":       13947,
         "Learn":    250,
         "Yellow":   270,
@@ -1032,7 +1211,21 @@ recipes = {
 			"Dream Dust": 3
         }
     },
-    "Gloves - Skinning": {
+    "Gloves Shadow Power": {
+        "ID":       25073,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20727,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 10,
+            "Essence of Undeath": 6
+        }
+    },
+    "Gloves Skinning": {
         "ID":       13698,
         "Learn":    200,
         "Yellow":   220,
@@ -1045,7 +1238,7 @@ recipes = {
 			"Green Whelp Scale": 3
         }
     },
-    "Gloves - Strength": {
+    "Gloves Strength": {
         "ID":       13887,
         "Learn":    225,
         "Yellow":   245,
@@ -1057,7 +1250,35 @@ recipes = {
 			"Vision Dust": 3
         }
     },
-    "Shield - Frost Resistance": {
+    "Gloves Superior Agility": {
+        "ID":       25080,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20731,
+        "Reagents": {
+            "Nexus Crystal": 3,
+			"Large Brilliant Shard": 8,
+            "Essence of Air": 4
+        }
+    },
+    "Gloves Threat": {
+        "ID":       25072,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 20726,
+        "Reagents": {
+            "Nexus Crystal": 4,
+			"Large Brilliant Shard": 6,
+            "Larval Acid": 8
+        }
+    },
+    "Shield Frost Resistance": {
         "ID":       13933,
         "Learn":    235,
         "Yellow":   255,
@@ -1070,7 +1291,7 @@ recipes = {
 			"Frost Oil": 1
         }
     },
-    "Shield - Greater Spirit": {
+    "Shield Greater Spirit": {
         "ID":       13905,
         "Learn":    230,
         "Yellow":   250,
@@ -1082,7 +1303,7 @@ recipes = {
 			"Dream Dust": 2
         }
     },
-    "Shield - Greater Stamina": {
+    "Shield Greater Stamina": {
         "ID":       20017,
         "Learn":    265,
         "Yellow":   285,
@@ -1094,7 +1315,7 @@ recipes = {
 			"Dream Dust": 10
         }
     },
-    "Shield - Lesser Block": {
+    "Shield Lesser Block": {
         "ID":       13689,
         "Learn":    195,
         "Yellow":   215,
@@ -1108,7 +1329,7 @@ recipes = {
 			"Large Glowing Shard": 1
         }
     },
-    "Shield - Lesser Protection": {
+    "Shield Lesser Protection": {
         "ID":       13464,
         "Learn":    115,
         "Yellow":   140,
@@ -1122,7 +1343,7 @@ recipes = {
 			"Small Glimmering Shard": 1
         }
     },
-    "Shield - Lesser Spirit": {
+    "Shield Lesser Spirit": {
         "ID":       13485,
         "Learn":    130,
         "Yellow":   155,
@@ -1134,7 +1355,7 @@ recipes = {
 			"Strange Dust": 4
         }
     },
-    "Shield - Lesser Stamina": {
+    "Shield Lesser Stamina": {
         "ID":       13631,
         "Learn":    155,
         "Yellow":   175,
@@ -1146,7 +1367,7 @@ recipes = {
 			"Soul Dust": 1
         }
     },
-    "Shield - Minor Stamina": {
+    "Shield Minor Stamina": {
         "ID":       13378,
         "Learn":    105,
         "Yellow":   130,
@@ -1158,7 +1379,7 @@ recipes = {
 			"Strange Dust": 2
         }
     },
-    "Shield - Spirit": {
+    "Shield Spirit": {
         "ID":       13659,
         "Learn":    180,
         "Yellow":   200,
@@ -1170,7 +1391,7 @@ recipes = {
 			"Vision Dust": 1
         }
     },
-    "Shield - Stamina": {
+    "Shield Stamina": {
         "ID":       13817,
         "Learn":    210,
         "Yellow":   230,
@@ -1182,7 +1403,7 @@ recipes = {
 			"Vision Dust": 5
         }
     },
-    "Shield - Superior Spirit": {
+    "Shield Superior Spirit": {
         "ID":       20016,
         "Learn":    280,
         "Yellow":   300,
@@ -1195,7 +1416,7 @@ recipes = {
 			"Illusion Dust": 4
         }
     },
-    "Weapon - Agility": {
+    "Weapon Agility": {
         "ID":       23800,
         "Learn":    290,
         "Yellow":   310,
@@ -1210,7 +1431,20 @@ recipes = {
 			"Essence of Air": 2
         }
     },
-    "Weapon - Demonslaying": {
+    "Weapon Crusader": {
+        "ID":       20034,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16252,
+        "Reagents": {
+			"Large Brilliant Shard": 4,
+			"Righteous Orb": 2
+        }
+    },
+    "Weapon Demonslaying": {
         "ID":       13915,
         "Learn":    230,
         "Yellow":   250,
@@ -1224,7 +1458,7 @@ recipes = {
 			"Elixir of Demonslaying": 1
         }
     },
-    "Weapon - Fiery Weapon": {
+    "Weapon Fiery Weapon": {
         "ID":       13898,
         "Learn":    265,
         "Yellow":   285,
@@ -1237,7 +1471,7 @@ recipes = {
 			"Essence of Fire": 1
         }
     },
-    "Weapon - Greater Striking": {
+    "Weapon Greater Striking": {
         "ID":       13943,
         "Learn":    245,
         "Yellow":   265,
@@ -1249,7 +1483,23 @@ recipes = {
 			"Greater Nether Essence": 2
         }
     },
-    "Weapon - Icy Chill": {
+    "Weapon Healing Power": {
+        "ID":       22750,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 18260,
+        "Reagents": {
+			"Large Brilliant Shard": 4,
+            "Greater Eternal Essence": 8,
+            "Living Essence": 6,
+            "Essence of Water": 6,
+			"Righteous Orb": 1
+        }
+    },
+    "Weapon Icy Chill": {
         "ID":       20029,
         "Learn":    285,
         "Yellow":   305,
@@ -1264,7 +1514,7 @@ recipes = {
 			"Icecap": 1
         }
     },
-    "Weapon - Lesser Beastslaying": {
+    "Weapon Lesser Beastslaying": {
         "ID":       13653,
         "Learn":    175,
         "Yellow":   195,
@@ -1278,7 +1528,7 @@ recipes = {
 			"Small Glowing Shard": 1
         }
     },
-    "Weapon - Lesser Elemental Slayer": {
+    "Weapon Lesser Elemental Slayer": {
         "ID":       13655,
         "Learn":    175,
         "Yellow":   195,
@@ -1292,7 +1542,7 @@ recipes = {
 			"Small Glowing Shard": 1
         }
     },
-    "Weapon - Lesser Striking": {
+    "Weapon Lesser Striking": {
         "ID":       13503,
         "Learn":    140,
         "Yellow":   165,
@@ -1304,7 +1554,49 @@ recipes = {
 			"Large Glimmering Shard": 1
         }
     },
-    "Weapon - Minor Beastslayer": {
+    "Weapon Lifestealing": {
+        "ID":       20032,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16254,
+        "Reagents": {
+			"Large Brilliant Shard": 6,
+            "Essence of Undeath": 6,
+			"Living Essence": 6
+        }
+    },
+    "Weapon Mighty Intellect": {
+        "ID":       23804,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 19449,
+        "Reagents": {
+			"Large Brilliant Shard": 15,
+            "Greater Eternal Essence": 12,
+			"Illusion Dust": 20
+        }
+    },
+    "Weapon Mighty Spirit": {
+        "ID":       23803,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 19448,
+        "Reagents": {
+			"Large Brilliant Shard": 10,
+            "Greater Eternal Essence": 8,
+			"Illusion Dust": 15
+        }
+    },
+    "Weapon Minor Beastslayer": {
         "ID":       7786,
         "Learn":    90,
         "Yellow":   120,
@@ -1317,7 +1609,7 @@ recipes = {
 			"Greater Magic Essence": 2
         }
     },
-    "Weapon - Minor Striking": {
+    "Weapon Minor Striking": {
         "ID":       7788,
         "Learn":    90,
         "Yellow":   120,
@@ -1330,7 +1622,24 @@ recipes = {
 			"Small Glimmering Shard": 1
         }
     },
-    "Weapon - Strength": {
+    "Weapon Spell Power": {
+        "ID":       22749,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 18259,
+        "Reagents": {
+			"Large Brilliant Shard": 4,
+            "Greater Eternal Essence": 12,
+            "Essence of Fire": 4,
+            "Essence of Water": 4,
+            "Essence of Air": 4,
+			"Golden Pearl": 2
+        }
+    },
+    "Weapon Strength": {
         "ID":       23799,
         "Learn":    290,
         "Yellow":   310,
@@ -1345,7 +1654,7 @@ recipes = {
 			"Essence of Earth": 2
         }
     },
-    "Weapon - Striking": {
+    "Weapon Striking": {
         "ID":       13693,
         "Learn":    195,
         "Yellow":   215,
@@ -1357,7 +1666,20 @@ recipes = {
 			"Large Glowing Shard": 1
         }
     },
-    "Weapon - Unholy Weapon": {
+    "Weapon Superior Striking": {
+        "ID":       20031,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    340,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 16250,
+        "Reagents": {
+			"Large Brilliant Shard": 2,
+			"Greater Eternal Essence": 10
+        }
+    },
+    "Weapon Unholy Weapon": {
         "ID":       20033,
         "Learn":    295,
         "Yellow":   315,
@@ -1370,7 +1692,7 @@ recipes = {
 			"Essence of Undeath": 4
         }
     },
-    "Weapon - Winters Might": {
+    "Weapon Winters Might": {
         "ID":       21931,
         "Learn":    190,
         "Yellow":   210,

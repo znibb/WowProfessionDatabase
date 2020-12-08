@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 craftList = {
     "Brightcloth Pants": {
         "Amount": 6,
@@ -11,7 +13,7 @@ craftList = {
     },
     "Flask of Petrification": {
         "Amount": 1,
-        "ID": 9203,
+        "ID": 13506,
         "Writ": 22621
     },
     "Gnomish Battle Chicken": {

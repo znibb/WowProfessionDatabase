@@ -898,6 +898,9 @@ recipes = {
     }
 }
 
+# Sort dictionary by key
+recipes = {k: recipes[k] for k in sorted(recipes)}
+
 import json
 with open('jewelcrafting.json', 'w') as jsonFile:
     json.dump(recipes, jsonFile)

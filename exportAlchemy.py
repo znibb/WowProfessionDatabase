@@ -1018,9 +1018,9 @@ recipes = {
     },
     "Minor Rejuvenation Potion": {
         "ID":       2456,
-        "Learn":    25,
-        "Yellow":   65,
-        "Green":    85,
+        "Learn":    40,
+        "Yellow":   70,
+        "Green":    90,
         "Grey":     110,
         "Source":   "Trainer",
         "Reagents": {

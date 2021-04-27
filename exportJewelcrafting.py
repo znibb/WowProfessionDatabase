@@ -115,7 +115,7 @@ recipes = {
         "Grey":     90,
         "Source":   "Trainer",
         "Reagents": {
-            "Broze Bar": 2
+            "Bronze Bar": 2
         }
     },
     "Coarse Stone Statue": {

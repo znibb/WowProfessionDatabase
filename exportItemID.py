@@ -236,7 +236,7 @@ items = {
     "Minor Healing Potion": 118,
     "Mithril Bar": 3860,
     "Mithril Casing": 10561,
-    "Mithril Filigree": 25615,
+    "Mithril Filigree": 20963,
     "Mithril Ore": 3858,
     "Mithril Tube": 10559,
     "Mooncloth": 14342,

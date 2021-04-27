@@ -623,7 +623,7 @@ recipes = {
         "Yellow":   280,
         "Green":    292,
         "Grey":     305,
-        "Source":   "Vendor",
+        "Source":   "Quest",
         "RecipeID": 8030,
         "Reagents": {
             "Mithril Bar": 12,

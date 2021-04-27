@@ -1617,7 +1617,7 @@ recipes = {
         "Yellow":   300,
         "Green":    312,
         "Grey":     325,
-        "Source":   "Vendor",
+        "Source":   "Quest",
         "RecipeID": 12819,
         "Reagents": {
             "Thorium Bar": 20,

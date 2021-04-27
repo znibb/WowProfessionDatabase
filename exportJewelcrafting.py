@@ -43,7 +43,7 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Delicate Copper Wire": 2,
-			"Coper Bar": 1
+			"Copper Bar": 1
         }
     },
     "Heavy Copper Ring": {

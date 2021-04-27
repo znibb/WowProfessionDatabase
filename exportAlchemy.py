@@ -914,7 +914,7 @@ recipes = {
         "Yellow":   310,
         "Green":    325,
         "Grey":     345,
-        "Source":   "Vendor",
+        "Source":   "Quest",
         "RecipeID": 13501,
         "Reagents": {
             "Dreamfoil": 3,

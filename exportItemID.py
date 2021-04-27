@@ -149,6 +149,7 @@ items = {
     "Greater Astral Essence": 11082,
     "Greater Eternal Essence": 16203,
     "Greater Magic Essence": 10939,
+    "Greater Mana Potion": 6149,
     "Greater Mystic Essence": 11135,
     "Greater Nether Essence": 11175,
     "Green Dragonscale": 15412,

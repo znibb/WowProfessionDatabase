@@ -39,6 +39,20 @@ recipes = {
             "Leaded Vial": 1
         }
     },
+    "Destruction Potion": {
+        "ID":       22839,
+        "Learn":    350,
+        "Yellow":   365,
+        "Green":    372,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 22914,
+        "Reagents": {
+            "Nightmare Vine": 2,
+            "Netherbloom": 1,
+            "Imbued Vial": 1
+        }
+    },
     "Discolored Healing Potion": {
         "ID":       4596,
         "Learn":    50,
@@ -64,6 +78,20 @@ recipes = {
         "Reagents": {
             "Purple Lotus": 3,
             "Crystal Vial": 1
+        }
+    },
+    "Earthen Elixir": {
+        "ID":       32063,
+        "Learn":    320,
+        "Yellow":   335,
+        "Green":    342,
+        "Grey":     350,
+        "Source":   "Vendor",
+        "RecipeID": 32070,
+        "Reagents": {
+            "Dreaming Glory": 1,
+            "Ragveil": 2,
+            "Imbued Vial": 1
         }
     },
     "Elixir of Agility": {
@@ -92,6 +120,20 @@ recipes = {
             "Gromsblood": 2,
             "Plaguebloom": 2,
             "Crystal Vial": 1
+        }
+    },
+    "Elixir of Camouflage": {
+        "ID":       22823,
+        "Learn":    305,
+        "Yellow":   320,
+        "Green":    327,
+        "Grey":     335,
+        "Source":   "VendorLimited",
+        "RecipeID": 22900,
+        "Reagents": {
+            "Ragveil": 1,
+            "Felweed": 1,
+            "Imbued Vial": 1
         }
     },
     "Elixir of Defence": {
@@ -170,6 +212,20 @@ recipes = {
         "Reagents": {
             "Purple Lotus": 3,
             "Crystal Vial": 1
+        }
+    },
+    "Elixir of Empowerment": {
+        "ID":       22848,
+        "Learn":    365,
+        "Yellow":   380,
+        "Green":    387,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 22926,
+        "Reagents": {
+            "Netherbloom": 1,
+            "Mana Thistle": 1,
+            "Imbued Vial": 1
         }
     },
     "Elixir of Firepower": {
@@ -306,6 +362,20 @@ recipes = {
             "Crystal Vial": 1
         }
     },
+    "Elixir of Ironskin": {
+        "ID":       32068,
+        "Learn":    330,
+        "Yellow":   345,
+        "Green":    352,
+        "Grey":     360,
+        "Source":   "Quest",
+        "RecipeID": 32071,
+        "Reagents": {
+            "Ancient Lichen": 1,
+            "Ragveil": 1,
+            "Imbued Vial": 1
+        }
+    },
     "Elixir of Lesser Agility": {
         "ID":       3390,
         "Learn":    140,
@@ -331,6 +401,90 @@ recipes = {
             "Earthroot": 1,
             "Silverleaf": 1,
             "Empty Vial": 1
+        }
+    },
+    "Elixir of Major Agility": {
+        "ID":       22831,
+        "Learn":    330,
+        "Yellow":   345,
+        "Green":    352,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 24001,
+        "Reagents": {
+            "Terocone": 1,
+            "Felweed": 2,
+            "Imbued Vial": 1
+        }
+    },
+    "Elixir of Major Defense": {
+        "ID":       22834,
+        "Learn":    345,
+        "Yellow":   360,
+        "Green":    367,
+        "Grey":     375,
+        "Source":   "VendorLimited",
+        "RecipeID": 22909,
+        "Reagents": {
+            "Ancient Lichen": 3,
+            "Terocone": 1,
+            "Imbued Vial": 1
+        }
+    },
+    "Elixir of Major Firepower": {
+        "ID":       22833,
+        "Learn":    345,
+        "Yellow":   360,
+        "Green":    367,
+        "Grey":     375,
+        "Source":   "Reputation",
+        "RecipeID": 22908,
+        "Reagents": {
+            "Mote of Fire": 2,
+            "Ancient Lichen": 1,
+            "Imbued Vial": 1
+        }
+    },
+    "Elixir of Major Frost Power": {
+        "ID":       22827,
+        "Learn":    320,
+        "Yellow":   335,
+        "Green":    342,
+        "Grey":     350,
+        "Source":   "VendorLimited",
+        "RecipeID": 22902,
+        "Reagents": {
+            "Mote of Water": 2,
+            "Ancient Lichen": 1,
+            "Imbued Vial": 1
+        }
+    },
+    "Elixir of Major Mageblood": {
+        "ID":       22840,
+        "Learn":    355,
+        "Yellow":   370,
+        "Green":    377,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 22919,
+        "Reagents": {
+            "Ancient Lichen": 1,
+            "Netherbloom": 1,
+            "Imbued Vial": 1
+        }
+    },
+    "Elixir of Major Shadowpower": {
+        "ID":       22835,
+        "Learn":    350,
+        "Yellow":   365,
+        "Green":    372,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 22910,
+        "Reagents": {
+            "Ancient Lichen": 1,
+            "Nightmare Vine": 1,
+            "Imbued Vial": 1
         }
     },
     "Elixir of Minor Agility": {
@@ -455,6 +609,20 @@ recipes = {
             "Crystal Vial": 1
         }
     },
+    "Elixir of the Searching Eye": {
+        "ID":       22830,
+        "Learn":    325,
+        "Yellow":   340,
+        "Green":    347,
+        "Grey":     355,
+        "Source":   "Drop",
+        "RecipeID": 22904,
+        "Reagents": {
+            "Ragveil": 2,
+            "Terocone": 1,
+            "Imbued Vial": 1
+        }
+    },
     "Elixir of Water Breathing": {
         "ID":       5996,
         "Learn":    90,
@@ -479,6 +647,48 @@ recipes = {
             "Mageroyal": 1,
             "Briarthorn": 2,
             "Empty Vial": 1
+        }
+    },
+    "Fel Mana Potion": {
+        "ID":       31677,
+        "Learn":    360,
+        "Yellow":   375,
+        "Green":    382,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 31682,
+        "Reagents": {
+            "Mana Thistle": 2,
+            "Nightmare Vine": 2,
+            "Imbued Vial": 1
+        }
+    },
+    "Fel Regeneration Potion": {
+        "ID":       31676,
+        "Learn":    345,
+        "Yellow":   360,
+        "Green":    367,
+        "Grey":     375,
+        "Source":   "Drop",
+        "RecipeID": 31681,
+        "Reagents": {
+            "Felweed": 2,
+            "Nightmare Vine": 3,
+            "Imbued Vial": 1
+        }
+    },
+    "Fel Strength Elixir": {
+        "ID":       31679,
+        "Learn":    335,
+        "Yellow":   350,
+        "Green":    357,
+        "Grey":     365,
+        "Source":   "Drop",
+        "RecipeID": 31680,
+        "Reagents": {
+            "Terocone": 1,
+            "Nightmare Vine": 2,
+            "Imbued Vial": 1
         }
     },
     "Fire Oil": {
@@ -743,6 +953,20 @@ recipes = {
             "Crystal Vial": 1
         }
     },
+    "Haste Potion": {
+        "ID":       22838,
+        "Learn":    350,
+        "Yellow":   365,
+        "Green":    372,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 22913,
+        "Reagents": {
+            "Terocone": 2,
+            "Netherbloom": 1,
+            "Crystal Vial": 1
+        }
+    },
     "Healing Potion": {
         "ID":       929,
         "Learn":    110,
@@ -768,6 +992,19 @@ recipes = {
             "Bruiseweed": 1,
             "Swiftthistle": 1,
             "Empty Vial": 1
+        }
+    },
+    "Insane Strength Potion": {
+        "ID":       22828,
+        "Learn":    320,
+        "Yellow":   335,
+        "Green":    342,
+        "Grey":     350,
+        "Source":   "Drop",
+        "RecipeID": 22903,
+        "Reagents": {
+            "Terocone": 3,
+            "Imbued Vial": 1
         }
     },
     "Invisibility Potion": {
@@ -894,6 +1131,62 @@ recipes = {
             "Crystal Vial": 1
         }
     },
+    "Major Arcane Protection Potion": {
+        "ID":       22845,
+        "Learn":    360,
+        "Yellow":   375,
+        "Green":    382,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22923,
+        "Reagents": {
+            "Primal Mana": 1,
+            "Mana Thistle": 3,
+            "Imbued Vial": 5
+        }
+    },
+    "Major Dreamless Sleep Potion": {
+        "ID":       22836,
+        "Learn":    350,
+        "Yellow":   365,
+        "Green":    372,
+        "Grey":     380,
+        "Source":   "VendorLimited",
+        "RecipeID": 22911,
+        "Reagents": {
+            "Dreaming Glory": 1,
+            "Nightmare Vine": 1,
+            "Imbued Vial": 5
+        }
+    },
+    "Major Fire Protection Potion": {
+        "ID":       22841,
+        "Learn":    360,
+        "Yellow":   375,
+        "Green":    382,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22920,
+        "Reagents": {
+            "Primal Fire": 1,
+            "Mana Thistle": 3,
+            "Imbued Vial": 5
+        }
+    },
+    "Major Frost Protection Potion": {
+        "ID":       22921,
+        "Learn":    360,
+        "Yellow":   375,
+        "Green":    382,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22921,
+        "Reagents": {
+            "Primal Water": 1,
+            "Mana Thistle": 3,
+            "Imbued Vial": 5
+        }
+    },
     "Major Healing Potion": {
         "ID":       13446,
         "Learn":    275,
@@ -908,6 +1201,20 @@ recipes = {
             "Crystal Vial": 1
         }
     },
+    "Major Holy Protection Potion": {
+        "ID":       22847,
+        "Learn":    360,
+        "Yellow":   375,
+        "Green":    382,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22925,
+        "Reagents": {
+            "Primal Life": 1,
+            "Mana Thistle": 3,
+            "Imbued Vial": 5
+        }
+    },
     "Major Mana Potion": {
         "ID":       13444,
         "Learn":    295,
@@ -920,6 +1227,34 @@ recipes = {
             "Dreamfoil": 3,
             "Icecap": 2,
             "Crystal Vial": 1
+        }
+    },
+    "Major Nature Protection Potion": {
+        "ID":       22844,
+        "Learn":    360,
+        "Yellow":   375,
+        "Green":    382,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22922,
+        "Reagents": {
+            "Primal Life": 1,
+            "Mana Thistle": 3,
+            "Imbued Vial": 5
+        }
+    },
+    "Major Shadow Protection Potion": {
+        "ID":       33846,
+        "Learn":    360,
+        "Yellow":   375,
+        "Green":    382,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22924,
+        "Reagents": {
+            "Primal Shadow": 1,
+            "Mana Thistle": 3,
+            "Imbued Vial": 5
         }
     },
     "Major Trolls Blood Potion": {
@@ -1056,6 +1391,20 @@ recipes = {
             "Crystal Vial": 1
         }
     },
+    "Potion of Curing": {
+        "ID":       3386,
+        "Learn":    120,
+        "Yellow":   145,
+        "Green":    165,
+        "Grey":     185,
+        "Source":   "Drop",
+        "RecipeID": 3394,
+        "Reagents": {
+            "Large Venom Sac": 1,
+            "Bruiseweed": 1,
+            "Leaded Vial": 1
+        }
+    },
     "Purification Potion": {
         "ID":       13462,
         "Learn":    285,
@@ -1127,6 +1476,34 @@ recipes = {
             "Leaded Vial": 1
         }
     },
+    "Shrouding Potion": {
+        "ID":       22871,
+        "Learn":    335,
+        "Yellow":   350,
+        "Green":    357,
+        "Grey":     365,
+        "Source":   "Reputation",
+        "RecipeID": 22906,
+        "Reagents": {
+            "Ragveil": 3,
+            "Netherbloom": 1,
+            "Imbued Vial": 1
+        }
+    },
+    "Sneaking Potion": {
+        "ID":       22826,
+        "Learn":    315,
+        "Yellow":   330,
+        "Green":    337,
+        "Grey":     345,
+        "Source":   "VendorLimited",
+        "RecipeID": 22901,
+        "Reagents": {
+            "Ragveil": 2,
+            "Felweed": 1,
+            "Imbued Vial": 1
+        }
+    },
     "Stonescale Oil": {
         "ID":       13423,
         "Learn":    250,
@@ -1150,6 +1527,20 @@ recipes = {
             "Bruiseweed": 2,
             "Briarthorn": 2,
             "Leaded Vial": 1
+        }
+    },
+    "Super Mana Potion": {
+        "ID":       22832,
+        "Learn":    340,
+        "Yellow":   355,
+        "Green":    362,
+        "Grey":     370,
+        "Source":   "VendorLimited",
+        "RecipeID": 22907,
+        "Reagents": {
+            "Dreaming Glory": 2,
+            "Felweed": 1,
+            "Imbued Vial": 1
         }
     },
     "Superior Healing Potion": {

@@ -115,7 +115,7 @@ recipes = {
         "Grey":     90,
         "Source":   "Trainer",
         "Reagents": {
-            "Broze Bar": 2
+            "Bronze Bar": 2
         }
     },
     "Coarse Stone Statue": {
@@ -493,8 +493,9 @@ recipes = {
         "Grey":     240,
         "Source":   "Trainer",
         "Reagents": {
-            "Mithril Bar": 2,
-			"Citrine": 1
+            "Citrine": 1,
+            "Elemental Water": 2,
+            "Mithril Bar": 2
         }
     },
     "Citrine Pendant of Golden Healing": {

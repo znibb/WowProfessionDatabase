@@ -315,7 +315,7 @@ items = {
     "Skin of Dwarven Stout": 2596,
     "Slimy Murloc Scale": 5784,
     "Small Brilliant Shard": 14343,
-    "Small Egg": 3889,
+    "Small Egg": 6889,
     "Small Flame Sac": 4402,
     "Small Glimmering Shard": 10978,
     "Small Glowing Shard": 11138,

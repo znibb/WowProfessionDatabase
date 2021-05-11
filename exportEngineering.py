@@ -88,7 +88,8 @@ recipes = {
 			"Bronze Bar": 3,
 			"Silver Contact": 1
         },
-        "AmountCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Big Iron Bomb": {
         "ID":       4394,

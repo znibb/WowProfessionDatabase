@@ -12,7 +12,8 @@ recipes = {
             "Blindweed": 1,
             "Goldthorn": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Blackmouth Oil": {
         "ID":       6370,
@@ -24,7 +25,8 @@ recipes = {
         "Reagents": {
             "Oily Blackmouth": 2,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Catseye Elixir": {
         "ID":       10592,
@@ -37,7 +39,8 @@ recipes = {
             "Goldthorn": 1,
             "Fadeleaf": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Discolored Healing Potion": {
         "ID":       4596,
@@ -52,7 +55,8 @@ recipes = {
             "Discolored Worg Heart": 1,
             "Peacebloom": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Dreamless Sleep Potion": {
         "ID":       12190,
@@ -64,7 +68,8 @@ recipes = {
         "Reagents": {
             "Purple Lotus": 3,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Agility": {
         "ID":       8949,
@@ -77,7 +82,8 @@ recipes = {
             "Stranglekelp": 1,
             "Goldthorn": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Brute Force": {
         "ID":       13453,
@@ -92,7 +98,8 @@ recipes = {
             "Gromsblood": 2,
             "Plaguebloom": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Defence": {
         "ID":       3389,
@@ -105,7 +112,8 @@ recipes = {
             "Wild Steelbloom": 1,
             "Stranglekelp": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Demonslaying": {
         "ID":       9224,
@@ -119,7 +127,8 @@ recipes = {
             "Gromsblood": 1,
             "Ghost Mushroom": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Detect Demon": {
         "ID":       9233,
@@ -131,7 +140,8 @@ recipes = {
         "Reagents": {
             "Gromsblood": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Detect Lesser Invisibility": {
         "ID":       3828,
@@ -145,7 +155,8 @@ recipes = {
             "Khadgars Whisker": 1,
             "Fadeleaf": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Detect Undead": {
         "ID":       9154,
@@ -157,7 +168,8 @@ recipes = {
         "Reagents": {
             "Arthas Tears": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Dream Vision": {
         "ID":       9197,
@@ -170,7 +182,8 @@ recipes = {
         "Reagents": {
             "Purple Lotus": 3,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Firepower": {
         "ID":       6373,
@@ -183,7 +196,8 @@ recipes = {
             "Fire Oil": 2,
             "Kingsblood": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Fortitude": {
         "ID":       3825,
@@ -196,7 +210,8 @@ recipes = {
             "Wild Steelbloom": 1,
             "Goldthorn": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Frost Power": {
         "ID":       17708,
@@ -210,7 +225,8 @@ recipes = {
             "Wintersbite": 2,
             "Khadgars Whisker": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Giant Growth": {
         "ID":       6662,
@@ -224,7 +240,8 @@ recipes = {
             "Deviate Fish": 1,
             "Earthroot": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Giants": {
         "ID":       9206,
@@ -238,7 +255,8 @@ recipes = {
             "Sungrass": 1,
             "Gromsblood": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Greater Agility": {
         "ID":       9187,
@@ -251,7 +269,8 @@ recipes = {
             "Sungrass": 1,
             "Goldthorn": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Greater Defense": {
         "ID":       8951,
@@ -264,7 +283,8 @@ recipes = {
             "Wild Steelbloom": 1,
             "Goldthorn": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Greater Firepower": {
         "ID":       21546,
@@ -278,7 +298,8 @@ recipes = {
             "Fire Oil": 3,
             "Firebloom": 3,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    5
     },
     "Elixir of Greater Intellect": {
         "ID":       9179,
@@ -291,7 +312,8 @@ recipes = {
             "Blindweed": 1,
             "Khadgars Whisker": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Greater Water Breathing": {
         "ID":       18294,
@@ -304,7 +326,8 @@ recipes = {
             "Ichor of Undeath": 1,
             "Purple Lotus": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Lesser Agility": {
         "ID":       3390,
@@ -318,7 +341,8 @@ recipes = {
             "Wild Steelbloom": 1,
             "Swiftthistle": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Lions Strength": {
         "ID":       2454,
@@ -331,7 +355,8 @@ recipes = {
             "Earthroot": 1,
             "Silverleaf": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Minor Agility": {
         "ID":       2457,
@@ -345,7 +370,8 @@ recipes = {
             "Swiftthistle": 1,
             "Silverleaf": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Minor Defense": {
         "ID":       5997,
@@ -357,7 +383,8 @@ recipes = {
         "Reagents": {
             "Silverleaf": 2,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Minor Fortitude": {
         "ID":       2458,
@@ -370,7 +397,8 @@ recipes = {
             "Earthroot": 2,
             "Peacebloom": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Ogres Strength": {
         "ID":       3391,
@@ -384,7 +412,8 @@ recipes = {
             "Earthroot": 1,
             "Kingsblood": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Poison Resistance": {
         "ID":       3386,
@@ -398,7 +427,8 @@ recipes = {
             "Large Venom Sac": 1,
             "Bruiseweed": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Shadow Power": {
         "ID":       9264,
@@ -411,7 +441,8 @@ recipes = {
         "Reagents": {
             "Ghost Mushroom": 3,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Superior Defense": {
         "ID":       13445,
@@ -425,7 +456,8 @@ recipes = {
             "Stonescale Oil": 2,
             "Sungrass": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of the Mongoose": {
         "ID":       13452,
@@ -439,7 +471,8 @@ recipes = {
             "Mountain Silversage": 2,
             "Plaguebloom": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of the Sages": {
         "ID":       13447,
@@ -453,7 +486,8 @@ recipes = {
             "Dreamfoil": 1,
             "Plaguebloom": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Water Breathing": {
         "ID":       5996,
@@ -466,7 +500,8 @@ recipes = {
             "Stranglekelp": 1,
             "Blackmouth Oil": 2,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Elixir of Wisdom": {
         "ID":       3383,
@@ -479,7 +514,8 @@ recipes = {
             "Mageroyal": 1,
             "Briarthorn": 2,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Fire Oil": {
         "ID":       6371,
@@ -491,7 +527,8 @@ recipes = {
         "Reagents": {
             "Firefin Snapper": 2,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Fire Protection Potion": {
         "ID":       6049,
@@ -505,7 +542,8 @@ recipes = {
             "Small Flame Sac": 1,
             "Fire Oil": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Free Action Potion": {
         "ID":       5634,
@@ -519,7 +557,8 @@ recipes = {
             "Blackmouth Oil": 2,
             "Stranglekelp": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Frost Oil": {
         "ID":       3829,
@@ -533,7 +572,8 @@ recipes = {
             "Khadgars Whisker": 4,
             "Wintersbite": 2,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Frost Protection Potion": {
         "ID":       6050,
@@ -547,7 +587,8 @@ recipes = {
             "Wintersbite": 1,
             "Goldthorn": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Ghost Dye": {
         "ID":       9210,
@@ -561,7 +602,8 @@ recipes = {
             "Ghost Mushroom": 2,
             "Purple Dye": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Gift of Arthas": {
         "ID":       9088,
@@ -575,7 +617,8 @@ recipes = {
             "Arthas Tears": 1,
             "Blindweed": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Goblin Rocket Fuel": {
         "ID":       9061,
@@ -589,7 +632,8 @@ recipes = {
             "Firebloom": 1,
             "Volatile Rum": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Great Rage Potion": {
         "ID":       5633,
@@ -603,7 +647,8 @@ recipes = {
             "Large Fang": 1,
             "Kingsblood": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Arcane Elixir": {
         "ID":       13454,
@@ -617,7 +662,8 @@ recipes = {
             "Dreamfoil": 3,
             "Mountain Silversage": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Arcane Protection Potion": {
         "ID":       13461,
@@ -631,7 +677,8 @@ recipes = {
             "Dream Dust": 1,
             "Dreamfoil": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Dreamless Sleep Potion": {
         "ID":       20002,
@@ -645,7 +692,8 @@ recipes = {
             "Dreamfoil": 2,
             "Golden Sansam": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Fire Protection Potion": {
         "ID":       13457,
@@ -659,7 +707,8 @@ recipes = {
             "Elemental Fire": 1,
             "Dreamfoil": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Frost Protection Potion": {
         "ID":       13456,
@@ -673,7 +722,8 @@ recipes = {
             "Elemental Water": 1,
             "Dreamfoil": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Healing Potion": {
         "ID":       1710,
@@ -686,7 +736,8 @@ recipes = {
             "Liferoot": 1,
             "Kingsblood": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Mana Potion": {
         "ID":       6149,
@@ -699,7 +750,8 @@ recipes = {
             "Khadgars Whisker": 1,
             "Goldthorn": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Nature Protection Potion": {
         "ID":       13458,
@@ -713,7 +765,8 @@ recipes = {
             "Elemental Earth": 1,
             "Dreamfoil": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Shadow Protection Potion": {
         "ID":       13459,
@@ -727,7 +780,8 @@ recipes = {
             "Shadow Oil": 1,
             "Dreamfoil": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Stoneshield Potion": {
         "ID":       13455,
@@ -741,7 +795,8 @@ recipes = {
             "Stonescale Oil": 3,
             "Thorium Ore": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Healing Potion": {
         "ID":       929,
@@ -754,7 +809,8 @@ recipes = {
             "Bruiseweed": 1,
             "Briarthorn": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Holy Protection Potion": {
         "ID":       6051,
@@ -768,7 +824,8 @@ recipes = {
             "Bruiseweed": 1,
             "Swiftthistle": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Invisibility Potion": {
         "ID":       9172,
@@ -782,7 +839,8 @@ recipes = {
             "Ghost Mushroom": 1,
             "Sungrass": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Lesser Healing Potion": {
         "ID":       858,
@@ -794,7 +852,8 @@ recipes = {
         "Reagents": {
             "Minor Healing Potion": 1,
             "Briarthorn": 1
-        }
+        },
+        "Phase":    1
     },
     "Lesser Invisibility Potion": {
         "ID":       3823,
@@ -807,7 +866,8 @@ recipes = {
             "Fadeleaf": 1,
             "Wild Steelbloom": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Lesser Mana Potion": {
         "ID":       3385,
@@ -820,7 +880,8 @@ recipes = {
             "Mageroyal": 1,
             "Stranglekelp": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Lesser Stoneshield Potion": {
         "ID":       4623,
@@ -835,7 +896,8 @@ recipes = {
             "Mithril Ore": 1,
             "Goldthorn": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Limited Invulnerability Potion": {
         "ID":       3387,
@@ -849,7 +911,8 @@ recipes = {
             "Blindweed": 2,
             "Ghost Mushroom": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Living Action Potion": {
         "ID":       20008,
@@ -864,7 +927,8 @@ recipes = {
             "Mountain Silversage": 2,
             "Heart of the Wild": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    4
     },
     "Mageblood Potion": {
         "ID":       20007,
@@ -878,7 +942,8 @@ recipes = {
             "Dreamfoil": 1,
             "Plaguebloom": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    4
     },
     "Magic Resistance Potion": {
         "ID":       9036,
@@ -892,7 +957,8 @@ recipes = {
             "Khadgars Whisker": 1,
             "Purple Lotus": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Major Healing Potion": {
         "ID":       13446,
@@ -906,7 +972,8 @@ recipes = {
             "Golden Sansam": 2,
             "Mountain Silversage": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Major Mana Potion": {
         "ID":       13444,
@@ -920,7 +987,8 @@ recipes = {
             "Dreamfoil": 3,
             "Icecap": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Major Trolls Blood Potion": {
         "ID":       20004,
@@ -934,7 +1002,8 @@ recipes = {
             "Gromsblood": 1,
             "Plaguebloom": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    4
     },
     "Mana Potion": {
         "ID":       3827,
@@ -947,7 +1016,8 @@ recipes = {
             "Stranglekelp": 1,
             "Kingsblood": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Mighty Rage Potion": {
         "ID":       13442,
@@ -960,7 +1030,8 @@ recipes = {
         "Reagents": {
             "Gromsblood": 3,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Mighty Trolls Blood Potion": {
         "ID":       3826,
@@ -974,7 +1045,8 @@ recipes = {
             "Liferoot": 1,
             "Bruiseweed": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Minor Healing Potion": {
         "ID":       118,
@@ -987,7 +1059,8 @@ recipes = {
             "Peacebloom": 1,
             "Silverleaf": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Minor Magic Resistance Potion": {
         "ID":       3384,
@@ -1001,7 +1074,8 @@ recipes = {
             "Mageroyal": 3,
             "Wild Steelbloom": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Minor Mana Potion": {
         "ID":       2455,
@@ -1014,7 +1088,8 @@ recipes = {
             "Mageroyal": 1,
             "Silverleaf": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Minor Rejuvenation Potion": {
         "ID":       2456,
@@ -1027,7 +1102,8 @@ recipes = {
             "Mageroyal": 2,
             "Peacebloom": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Nature Protection Potion": {
         "ID":       6052,
@@ -1041,7 +1117,8 @@ recipes = {
             "Liferoot": 1,
             "Stranglekelp": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Oil of Immolation": {
         "ID":       8956,
@@ -1054,7 +1131,8 @@ recipes = {
             "Firebloom": 1,
             "Goldthorn": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Purification Potion": {
         "ID":       13462,
@@ -1068,7 +1146,8 @@ recipes = {
             "Icecap": 2,
             "Plaguebloom": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Rage Potion": {
         "ID":       5631,
@@ -1082,7 +1161,8 @@ recipes = {
             "Sharp Claw": 1,
             "Briarthorn": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Restorative Potion": {
         "ID":       9030,
@@ -1097,7 +1177,8 @@ recipes = {
             "Elemental Earth": 1,
             "Goldthorn": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Shadow Oil": {
         "ID":       3824,
@@ -1111,7 +1192,8 @@ recipes = {
             "Fadeleaf": 4,
             "Grave Moss": 4,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Shadow Protection Potion": {
         "ID":       6048,
@@ -1125,7 +1207,8 @@ recipes = {
             "Grave Moss": 1,
             "Kingsblood": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Stonescale Oil": {
         "ID":       13423,
@@ -1137,7 +1220,8 @@ recipes = {
         "Reagents": {
             "Stonescale Eel": 1,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Strong Trolls Blood Potion": {
         "ID":       3388,
@@ -1150,7 +1234,8 @@ recipes = {
             "Bruiseweed": 2,
             "Briarthorn": 2,
             "Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Superior Healing Potion": {
         "ID":       3928,
@@ -1163,7 +1248,8 @@ recipes = {
             "Sungrass": 1,
             "Khadgars Whisker": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Superior Mana Potion": {
         "ID":       13443,
@@ -1177,7 +1263,8 @@ recipes = {
             "Sungrass": 2,
             "Blindweed": 2,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Swiftness Potion": {
         "ID":       2459,
@@ -1191,7 +1278,8 @@ recipes = {
             "Swiftthistle": 1,
             "Briarthorn": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Swim Speed Potion": {
         "ID":       6372,
@@ -1204,7 +1292,8 @@ recipes = {
             "Swiftthistle": 1,
             "Blackmouth Oil": 1,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Weak Trolls Blood Potion": {
         "ID":       3382,
@@ -1217,7 +1306,8 @@ recipes = {
             "Peacebloom": 1,
             "Earthroot": 2,
             "Empty Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Wildvine Potion": {
         "ID":       9144,
@@ -1231,7 +1321,8 @@ recipes = {
             "Wildvine": 1,
             "Purple Lotus": 1,
             "Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
 }
 

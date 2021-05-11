@@ -13,7 +13,8 @@ recipes = {
 			"Bronze Tube": 1,
 			"Jade": 1,
 			"Citrine": 1
-        }
+        },
+        "Phase":    1
     },
 	"Advanced Target Dummy": {
         "ID":       4392,
@@ -27,7 +28,8 @@ recipes = {
 			"Bronze Framework": 1,
 			"Gyrochronatom": 1,
 			"Heavy Leather": 4
-        }
+        },
+        "Phase":    1
     },
 	"Alarm-O-Bot": {
         "ID":       18645,
@@ -44,7 +46,8 @@ recipes = {
 			"Rugged Leather": 4,
 			"Star Ruby": 1,
 			"Fused Wiring": 1
-        }
+        },
+        "Phase":    1
     },
 	"Aquadynamic Fish Attractor": {
         "ID":       6533,
@@ -58,7 +61,8 @@ recipes = {
 			"Nightcrawlers": 1,
 			"Coarse Blasting Powder": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Arclight Spanner": {
         "ID":       6219,
@@ -69,7 +73,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Copper Bar": 6
-        }
+        },
+        "Phase":    1
     },
 	"Big Bronze Bomb": {
         "ID":       4380,
@@ -83,7 +88,7 @@ recipes = {
 			"Bronze Bar": 3,
 			"Silver Contact": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3
     },
 	"Big Iron Bomb": {
         "ID":       4394,
@@ -97,7 +102,8 @@ recipes = {
 			"Heavy Blasting Powder": 3,
 			"Silver Contact": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
 	"Blue Firework": {
         "ID":       9312,
@@ -111,7 +117,8 @@ recipes = {
 			"Heavy Blasting Powder": 1,
 			"Heavy Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Blue Rocker Cluster": {
         "ID":       21571,
@@ -124,7 +131,8 @@ recipes = {
         "Reagents": {
 			"Solid Blasting Powder": 1,
 			"Thick Leather": 1
-        }
+        },
+        "Phase":    1
     },
 	"Bright-Eye Googles": {
         "ID":       10499,
@@ -137,7 +145,8 @@ recipes = {
         "Reagents": {
 			"Heavy Leather": 6,
 			"Citrine": 2
-        }
+        },
+        "Phase":    1
     },
 	"Bronze Framework": {
         "ID":       4382,
@@ -150,7 +159,8 @@ recipes = {
 			"Bronze Bar": 2,
 			"Medium Leather": 1,
 			"Wool Cloth": 1
-        }
+        },
+        "Phase":    1
     },
 	"Bronze Tube": {
         "ID":       4371,
@@ -162,7 +172,8 @@ recipes = {
         "Reagents": {
 			"Bronze Bar": 2,
 			"Weak Flux": 1
-        }
+        },
+        "Phase":    1
     },
 	"Catseye Ultra Googles": {
         "ID":       10501,
@@ -176,7 +187,8 @@ recipes = {
 			"Thick Leather": 4,
 			"Aquamarine": 2,
 			"Catseye Elixir": 1
-        }
+        },
+        "Phase":    1
     },
 	"Coarse Blasting Powder": {
         "ID":       4364,
@@ -187,7 +199,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Coarse Stone": 1
-        }
+        },
+        "Phase":    1
     },
 	"Coarse Dynamite": {
         "ID":       4365,
@@ -200,7 +213,8 @@ recipes = {
 			"Coarse Blasting Powder": 3,
 			"Linen Cloth": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
 	"Compact Harvest Reaper Kit": {
         "ID":       4391,
@@ -214,7 +228,8 @@ recipes = {
 			"Bronze Framework": 1,
 			"Gyrochronatom": 2,
 			"Heavy Leather": 4
-        }
+        },
+        "Phase":    1
     },
 	"Copper Modulator": {
         "ID":       4363,
@@ -227,7 +242,8 @@ recipes = {
 			"Handful of Copper Bolts": 2,
 			"Copper Bar": 1,
 			"Linen Cloth": 2
-        }
+        },
+        "Phase":    1
     },
 	"Copper Tube": {
         "ID":       4361,
@@ -239,7 +255,8 @@ recipes = {
         "Reagents": {
 			"Copper Bar": 2,
 			"Weak Flux": 1
-        }
+        },
+        "Phase":    1
     },
 	"Crafted Heavy Shot": {
         "ID":       8068,
@@ -252,7 +269,8 @@ recipes = {
 			"Coarse Blasting Powder": 1,
 			"Copper Bar": 1
         },
-        "AmuntCrafted": 200
+        "AmountCrafted": 200,
+        "Phase":    1
     },
 	"Crafted Light Shot": {
         "ID":       8067,
@@ -265,7 +283,8 @@ recipes = {
 			"Rough Blasting Powder": 1,
 			"Copper Bar": 1
         },
-        "AmuntCrafted": 200
+        "AmountCrafted": 200,
+        "Phase":    1
     },
 	"Crafted Solid Shot": {
         "ID":       8069,
@@ -278,7 +297,8 @@ recipes = {
 			"Heavy Blasting Powder": 1,
 			"Bronze Bar": 1
         },
-        "AmuntCrafted": 200
+        "AmountCrafted": 200,
+        "Phase":    1
     },
 	"Craftmans Monocle": {
         "ID":       4393,
@@ -291,7 +311,8 @@ recipes = {
         "Reagents": {
 			"Heavy Leather": 6,
 			"Citrine": 2
-        }
+        },
+        "Phase":    1
     },
 	"Crude Scope": {
         "ID":       4405,
@@ -304,7 +325,8 @@ recipes = {
 			"Copper Tube": 1,
 			"Malachite": 1,
 			"Handful of Copper Bolts": 1
-        }
+        },
+        "Phase":    1
     },
 	"Dark Iron Bomb": {
         "ID":       16005,
@@ -319,7 +341,8 @@ recipes = {
 			"Dark Iron Bar": 1,
 			"Dense Blasting Powder": 3,
 			"Runecloth": 3
-        }
+        },
+        "Phase":    1
     },
 	"Dark Iron Rifle": {
         "ID":       16004,
@@ -336,7 +359,8 @@ recipes = {
 			"Blue Sapphire": 2,
 			"Large Opal": 2,
 			"Rugged Leather": 4
-        }
+        },
+        "Phase":    1
     },
 	"Deadly Blunderbuss": {
         "ID":       4369,
@@ -350,7 +374,8 @@ recipes = {
 			"Handful of Copper Bolts": 4,
 			"Wooden Stock": 1,
 			"Medium Leather": 2
-        }
+        },
+        "Phase":    1
     },
 	"Deadly Scope": {
         "ID":       10546,
@@ -364,7 +389,8 @@ recipes = {
 			"Mithril Tube": 1,
 			"Aquamarine": 2,
 			"Thick Leather": 2
-        }
+        },
+        "Phase":    1
     },
 	"Deepdive Helmet": {
         "ID":       10506,
@@ -380,7 +406,8 @@ recipes = {
 			"Truesilver Bar": 1,
 			"Tigerseye": 4,
 			"Malachite": 4
-        }
+        },
+        "Phase":    1
     },
 	"Delicate Arcanite Converter": {
         "ID":       16006,
@@ -393,7 +420,8 @@ recipes = {
         "Reagents": {
 			"Arcanite Bar": 1,
 			"Ironweb Spider Silk": 1
-        }
+        },
+        "Phase":    1
     },
 	"Dense Blasting Powder": {
         "ID":       15992,
@@ -404,7 +432,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Dense Stone": 2
-        }
+        },
+        "Phase":    1
     },
 	"Dense Dynamite": {
         "ID":       18641,
@@ -417,7 +446,8 @@ recipes = {
 			"Dense Blasting Powder": 2,
 			"Runecloth": 3
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
 	"Dimensoinal Ripper - Everlook": {
         "ID":       18984,
@@ -433,7 +463,8 @@ recipes = {
 			"Heart of Fire": 4,
 			"Star Ruby": 2,
 			"The Big One": 1
-        }
+        },
+        "Phase":    1
     },
 	"Discombobulator Ray": {
         "ID":       4388,
@@ -448,7 +479,8 @@ recipes = {
 			"Silk Cloth": 2,
 			"Jade": 1,
 			"Bronze Tube": 1
-        }
+        },
+        "Phase":    1
     },
 	"Explosive Sheep": {
         "ID":       4384,
@@ -462,7 +494,8 @@ recipes = {
 			"Whirring Bronze Gizmo": 1,
 			"Heavy Blasting Powder": 2,
 			"Wool Cloth": 2
-        }
+        },
+        "Phase":    1
     },
 	"EZ-Thro Dynamite": {
         "ID":       6714,
@@ -476,7 +509,8 @@ recipes = {
 			"Coarse Blasting Powder": 4,
 			"Wool Cloth": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
 	"EZ-Thro Dynamite II": {
         "ID":       18588,
@@ -489,7 +523,8 @@ recipes = {
         "Reagents": {
 			"Solid Blasting Powder": 1,
 			"Mageweave Cloth": 2
-        }
+        },
+        "Phase":    1
     },
 	"Fire Googles": {
         "ID":       10500,
@@ -503,7 +538,8 @@ recipes = {
 			"Citrine": 2,
 			"Elemental Fire": 2,
 			"Heavy Leather": 4
-        }
+        },
+        "Phase":    1
     },
 	"Firework Cluster Launcher": {
         "ID":       21570,
@@ -518,7 +554,8 @@ recipes = {
 			"Goblin Rocket Fuel": 4,
 			"Truesilver Transformer": 2,
 			"Mithril Casing": 1
-        }
+        },
+        "Phase":    1
     },
 	"Firework Launcher": {
         "ID":       21569,
@@ -533,7 +570,8 @@ recipes = {
 			"Goblin Rocket Fuel": 1,
 			"Unstable Trigger": 1,
 			"Mithril Casing": 1
-        }
+        },
+        "Phase":    1
     },
 	"Flame Deflector": {
         "ID":       4376,
@@ -546,7 +584,8 @@ recipes = {
         "Reagents": {
 			"Whirring Bronze Gizmo": 1,
 			"Small Flame Sac": 1 
-        }
+        },
+        "Phase":    1
     },
 	"Flash Bomb": {
         "ID":       4852,
@@ -561,7 +600,8 @@ recipes = {
 			"Blue Pearl": 1,
 			"Heavy Blasting Powder": 1,
 			"Silk Cloth": 1
-        }
+        },
+        "Phase":    1
     },
 	"Flying Tiger Googles": {
         "ID":       4368,
@@ -573,7 +613,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 6,
 			"Tigerseye": 2
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Battle Chicken": {
         "ID":       10725,
@@ -590,7 +631,8 @@ recipes = {
 			"Inlaid Mithril Cylinder": 2,
 			"Gold Power Core": 1,
 			"Jade": 1
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Cloaking Device": {
         "ID":       4397,
@@ -606,7 +648,8 @@ recipes = {
 			"Lesser Moonstone": 2,
 			"Citrine": 2,
 			"Fused Wiring": 1
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Death Ray": {
         "ID":       10645,
@@ -622,7 +665,8 @@ recipes = {
 			"Essence of Undeath": 1,
 			"Ichor of Undeath": 4,
 			"Inlaid Mithril Cylinder": 1
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Goggles": {
         "ID":       10545,
@@ -638,7 +682,8 @@ recipes = {
 			"Gold Power Core": 2,
 			"Flask of Mojo": 2,
 			"Heavy Leather": 2
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Harm Prevention Belt": {
         "ID":       10721,
@@ -654,7 +699,8 @@ recipes = {
 			"Truesilver Bar": 2,
 			"Unstable Trigger": 1,
 			"Aquamarine": 2
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Mind Control Cap": {
         "ID":       10726,
@@ -670,7 +716,8 @@ recipes = {
 			"Gold Power Core": 1,
 			"Star Ruby": 2,
 			"Mageweave Cloth": 4
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Net-o-Matic Projector": {
         "ID":       10720,
@@ -686,7 +733,8 @@ recipes = {
 			"Thick Spiders Silk": 4,
 			"Solid Blasting Powder": 2,
 			"Mithril Bar": 4
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Rocket Boots": {
         "ID":       10724,
@@ -702,7 +750,8 @@ recipes = {
 			"Heavy Leather": 4,
 			"Solid Blasting Powder": 8,
 			"Gyrochronatom": 4
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Shrink Ray": {
         "ID":       10716,
@@ -718,7 +767,8 @@ recipes = {
 			"Mithril Bar": 4,
 			"Flask of Mojo": 4,
 			"Jade": 2
-        }
+        },
+        "Phase":    1
     },
 	"Gnomish Universal Remote": {
         "ID":       7506,
@@ -734,7 +784,8 @@ recipes = {
 			"Flask of Oil": 2,
 			"Tigerseye": 1,
 			"Malachite": 1
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Bomb Dispenser": {
         "ID":       10587,
@@ -750,7 +801,8 @@ recipes = {
 			"Truesilver Bar": 6,
 			"Unstable Trigger": 1,
 			"Accurate Scope": 2
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Construction Helmet": {
         "ID":       10543,
@@ -764,7 +816,8 @@ recipes = {
 			"Mithril Bar": 8,
 			"Citrine": 1,
 			"Elemental Fire": 4
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Dragon Gun": {
         "ID":       10727,
@@ -780,7 +833,8 @@ recipes = {
 			"Mithril Bar": 6,
 			"Truesilver Bar": 6,
 			"Unstable Trigger": 1
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Jumper Cables": {
         "ID":       7148,
@@ -797,7 +851,8 @@ recipes = {
 			"Silk Cloth": 2,
 			"Shadowgem": 2,
 			"Fused Wiring": 1
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Jumper Cables XL": {
         "ID":       18587,
@@ -813,7 +868,8 @@ recipes = {
 			"Fused Wiring": 2,
 			"Ironweb Spider Silk": 2,
 			"Star Ruby": 2
-        }
+        },
+        "Phase":    2
     },
 	"Goblin Land Mine": {
         "ID":       4395,
@@ -827,7 +883,8 @@ recipes = {
 			"Heavy Blasting Powder": 3,
 			"Iron Bar": 2,
 			"Gyrochronatom": 1
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Mining Helmet": {
         "ID":       10542,
@@ -841,7 +898,8 @@ recipes = {
 			"Mithril Bar": 8,
 			"Citrine": 1,
 			"Elemental Earth": 4
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Mortar": {
         "ID":       10577,
@@ -857,7 +915,8 @@ recipes = {
 			"Solid Blasting Powder": 5,
 			"Gold Power Core": 1,
 			"Elemental Fire": 1
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Rocket Boots": {
         "ID":       7189,
@@ -873,7 +932,8 @@ recipes = {
 			"Heavy Leather": 4,
 			"Goblin Rocket Fuel": 2,
 			"Unstable Trigger": 1
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Rocket Fuel Recipe": {
         "ID":       10644,
@@ -886,7 +946,8 @@ recipes = {
         "Reagents": {
 			"Blank Parchment": 1,
 			"Engineers Ink": 1
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Rocket Helmet": {
         "ID":       10588,
@@ -901,7 +962,8 @@ recipes = {
 			"Goblin Rocket Fuel": 4,
 			"Mithril Bar": 4,
 			"Unstable Trigger": 1
-        }
+        },
+        "Phase":    1
     },
 	"Goblin Sapper Charge": {
         "ID":       10646,
@@ -915,7 +977,8 @@ recipes = {
 			"Mageweave Cloth": 1,
 			"Solid Blasting Powder": 3,
 			"Unstable Trigger": 1
-        }
+        },
+        "Phase":    1
     },
 	"Gold Power Core": {
         "ID":       10558,
@@ -927,7 +990,8 @@ recipes = {
         "Reagents": {
 			"Gold Bar": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Green Firework": {
         "ID":       9313,
@@ -941,7 +1005,8 @@ recipes = {
 			"Heavy Blasting Powder": 1,
 			"Heavy Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Green Lens": {
         "ID":       10504,
@@ -956,7 +1021,8 @@ recipes = {
 			"Aquamarine": 3,
 			"Heart of the Wild": 2,
 			"Wildvine": 2
-        }
+        },
+        "Phase":    1
     },
 	"Green Rocket Cluster": {
         "ID":       21574,
@@ -969,7 +1035,8 @@ recipes = {
         "Reagents": {
 			"Solid Blasting Powder": 1,
 			"Thick Leather": 1
-        }
+        },
+        "Phase":    1
     },
 	"Green Tinted Goggles": {
         "ID":       4385,
@@ -982,7 +1049,8 @@ recipes = {
 			"Medium Leather": 4,
 			"Moss Agate": 2,
 			"Flying Tiger Goggles": 1
-        }
+        },
+        "Phase":    1
     },
 	"Gyrochronatom": {
         "ID":       4389,
@@ -994,7 +1062,8 @@ recipes = {
         "Reagents": {
 			"Iron Bar": 1,
 			"Gold Power Core": 1
-        }
+        },
+        "Phase":    1
     },
 	"Gyrofreeze Ice Reflector": {
         "ID":       18634,
@@ -1011,7 +1080,8 @@ recipes = {
 			"Essence of Fire": 4,
 			"Frost Oil": 2,
 			"Icecap": 4
-        }
+        },
+        "Phase":    1
     },
 	"Gyromatic Micro-Adjustor": {
         "ID":       10498,
@@ -1022,7 +1092,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Steel Bar": 4
-        }
+        },
+        "Phase":    1
     },
 	"Handful of Copper Bolts": {
         "ID":       4359,
@@ -1033,7 +1104,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Copper Bar": 1
-        }
+        },
+        "Phase":    1
     },
 	"Heavy Blasting Powder": {
         "ID":       4377,
@@ -1044,7 +1116,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Heavy Stone": 1
-        }
+        },
+        "Phase":    1
     },
 	"Heavy Dynamite": {
         "ID":       4378,
@@ -1057,7 +1130,8 @@ recipes = {
 			"Heavy Blasting Powder": 2,
 			"Wool Cloth": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Hi-Explosive Bomb": {
         "ID":       10562,
@@ -1071,7 +1145,8 @@ recipes = {
 			"Unstable Trigger": 1,
 			"Solid Blasting Powder": 2
         },
-        "AmuntCrafted": 4
+        "AmountCrafted": 4,
+        "Phase":    1
     },
 	"Hi-Impact Mithril Slugs": {
         "ID":       10512,
@@ -1084,7 +1159,8 @@ recipes = {
 			"Mithril Bar": 1,
 			"Solid Blasting Powder": 1
         },
-        "AmuntCrafted": 200
+        "AmountCrafted": 200,
+        "Phase":    1
     },
 	"Hyper-Radiant Flame Reflector": {
         "ID":       18638,
@@ -1100,7 +1176,8 @@ recipes = {
 			"Essence of Water": 6,
 			"Star Ruby": 4,
 			"Azerothian Diamond": 2
-        }
+        },
+        "Phase":    1
     },
 	"Ice Deflector": {
         "ID":       4386,
@@ -1113,7 +1190,8 @@ recipes = {
 		"Reagents": {
 			"Whirring Bronze Gizmo": 1,
 			"Frost Oil": 1
-        }
+        },
+        "Phase":    1
     },
 	"Inlaid Mithril Cylinder Plans": {
         "ID":       10713,
@@ -1126,7 +1204,8 @@ recipes = {
         "Reagents": {
 			"Blank Parchment": 1,
 			"Engineers Ink": 1
-        }
+        },
+        "Phase":    1
     },
 	"Iron Grenade": {
         "ID":       4390,
@@ -1140,7 +1219,8 @@ recipes = {
 			"Heavy Blasting Powder": 1,
 			"Silk Cloth": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Iron Strut": {
         "ID":       4387,
@@ -1151,7 +1231,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Iron Bar": 2
-        }
+        },
+        "Phase":    1
     },
 	"Large Blue Rocket": {
         "ID":       21589,
@@ -1165,7 +1246,8 @@ recipes = {
 			"Heavy Blasting Powder": 1,
 			"Heavy Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Large Blue Rocket Cluster": {
         "ID":       21714,
@@ -1179,7 +1261,8 @@ recipes = {
 			"Dense Blasting Powder": 1,
 			"Rugged Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Large Copper Bomb": {
         "ID":       4370,
@@ -1193,7 +1276,8 @@ recipes = {
 			"Coarse Blasting Powder": 4,
 			"Silver Contact": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Large Green Rocket": {
         "ID":       21590,
@@ -1207,7 +1291,8 @@ recipes = {
 			"Heavy Blasting Powder": 1,
 			"Heavy Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Large Green Rocket Cluster": {
         "ID":       21716,
@@ -1221,7 +1306,8 @@ recipes = {
 			"Dense Blasting Powder": 1,
 			"Rugged Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Large Red Rocket": {
         "ID":       21592,
@@ -1235,7 +1321,8 @@ recipes = {
 			"Heavy Blasting Powder": 1,
 			"Heavy Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Large Red Rocket Cluster": {
         "ID":       21718,
@@ -1249,7 +1336,8 @@ recipes = {
 			"Dense Blasting Powder": 1,
 			"Rugged Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Large Seaforium Charge": {
         "ID":       4398,
@@ -1263,7 +1351,8 @@ recipes = {
 			"Solid Blasting Powder": 2,
 			"Heavy Leather": 2,
 			"Refreshing Spring Water": 1
-        }
+        },
+        "Phase":    1
     },
 	"Lifelike Mechanical Toad": {
         "ID":       15996,
@@ -1278,7 +1367,8 @@ recipes = {
 			"Thorium Widget": 4,
 			"Gold Power Core": 1,
 			"Rugged Leather": 1
-        }
+        },
+        "Phase":    1
     },
 	"Lil Smoky": {
         "ID":       11826,
@@ -1296,7 +1386,8 @@ recipes = {
 			"Fused Wiring": 1,
 			"Mithril Bar": 2,
 			"Truesilver Bar": 1
-        }
+        },
+        "Phase":    1
     },
 	"Lovingly Crafted Boomstick": {
         "ID":       4372,
@@ -1311,7 +1402,8 @@ recipes = {
 			"Handful of Copper Bolts": 2,
 			"Heavy Stock": 1,
 			"Moss Agate": 3
-        }
+        },
+        "Phase":    1
     },
 	"Major Recombobulator": {
         "ID":       18637,
@@ -1325,7 +1417,8 @@ recipes = {
 			"Thorium Tube": 2,
 			"Truesilver Transformer": 1,
 			"Runecloth": 2
-        }
+        },
+        "Phase":    2
     },
 	"Master Engineers Goggles": {
         "ID":       16008,
@@ -1339,7 +1432,8 @@ recipes = {
 			"Fire Goggles": 1,
 			"Huge Emerald": 2,
 			"Enchanted Leather": 4
-        }
+        },
+        "Phase":    1
     },
 	"Masterwork Target Dummy": {
         "ID":       16023,
@@ -1356,7 +1450,8 @@ recipes = {
 			"Truesilver Bar": 1,
 			"Rugged Leather": 2,
 			"Runecloth": 4
-        }
+        },
+        "Phase":    1
     },
 	"Mechanical Dragonling": {
         "ID":       4396,
@@ -1372,7 +1467,8 @@ recipes = {
 			"Gyrochronatom": 4,
 			"Citrine": 2,
 			"Fused Wiring": 1
-        }
+        },
+        "Phase":    1
     },
 	"Mechanical Repair Kit": {
         "ID":       11590,
@@ -1385,7 +1481,8 @@ recipes = {
 			"Mithril Bar": 1,
 			"Mageweave Cloth": 1,
 			"Solid Blasting Powder": 1
-        }
+        },
+        "Phase":    1
     },
 	"Mechanical Squirrel": {
         "ID":       4401,
@@ -1400,7 +1497,8 @@ recipes = {
 			"Handful of Copper Bolts": 1,
 			"Copper Bar": 1,
 			"Malachite": 2
-        }
+        },
+        "Phase":    1
     },
 	"Minor Recombobulator": {
         "ID":       4381,
@@ -1415,7 +1513,8 @@ recipes = {
 			"Whirring Bronze Gizmo": 2,
 			"Medium Leather": 2,
 			"Moss Agate": 1
-        }
+        },
+        "Phase":    1
     },
 	"Mithril Blunderbuss": {
         "ID":       10508,
@@ -1430,7 +1529,8 @@ recipes = {
 			"Heavy Stock": 1,
 			"Mithril Bar": 4,
 			"Elemental Fire": 2
-        }
+        },
+        "Phase":    1
     },
 	"Mithril Casing": {
         "ID":       10561,
@@ -1441,7 +1541,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Mithril Bar": 3
-        }
+        },
+        "Phase":    1
     },
 	"Mithril Frag Bomb": {
         "ID":       10514,
@@ -1455,7 +1556,8 @@ recipes = {
 			"Unstable Trigger": 1,
 			"Solid Blasting Powder": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Mithril Gyro-Shot": {
         "ID":       10513,
@@ -1468,7 +1570,8 @@ recipes = {
 			"Mithril Bar": 2,
 			"Solid Blasting Powder": 2
         },
-        "AmuntCrafted": 200
+        "AmountCrafted": 200,
+        "Phase":    1
     },
 	"Mithril Heavy-bore Rifle": {
         "ID":       10510,
@@ -1484,7 +1587,8 @@ recipes = {
 			"Heavy Stock": 1,
 			"Mithril Bar": 6,
 			"Citrine": 2
-        }
+        },
+        "Phase":    1
     },
 	"Mithril Mechanical Dragonling": {
         "ID":       10576,
@@ -1501,7 +1605,8 @@ recipes = {
 			"Inlaid Mithril Cylinder": 2,
 			"Goblin Rocket Fuel": 2,
 			"Star Ruby": 2
-        }
+        },
+        "Phase":    1
     },
 	"Mithril Tube": {
         "ID":       10559,
@@ -1512,7 +1617,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Mithril Bar": 3
-        }
+        },
+        "Phase":    1
     },
 	"Moonsight Rifle": {
         "ID":       4383,
@@ -1527,7 +1633,8 @@ recipes = {
 			"Whirring Bronze Gizmo": 3,
 			"Heavy Stock": 1,
 			"Lesser Moonstone": 2
-        }
+        },
+        "Phase":    1
     },
 	"Ornate Spyglass": {
         "ID":       5507,
@@ -1541,7 +1648,8 @@ recipes = {
 			"Whirring Bronze Gizmo": 2,
 			"Copper Modulator": 1,
 			"Moss Agate": 1
-        }
+        },
+        "Phase":    1
     },
 	"Parachute Cloak": {
         "ID":       10518,
@@ -1556,7 +1664,8 @@ recipes = {
 			"Shadow Silk": 2,
 			"Unstable Trigger": 1,
 			"Solid Blasting Powder": 4
-        }
+        },
+        "Phase":    1
     },
 	"Pet Bombling": {
         "ID":       11825,
@@ -1573,7 +1682,8 @@ recipes = {
 			"Heart of Fire": 1,
 			"Fused Wiring": 1,
 			"Mithril Bar": 6
-        }
+        },
+        "Phase":    1
     },
 	"Portable Bronze Mortar": {
         "ID":       4403,
@@ -1588,7 +1698,8 @@ recipes = {
 			"Iron Strut": 1,
 			"Heavy Blasting Powder": 4,
 			"Medium Leather": 4
-        }
+        },
+        "Phase":    1
     },
 	"Powerful Seaforium Charge": {
         "ID":       18594,
@@ -1603,7 +1714,8 @@ recipes = {
 			"Dense Blasting Powder": 3,
 			"Rugged Leather": 2,
 			"Refreshing Spring Water": 1
-        }
+        },
+        "Phase":    1
     },
 	"Practice Lock": {
         "ID":       6712,
@@ -1616,7 +1728,8 @@ recipes = {
 			"Bronze Bar": 1,
 			"Handful of Copper Bolts": 2,
 			"Weak Flux": 1
-        }
+        },
+        "Phase":    1
     },
 	"Red Firework": {
         "ID":       9318,
@@ -1630,7 +1743,8 @@ recipes = {
 			"Heavy Blasting Powder": 1,
 			"Heavy Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Red Rocket Cluster": {
         "ID":       21576,
@@ -1643,7 +1757,8 @@ recipes = {
         "Reagents": {
 			"Solid Blasting Powder": 1,
 			"Thick Leather": 1
-        }
+        },
+        "Phase":    1
     },
 	"Rose Colored Goggles": {
         "ID":       10503,
@@ -1655,7 +1770,8 @@ recipes = {
         "Reagents": {
 			"Thick Leather": 6,
 			"Star Ruby": 2
-        }
+        },
+        "Phase":    1
     },
 	"Rough Blasting Powder": {
         "ID":       4357,
@@ -1666,7 +1782,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Rough Stone": 1
-        }
+        },
+        "Phase":    1
     },
 	"Rough Boomstick": {
         "ID":       4362,
@@ -1679,7 +1796,8 @@ recipes = {
 			"Copper Tube": 1,
 			"Handful of Copper Bolts": 1,
 			"Wooden Stock": 1
-        }
+        },
+        "Phase":    1
     },
 	"Rough Copper Bomb": {
         "ID":       4360,
@@ -1694,7 +1812,8 @@ recipes = {
 			"Rough Blasting Powder": 2,
 			"Linen Cloth": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
 	"Rough Dynamite": {
         "ID":       4358,
@@ -1707,7 +1826,8 @@ recipes = {
 			"Rough Blasting Powder": 2,
 			"Linen Cloth": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
 	"Salt Shaker": {
         "ID":       15846,
@@ -1721,7 +1841,8 @@ recipes = {
 			"Thorium Bar": 6,
 			"Gold Power Core": 1,
 			"Unstable Trigger": 4
-        }
+        },
+        "Phase":    1
     },
 	"Shadow Goggles": {
         "ID":       4373,
@@ -1734,7 +1855,8 @@ recipes = {
         "Reagents": {
 			"Medium Leather": 4,
 			"Shadowgem": 2
-        }
+        },
+        "Phase":    1
     },
 	"Silver Contact": {
         "ID":       4404,
@@ -1746,7 +1868,8 @@ recipes = {
         "Reagents": {
 			"Silver Bar": 1
         },
-        "AmuntCrafted": 5
+        "AmountCrafted": 5,
+        "Phase":    1
     },
 	"Silver-plated Shotgun": {
         "ID":       4379,
@@ -1760,7 +1883,8 @@ recipes = {
 			"Whirring Bronze Gizmo": 2,
 			"Heavy Stock": 1,
 			"Silver Bar": 3
-        }
+        },
+        "Phase":    1
     },
 	"Small Blue Rocket": {
         "ID":       21558,
@@ -1774,7 +1898,8 @@ recipes = {
 			"Coarse Blasting Powder": 1,
 			"Medium Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Small Bronze Bomb": {
         "ID":       4374,
@@ -1789,7 +1914,8 @@ recipes = {
 			"Silver Contact": 1,
 			"Wool Cloth": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
 	"Small Green Rocket": {
         "ID":       21559,
@@ -1803,7 +1929,8 @@ recipes = {
 			"Coarse Blasting Powder": 1,
 			"Medium Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Small Red Rocket": {
         "ID":       21557,
@@ -1817,7 +1944,8 @@ recipes = {
 			"Coarse Blasting Powder": 1,
 			"Medium Leather": 1
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Small Seaforium Charge": {
         "ID":       4367,
@@ -1832,7 +1960,8 @@ recipes = {
 			"Copper Modulator": 1,
 			"Light Leather": 1,
 			"Refreshing Spring Water": 1
-        }
+        },
+        "Phase":    1
     },
 	"Snake Burst Firework": {
         "ID":       19026,
@@ -1847,7 +1976,8 @@ recipes = {
 			"Runecloth": 2,
 			"Deeprock Salt": 1
         },
-        "AmuntCrafted": 4
+        "AmountCrafted": 4,
+        "Phase":    1
     },
 	"Sniper Scope": {
         "ID":       10548,
@@ -1861,7 +1991,8 @@ recipes = {
 			"Mithril Tube": 1,
 			"Star Ruby": 1,
 			"Truesilver Bar": 2
-        }
+        },
+        "Phase":    1
     },
 	"Snowmaster 9000": {
         "ID":       17716,
@@ -1876,7 +2007,8 @@ recipes = {
 			"Gyrochronatom": 4,
 			"Snowball": 4,
 			"Frost Oil": 1
-        }
+        },
+        "Phase":    1
     },
 	"Solid Blasting Powder": {
         "ID":       10505,
@@ -1887,7 +2019,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Solid Stone": 2
-        }
+        },
+        "Phase":    1
     },
 	"Solid Dynamite": {
         "ID":       10507,
@@ -1900,7 +2033,8 @@ recipes = {
 			"Solid Blasting Powder": 1,
 			"Silk Cloth": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
 	"Spellpower Goggles Xtreme": {
         "ID":       10502,
@@ -1913,7 +2047,8 @@ recipes = {
         "Reagents": {
 			"Thick Leather": 4,
 			"Star Ruby": 2
-        }
+        },
+        "Phase":    1
     },
 	"Spellpower Goggles Xtreme Plus": {
         "ID":       15999,
@@ -1928,7 +2063,8 @@ recipes = {
 			"Star Ruby": 4,
 			"Enchanted Leather": 2,
 			"Runecloth": 8
-        }
+        },
+        "Phase":    1
     },
 	"Standard Scope": {
         "ID":       4406,
@@ -1940,7 +2076,8 @@ recipes = {
         "Reagents": {
 			"Bronze Tube": 1,
 			"Moss Agate": 1
-        }
+        },
+        "Phase":    1
     },
 	"Steam Tonk Controller": {
         "ID":       22728,
@@ -1955,7 +2092,8 @@ recipes = {
 			"Thorium Widget": 2,
 			"Mithril Casing": 1,
 			"Gold Power Core": 1
-        }
+        },
+        "Phase":    3
     },
 	"Target Dummy": {
         "ID":       4366,
@@ -1969,7 +2107,8 @@ recipes = {
 			"Handful of Copper Bolts": 2,
 			"Bronze Bar": 1,
 			"Wool Cloth": 1
-        }
+        },
+        "Phase":    1
     },
 	"The Big One": {
         "ID":       10586,
@@ -1985,7 +2124,8 @@ recipes = {
 			"Solid Dynamite": 6,
 			"Unstable Trigger": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
 	"Thorium Grenade": {
         "ID":       15993,
@@ -2001,7 +2141,8 @@ recipes = {
 			"Dense Blasting Powder": 3,
 			"Runecloth": 3
         },
-        "AmuntCrafted": 3
+        "AmountCrafted": 3,
+        "Phase":    1
     },
 	"Thorium Rifle": {
         "ID":       15995,
@@ -2017,7 +2158,8 @@ recipes = {
 			"Thorium Widget": 2,
 			"Thorium Bar": 4,
 			"Deadly Scope": 1
-        }
+        },
+        "Phase":    1
     },
 	"Thorium Shells": {
         "ID":       15997,
@@ -2031,7 +2173,8 @@ recipes = {
 			"Thorium Bar": 2,
 			"Dense Blasting Powder": 1
         },
-        "AmuntCrafted": 200
+        "AmountCrafted": 200,
+        "Phase":    1
     },
 	"Thorium Tube": {
         "ID":       16000,
@@ -2043,7 +2186,8 @@ recipes = {
         "RecipeID": 16047,
         "Reagents": {
 			"Thorium Bar": 6
-        }
+        },
+        "Phase":    1
     },
 	"Thorium Widget": {
         "ID":       15994,
@@ -2056,7 +2200,8 @@ recipes = {
         "Reagents": {
 			"Thorium Bar": 3,
 			"Runecloth": 1
-        }
+        },
+        "Phase":    1
     },
 	"Tranquil Mechanical Yeti": {
         "ID":       21277,
@@ -2073,7 +2218,8 @@ recipes = {
 			"Globe of Water": 2,
 			"Truesilver Transformer": 2,
 			"Gold Power Core": 1
-        }
+        },
+        "Phase":    1
     },
 	"Truesilver Transformer": {
         "ID":       18631,
@@ -2087,7 +2233,8 @@ recipes = {
 			"Truesilver Bar": 2,
 			"Elemental Earth": 2,
 			"Elemental Air": 1
-        }
+        },
+        "Phase":    1
     },
 	"Ultrasafe Transporter - Gadgetzan": {
         "ID":       18986,
@@ -2104,7 +2251,8 @@ recipes = {
 			"Globe of Water": 2,
 			"Aquamarine": 4,
 			"Inlaid Mithril Cylinder": 1
-        }
+        },
+        "Phase":    1
     },
 	"Unstable Trigger": {
         "ID":       10560,
@@ -2117,7 +2265,8 @@ recipes = {
 			"Mithril Bar": 1,
 			"Mageweave Cloth": 1,
 			"Solid Blasting Powder": 1
-        }
+        },
+        "Phase":    1
     },
 	"Voice Amplification Modulator": {
         "ID":       16009,
@@ -2132,7 +2281,8 @@ recipes = {
 			"Gold Power Core": 1,
 			"Thorium Widget": 1,
 			"Large Opal": 1
-        }
+        },
+        "Phase":    1
     },
 	"Whirring Bronze Gizmo": {
         "ID":       4375,
@@ -2144,7 +2294,8 @@ recipes = {
         "Reagents": {
 			"Bronze Bar": 2,
 			"Wool Cloth": 1
-        }
+        },
+        "Phase":    1
     },
 	"World Enlarger": {
         "ID":       18660,
@@ -2160,7 +2311,8 @@ recipes = {
 			"Gold Power Core": 1,
 			"Unstable Trigger": 1,
 			"Citrine": 1
-        }
+        },
+        "Phase":    1
     }
 }
 

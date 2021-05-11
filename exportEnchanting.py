@@ -723,7 +723,7 @@ recipes = {
         "Yellow":   115,
         "Green":    135,
         "Grey":     155,
-        "Source":   "Vendor",
+        "Source":   "VendorLimited",
         "RecipeID": 6346,
         "Reagents": {
 			"Greater Magic Essence": 1,
@@ -817,7 +817,7 @@ recipes = {
         "Yellow":   80,
         "Green":    100,
         "Grey":     120,
-        "Source":   "Vendor",
+        "Source":   "VendorLimited",
         "RecipeID": 6342,
         "Reagents": {
 			"Lesser Magic Essence": 1
@@ -1103,7 +1103,7 @@ recipes = {
         "Yellow":   305,
         "Green":    325,
         "Grey":     345,
-        "Source":   "Vendor",
+        "Source":   "VendorLimited",
         "RecipeID": 16224,
         "Reagents": {
 			"Illusion Dust": 8
@@ -1398,7 +1398,7 @@ recipes = {
         "Yellow":   285,
         "Green":    305,
         "Grey":     325,
-        "Source":   "Vendor",
+        "Source":   "VendorLimited",
         "RecipeID": 16217,
         "Reagents": {
 			"Dream Dust": 10

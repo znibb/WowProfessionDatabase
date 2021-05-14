@@ -492,7 +492,7 @@ recipes = {
         "Source":   "VendorLimited",
 		"RecipeID": 20975,
         "Reagents": {
-            "Elemental Earth ": 2,
+            "Elemental Earth": 2,
 			"Jade": 1
         },
         "Phase":    7

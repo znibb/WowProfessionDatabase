@@ -10,7 +10,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Copper Bar": 2
-        }
+        },
+        "Phase":    7
     },
     "Rough Stone Statue": {
         "ID":       25498,
@@ -21,7 +22,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Rough Stone": 8
-        }
+        },
+        "Phase":    7
     },
     "Braided Copper Ring": {
         "ID":       20906,
@@ -32,7 +34,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Delicate Copper Wire": 2
-        }
+        },
+        "Phase":    7
     },
     "Woven Copper Ring": {
         "ID":       21931,
@@ -44,7 +47,8 @@ recipes = {
         "Reagents": {
             "Delicate Copper Wire": 2,
 			"Coper Bar": 1
-        }
+        },
+        "Phase":    7
     },
     "Heavy Copper Ring": {
         "ID":       21932,
@@ -56,7 +60,8 @@ recipes = {
         "Reagents": {
             "Copper Bar": 4,
 			"Delicate Copper Wire": 2
-        }
+        },
+        "Phase":    7
     },
     "Malachite Pendant": {
         "ID":       25438,
@@ -68,7 +73,8 @@ recipes = {
         "Reagents": {
             "Malachite": 1,
 			"Delicate Copper Wire": 1
-        }
+        },
+        "Phase":    7
     },
     "Tigerseye Band": {
         "ID":       25439,
@@ -80,7 +86,8 @@ recipes = {
         "Reagents": {
             "Tigerseye": 1,
 			"Delicate Copper Wire": 1
-        }
+        },
+        "Phase":    7
     },
     "Inlaid Malachite Ring": {
         "ID":       20821,
@@ -92,7 +99,8 @@ recipes = {
         "Reagents": {
             "Malachite": 2,
 			"Copper Bar": 2
-        }
+        },
+        "Phase":    7
     },
     "Ornate Tigerseye Necklace": {
         "ID":       21934,
@@ -105,7 +113,8 @@ recipes = {
             "Tigerseye": 2,
 			"Copper Bar": 2,
 			"Delicate Copper Wire": 1
-        }
+        },
+        "Phase":    7
     },
     "Bronze Setting": {
         "ID":       20817,
@@ -116,7 +125,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Broze Bar": 2
-        }
+        },
+        "Phase":    7
     },
     "Coarse Stone Statue": {
         "ID":       25880,
@@ -127,7 +137,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Coarse Stone": 8
-        }
+        },
+        "Phase":    7
     },
     "Elegant Silver Ring": {
         "ID":       20818,
@@ -138,7 +149,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Silver Bar": 1
-        }
+        },
+        "Phase":    7
     },
     "Solid Bronze Ring": {
         "ID":       20907,
@@ -149,7 +161,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Bronze Bar": 4
-        }
+        },
+        "Phase":    7
     },
     "Thick Bronze Necklace": {
         "ID":       21933,
@@ -162,7 +175,8 @@ recipes = {
             "Bronze Bar": 2,
 			"Shadowgem": 1,
 			"Delicate Copper Wire": 1
-        }
+        },
+        "Phase":    7
     },
     "Simple Pearl Ring": {
         "ID":       20820,
@@ -175,7 +189,8 @@ recipes = {
             "Copper Bar": 2,
 			"Small Lustrous Pearl": 1,
 			"Bronze Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Bronze Band of Force": {
         "ID":       30804,
@@ -190,7 +205,8 @@ recipes = {
 			"Bronze Bar": 2,
 			"Shadowgem": 2,
 			"Bronze Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Gloom Band": {
         "ID":       20823,
@@ -203,7 +219,8 @@ recipes = {
             "Shadowgem": 2,
 			"Delicate Copper Wire": 2,
 			"Bronze Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Brilliant Necklace": {
         "ID":       30419,
@@ -216,7 +233,8 @@ recipes = {
             "Bronze Bar": 4,
 			"Bronze Setting": 1,
 			"Moss Agate": 1
-        }
+        },
+        "Phase":    7
     },
     "Bronze Torc": {
         "ID":       21154,
@@ -229,7 +247,8 @@ recipes = {
             "Bronze Bar": 6,
 			"Bronze Setting": 1,
 			"Lesser Moonstone": 1
-        }
+        },
+        "Phase":    7
     },
     "Ring of Silver Might": {
         "ID":       20828,
@@ -240,7 +259,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Silver Bar": 2
-        }
+        },
+        "Phase":    7
     },
     "Heavy Silver Ring": {
         "ID":       20826,
@@ -254,7 +274,8 @@ recipes = {
 			"Bronze Setting": 1,
 			"Moss Agate": 1,
 			"Lesser Moonstone": 1
-        }
+        },
+        "Phase":    7
     },
     "Ring of Twilight Shadow": {
         "ID":       20828,
@@ -266,7 +287,8 @@ recipes = {
         "Reagents": {
             "Shadowgem": 2,
 			"Bronze Bar": 2
-        }
+        },
+        "Phase":    7
     },
     "Heavy Jade Ring": {
         "ID":       30420,
@@ -279,7 +301,8 @@ recipes = {
             "Iron Bar": 2,
 			"Jade": 1,
 			"Bronze Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Heavy Stone Statue": {
         "ID":       25881,
@@ -290,7 +313,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Heavy Stone": 8
-        }
+        },
+        "Phase":    7
     },
     "Amulet of the Moon": {
         "ID":       20830,
@@ -303,7 +327,8 @@ recipes = {
         "Reagents": {
             "Lesser Moonstone": 2,
 			"Bronze Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Barbaric Iron Collar": {
         "ID":       20909,
@@ -316,7 +341,8 @@ recipes = {
             "Iron Bar": 8,
 			"Large Fang": 2,
 			"Bronze Setting": 2
-        }
+        },
+        "Phase":    7
     },
     "Moonsoul Crown": {
         "ID":       20832,
@@ -331,7 +357,8 @@ recipes = {
 			"Lesser Moonstone": 3,
 			"Small Lustrous Pearl": 3,
 			"Mana Potion": 2
-        }
+        },
+        "Phase":    7
     },
     "Pendant of the Agate Shield": {
         "ID":       20950,
@@ -344,7 +371,8 @@ recipes = {
         "Reagents": {
             "Moss Agate": 1,
 			"Bronze Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Heavy Iron Knuckles": {
         "ID":       20954,
@@ -357,7 +385,8 @@ recipes = {
         "Reagents": {
             "Iron Bar": 8,
 			"Elixir of Ogres Strength": 2
-        }
+        },
+        "Phase":    7
     },
     "Wicked Moonstone Ring": {
         "ID":       20833,
@@ -371,7 +400,8 @@ recipes = {
             "Iron Bar": 4,
 			"Lesser Moonstone": 1,
 			"Shadow Oil": 1
-        }
+        },
+        "Phase":    7
     },
     "Golden Dragon Ring": {
         "ID":       20955,
@@ -384,7 +414,8 @@ recipes = {
             "Gold Bar": 2,
 			"Delicate Copper Wire": 2,
 			"Jade": 1
-        }
+        },
+        "Phase":    7
     },
     "Mithril Filigree": {
         "ID":       20963,
@@ -395,7 +426,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Mithril Bar": 2
-        }
+        },
+        "Phase":    7
     },
     "Blazing Citrine Ring": {
         "ID":       20958,
@@ -407,7 +439,8 @@ recipes = {
 		"RecipeID": 20973,
         "Reagents": {
             "Heavy Stone": 8
-        }
+        },
+        "Phase":    7
     },
     "Heavy Golden Necklace of Battle": {
         "ID":       20931,
@@ -420,7 +453,8 @@ recipes = {
             "Moss Agate": 2,
 			"Gold Bar": 1,
 			"Elixir of Ogres Strength": 1
-        }
+        },
+        "Phase":    7
     },
     "Jade Pendant of Blasting": {
         "ID":       20966,
@@ -433,7 +467,8 @@ recipes = {
         "Reagents": {
             "Mithril Filigree": 2,
 			"Jade": 1
-        }
+        },
+        "Phase":    7
     },
     "Engraved Truesilver Ring": {
         "ID":       20960,
@@ -445,7 +480,8 @@ recipes = {
         "Reagents": {
             "Mithril Filigree": 2,
 			"Truesilver Bar": 1
-        }
+        },
+        "Phase":    7
     },
     "The Jade Eye": {
         "ID":       20959,
@@ -458,7 +494,8 @@ recipes = {
         "Reagents": {
             "Elemental Earth ": 2,
 			"Jade": 1
-        }
+        },
+        "Phase":    7
     },
     "Solid Stone Statue": {
         "ID":       25882,
@@ -469,7 +506,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Solid Stone": 10
-        }
+        },
+        "Phase":    7
     },
     "Golden Ring or Power": {
         "ID":       29157,
@@ -483,7 +521,8 @@ recipes = {
 			"Jade": 1,
 			"Lesser Moonstone": 1,
 			"Citrine": 1
-        }
+        },
+        "Phase":    7
     },
     "Citrine Ring of Rapid Healing": {
         "ID":       20961,
@@ -495,7 +534,8 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 2,
 			"Citrine": 1
-        }
+        },
+        "Phase":    7
     },
     "Citrine Pendant of Golden Healing": {
         "ID":       20967,
@@ -510,7 +550,8 @@ recipes = {
 			"Gold Bar": 2,
 			"Citrine": 1,
 			"Bronze Setting":  1
-        }
+        },
+        "Phase":    7
     },
     "Amulet of Truesight": {
         "ID":       45627,
@@ -521,7 +562,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Truesilver Bar": 8
-        }
+        },
+        "Phase":    7
     },
     "Truesilver Commanders Ring": {
         "ID":       29158,
@@ -534,7 +576,8 @@ recipes = {
             "Truesilver Bar": 3,
 			"Star Ruby": 2,
 			"Citrine": 2
-        }
+        },
+        "Phase":    7
     },
     "Figurine - Golden Hare": {
         "ID":       21756,
@@ -547,7 +590,8 @@ recipes = {
         "Reagents": {
             "Gold Bar": 6,
 			"Citrine": 2
-        }
+        },
+        "Phase":    7
     },
     "Figurine - Jade Owl": {
         "ID":       21748,
@@ -561,7 +605,8 @@ recipes = {
 			"Vision Dust": 4,
 			"Mithril Filigree": 4,
 			"Truesilver Bar": 2
-        }
+        },
+        "Phase":    7
     },
     "Aquamarine Signet": {
         "ID":       20964,
@@ -573,7 +618,8 @@ recipes = {
         "Reagents": {
             "Flask of Mojo": 4,
 			"Aquamarine": 3
-        }
+        },
+        "Phase":    7
     },
     "Figurine - Black Pearl Panther": {
         "ID":       21758,
@@ -586,7 +632,8 @@ recipes = {
         "Reagents": {
             "Black Pearl": 4,
 			"Flask of Mojo": 4
-        }
+        },
+        "Phase":    7
     },
     "Aquamarine Pendant of the Warrior": {
         "ID":       21755,
@@ -598,7 +645,8 @@ recipes = {
         "Reagents": {
             "Mithril Filigree": 3,
 			"Aquamarine": 1
-        }
+        },
+        "Phase":    7
     },
     "Dense Stone Statue": {
         "ID":       25883,
@@ -609,7 +657,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Dense Stone": 10
-        }
+        },
+        "Phase":    7
     },
     "Thorium Setting": {
         "ID":       21752,
@@ -620,7 +669,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Thorium Bar": 1
-        }
+        },
+        "Phase":    7
     },
     "Figurine - Truesilver Crab": {
         "ID":       21760,
@@ -636,7 +686,8 @@ recipes = {
 			"Core of Earth": 2,
 			"Aquamarine": 2,
 			"Globe of Water": 2
-        }
+        },
+        "Phase":    7
     },
     "Ruby Crown of Restoration": {
         "ID":       20969,
@@ -652,7 +703,8 @@ recipes = {
 			"Thorium Setting": 4,
 			"Star Ruby": 2,
 			"Black Pearl": 2
-        }
+        },
+        "Phase":    7
     },
     "Red Ring of Destruction": {
         "ID":       30421,
@@ -664,7 +716,8 @@ recipes = {
         "Reagents": {
             "Star Ruby": 1,
 			"Thorium Bar": 1
-        }
+        },
+        "Phase":    7
     },
     "Figurine - Truesilver Boar": {
         "ID":       21763,
@@ -680,7 +733,8 @@ recipes = {
 			"Heart of Fire": 2,
 			"Star Ruby": 2,
 			"Breath of Wind": 2
-        }
+        },
+        "Phase":    7
     },
     "Ruby Pendant of Fire": {
         "ID":       21764,
@@ -692,7 +746,8 @@ recipes = {
         "Reagents": {
             "Star Ruby": 1,
 			"Thorium Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Truesilver Healing Ring": {
         "ID":       21765,
@@ -704,7 +759,8 @@ recipes = {
         "Reagents": {
             "Truesilver Bar": 2,
 			"Heart of the Wild": 2
-        }
+        },
+        "Phase":    7
     },
     "The Aquamarine Ward": {
         "ID":       21754,
@@ -717,7 +773,8 @@ recipes = {
         "Reagents": {
             "Aquamarine": 1,
 			"Thorium Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Gem Studded Band": {
         "ID":       21753,
@@ -732,7 +789,8 @@ recipes = {
 			"Truesilver Bar": 2,
 			"Aquamarine": 2,
 			"Citrine": 2
-        }
+        },
+        "Phase":    7
     },
     "Opal Necklace of Impact": {
         "ID":       21766,
@@ -748,7 +806,8 @@ recipes = {
 			"Large Radiant Shard": 2,
 			"Thorium Setting": 2,
 			"Mithril Filigree": 2
-        }
+        },
+        "Phase":    7
     },
     "Figurine - Ruby Serpent": {
         "ID":       21769,
@@ -763,7 +822,8 @@ recipes = {
 			"Truesilver Bar": 2,
 			"Essence of Fire": 2,
 			"Star Ruby": 2
-        }
+        },
+        "Phase":    7
     },
     "Simple Opal Ring": {
         "ID":       21767,
@@ -775,7 +835,8 @@ recipes = {
         "Reagents": {
             "Large Opal": 1,
 			"Thorium Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Diamond Focus Ring": {
         "ID":       30422,
@@ -787,7 +848,8 @@ recipes = {
         "Reagents": {
             "Azerothian Diamond": 1,
 			"Thorium Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Emerald Crown of Destruction": {
         "ID":       21774,
@@ -803,7 +865,8 @@ recipes = {
 			"Blue Sapphire": 2,
 			"Arcanite Bar": 2,
 			"Thorium Bar": 2
-        }
+        },
+        "Phase":    7
     },
     "Sapphire Signet": {
         "ID":       21768,
@@ -816,7 +879,8 @@ recipes = {
             "Truesilver Bar": 2,
 			"Blue Sapphire": 4,
 			"Thorium Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Glowing Thorium Band": {
         "ID":       29159,
@@ -828,7 +892,8 @@ recipes = {
         "Reagents": {
             "Azerothian Diamond": 2,
 			"Thorium Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Onslaught Ring": {
         "ID":       21775,
@@ -841,7 +906,8 @@ recipes = {
             "Powerful Mojo": 1,
 			"Essence of Earth": 1,
 			"Thorium Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Sapphire Pendant of Winter Night": {
         "ID":       21790,
@@ -854,7 +920,8 @@ recipes = {
             "Essence of Undeath": 1,
 			"Blue Sapphire": 1,
 			"Thorium Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Figurine - Emerald Owl": {
         "ID":       21777,
@@ -869,7 +936,8 @@ recipes = {
 			"Huge Emerald": 2,
 			"Arcanite Bar": 2,
 			"Thorium Bar": 2
-        }
+        },
+        "Phase":    7
     },
     "Emerald Lion Ring": {
         "ID":       29160,
@@ -881,7 +949,8 @@ recipes = {
         "Reagents": {
             "Huge Emerald": 2,
 			"Thorium Setting": 1
-        }
+        },
+        "Phase":    7
     },
     "Living Emerald Pendant": {
         "ID":       21791,
@@ -894,7 +963,8 @@ recipes = {
             "Powerful Mojo": 4,
 			"Living Essence": 4,
 			"Huge Emerald": 2
-        }
+        },
+        "Phase":    7
     }
 }
 

@@ -469,11 +469,11 @@ recipes = {
     },
 	"Discombobulator Ray": {
         "ID":       4388,
-        "Learn-DISABLED":    160,
+        "Learn":    160,
         "Yellow":   180,
         "Green":    190,
         "Grey":     200,
-        "Source":   "Drop",
+        "Source":   "Quest",
         "RecipeID": 4413,
         "Reagents": {
 			"Whirring Bronze Gizmo": 3,

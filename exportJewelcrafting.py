@@ -46,7 +46,7 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Delicate Copper Wire": 2,
-			"Coper Bar": 1
+			"Copper Bar": 1
         },
         "Phase":    7
     },
@@ -124,7 +124,7 @@ recipes = {
         "Grey":     90,
         "Source":   "Trainer",
         "Reagents": {
-            "Broze Bar": 2
+            "Bronze Bar": 2
         },
         "Phase":    7
     },

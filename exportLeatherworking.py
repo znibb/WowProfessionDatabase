@@ -16,7 +16,8 @@ recipes = {
 			"Great Rage Potion": 1,
 			"Silken Thread":  1,
 			"Iron Buckle": 1
-        }
+        },
+        "Phase":    1
     },
     "Barbaric Bracers": {
         "ID":       18948,
@@ -32,7 +33,8 @@ recipes = {
 			"Small Lustrous Pearl": 4,
 			"Raptor Hide": 1,
 			"Large Fang": 4
-        }
+        },
+        "Phase":    1
     },
     "Barbaric Gloves": {
         "ID":       4254,
@@ -46,7 +48,8 @@ recipes = {
 			"Heavy Leather": 6,
 			"Large Fang": 2,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Barbaric Harness": {
         "ID":       5739,
@@ -59,7 +62,8 @@ recipes = {
 			"Heavy Leather": 14,
 			"Fine Thread": 2,
 			"Iron Buckle": 1
-        }
+        },
+        "Phase":    1
     },
     "Barbaric Leggings": {
         "ID":       5963,
@@ -73,7 +77,8 @@ recipes = {
 			"Heavy Leather": 10,
 			"Fine Thread": 2,
 			"Moss Agate": 1
-        }
+        },
+        "Phase":    1
     },
     "Barbaric Shoulders": {
         "ID":       5964,
@@ -86,7 +91,8 @@ recipes = {
 			"Heavy Leather": 8,
 			"Cured Heavy Hide": 1,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Big Voodoo Cloak": {
         "ID":       8216,
@@ -100,7 +106,8 @@ recipes = {
 			"Thick Leather": 14,
 			"Flask of Big Mojo": 4,
 			"Heavy Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Big Voodoo Mask": {
         "ID":       8201,
@@ -114,7 +121,8 @@ recipes = {
 			"Thick Leather": 8,
 			"Flask of Mojo": 6,
 			"Heavy Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Big Voodoo Pants": {
         "ID":       8202,
@@ -128,7 +136,8 @@ recipes = {
 			"Thick Leather": 10,
 			"Flask of Big Mojo": 6,
 			"Heavy Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Big Voodoo Robe": {
         "ID":       8200,
@@ -142,7 +151,8 @@ recipes = {
 			"Thick Leather": 10,
 			"Flask of Mojo": 4,
 			"Heavy Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Black Dragonscale Breastplate": {
         "ID":       15050,
@@ -158,7 +168,8 @@ recipes = {
 			"Black Dragonscale": 60,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Black Whelp Cloak": {
         "ID":       7283,
@@ -173,7 +184,8 @@ recipes = {
 			"Black Whelp Scale": 12,
 			"Medium Leather": 4,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Black Whelp Tunic": {
         "ID":       20575,
@@ -189,7 +201,8 @@ recipes = {
 			"Black Whelp Scale": 8,
 			"Cured Light Hide": 1,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Blue Dragonscale Breastplate": {
         "ID":       15048,
@@ -205,7 +218,8 @@ recipes = {
 			"Blue Dragonscale": 30,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Blue Dragonscale Shoulders": {
         "ID":       15049,
@@ -222,7 +236,8 @@ recipes = {
 			"Enchanted Leather": 2,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Chimeric Boots": {
         "ID":       15073,
@@ -237,7 +252,8 @@ recipes = {
 			"Rugged Leather": 4,
 			"Chimera Leather": 8,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Chimeric Gloves": {
         "ID":       15074,
@@ -252,7 +268,8 @@ recipes = {
 			"Rugged Leather": 6,
 			"Chimera Leather": 6,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Chimeric Leggings": {
         "ID":       15072,
@@ -267,7 +284,8 @@ recipes = {
 			"Rugged Leather": 8,
 			"Chimera Leather": 8,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Chimeric Vest": {
         "ID":       15075,
@@ -282,7 +300,8 @@ recipes = {
 			"Rugged Leather": 10,
 			"Chimera Leather": 10,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Comfortable Leather Hat": {
         "ID":       8174,
@@ -296,7 +315,8 @@ recipes = {
 			"Heavy Leather": 12,
 			"Cured Heavy Hide": 2,
 			"Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Corehound Boots": {
         "ID":       16982,
@@ -312,7 +332,8 @@ recipes = {
 			"Fiery Core": 6,
 			"Lava Core": 2,
 			"Rune Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Cured Heavy Hide": {
         "ID":       4236,
@@ -324,7 +345,8 @@ recipes = {
         "Reagents": {
 			"Heavy Hide": 1,
 			"Salt": 3
-        }
+        },
+        "Phase":    1
     },
     "Cured Light Hide": {
         "ID":       4231,
@@ -336,7 +358,8 @@ recipes = {
         "Reagents": {
 			"Light Hide": 1,
 			"Salt": 1
-        }
+        },
+        "Phase":    1
     },
     "Cured Medium Hide": {
         "ID":       4233,
@@ -348,7 +371,8 @@ recipes = {
         "Reagents": {
 			"Medium Hide": 1,
 			"Salt": 1
-        }
+        },
+        "Phase":    1
     },
     "Cured Rugged Hide": {
         "ID":       15407,
@@ -360,7 +384,8 @@ recipes = {
         "Reagents": {
 			"Rugged Hide": 1,
 			"Refined Deeprock Salt": 1
-        }
+        },
+        "Phase":    1
     },
     "Cured Thick Hide": {
         "ID":       8172,
@@ -372,7 +397,8 @@ recipes = {
         "Reagents": {
 			"Thick Hide": 1,
 			"Deeprock Salt": 1
-        }
+        },
+        "Phase":    1
     },
     "Dark Leather Belt": {
         "ID":       4249,
@@ -386,7 +412,8 @@ recipes = {
 			"Cured Medium Hide": 1,
 			"Fine Thread": 2,
 			"Gray Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Dark Leather Boots": {
         "ID":       2315,
@@ -399,7 +426,8 @@ recipes = {
 			"Medium Leather": 4,
 			"Fine Thread": 2,
 			"Gray Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Dark Leather Cloak": {
         "ID":       2316,
@@ -412,7 +440,8 @@ recipes = {
 			"Medium Leather": 8,
 			"Fine Thread": 1,
 			"Gray Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Dark Leather Gloves": {
         "ID":       4248,
@@ -427,7 +456,8 @@ recipes = {
 			"Cured Medium Hide": 1,
 			"Fine Thread": 1,
 			"Gray Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Dark Leather Pants": {
         "ID":       5961,
@@ -440,7 +470,8 @@ recipes = {
 			"Medium Leather": 12,
 			"Gray Dye": 1,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Dark Leather Shoulders": {
         "ID":       4252,
@@ -455,7 +486,8 @@ recipes = {
 			"Elixir of Lesser Agility": 1,
 			"Gray Dye": 1,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Dark Leather Tunic": {
         "ID":       2317,
@@ -469,7 +501,8 @@ recipes = {
 			"Medium Leather": 6,
 			"Fine Thread": 1,
 			"Gray Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Dawn Treaders": {
         "ID":       19052,
@@ -485,7 +518,8 @@ recipes = {
 			"Essence of Water": 4,
 			"Cured Rugged Hide": 2,
 			"Rune Thread": 2
-        }
+        },
+        "Phase":    3
     },
     "Deviate Scale Belt": {
         "ID":       6468,
@@ -500,7 +534,8 @@ recipes = {
 			"Perfect Deviate Scale": 10,
 			"Deviate Scale": 10,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Deviate Scale Cloak": {
         "ID":       6466,
@@ -514,7 +549,8 @@ recipes = {
 			"Deviate Scale": 8,
 			"Cured Light Hide": 1,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Deviate Scale Gloves": {
         "ID":       6467,
@@ -528,7 +564,8 @@ recipes = {
 			"Perfect Deviate Scale": 2,
 			"Deviate Scale": 6,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Devilsaur Gauntlets": {
         "ID":       15063,
@@ -543,7 +580,8 @@ recipes = {
 			"Rugged Leather": 30,
 			"Devilsaur Leather": 8,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Dragonscale Breastplate": {
         "ID":       8367,
@@ -558,7 +596,8 @@ recipes = {
 			"Worn Dragonscale": 30,
 			"Heavy Silken Thread": 4,
 			"Cured Thick Hide": 4
-        }
+        },
+        "Phase":    1
     },
     "Dragonscale Gauntlets": {
         "ID":       8347,
@@ -573,7 +612,8 @@ recipes = {
 			"Worn Dragonscale": 12,
 			"Heavy Silken Thread": 4,
 			"Cured Thick Hide": 2
-        }
+        },
+        "Phase":    1
     },
     "Dusky Belt": {
         "ID":       7387,
@@ -587,7 +627,8 @@ recipes = {
 			"Bolt of Silk Cloth": 2,
 			"Black Dye": 2,
 			"Iron Buckle": 1
-        }
+        },
+        "Phase":    1
     },
     "Dusky Boots": {
         "ID":       7390,
@@ -602,7 +643,8 @@ recipes = {
 			"Shadowcat Hide": 2,
 			"Shadow Oil": 1,
 			"Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Dusky Bracers": {
         "ID":       7378,
@@ -615,7 +657,8 @@ recipes = {
 			"Heavy Leather": 16,
 			"Black Dye": 1,
 			"Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Dusky Leather Armor": {
         "ID":       7374,
@@ -628,7 +671,8 @@ recipes = {
 			"Heavy Leather": 10,
 			"Shadow Oil": 1,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Dusky Leather Leggings": {
         "ID":       7373,
@@ -642,7 +686,8 @@ recipes = {
 			"Heavy Leather": 10,
 			"Black Dye": 1,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Earthen Leather Shoulders": {
         "ID":       7352,
@@ -656,7 +701,8 @@ recipes = {
 			"Medium Leather": 6,
 			"Elemental Earth": 1,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Embossed Leather Boots": {
         "ID":       2309,
@@ -668,7 +714,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 8,
 			"Coarse Thread": 5
-        }
+        },
+        "Phase":    1
     },
     "Embossed Leather Cloak": {
         "ID":       2310,
@@ -680,7 +727,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 5,
 			"Coarse Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Embossed Leather Gloves": {
         "ID":       4239,
@@ -692,7 +740,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 3,
 			"Coarse Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Embossed Leather Pants": {
         "ID":       4242,
@@ -705,7 +754,8 @@ recipes = {
 			"Cured Light Hide": 1,
 			"Light Leather": 6,
 			"Coarse Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Embossed Leather Vest": {
         "ID":       2300,
@@ -717,7 +767,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 8,
 			"Coarse Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Feathered Breastplate": {
         "ID":       8349,
@@ -733,7 +784,8 @@ recipes = {
 			"Black Pearl": 2,
 			"Cured Thick Hide": 4,
 			"Heavy Silken Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Fine Leather Belt": {
         "ID":       4246,
@@ -745,7 +797,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 6,
 			"Coarse Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Fine Leather Boots": {
         "ID":       2307,
@@ -758,7 +811,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 7,
 			"Coarse Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Fine Leather Cloak": {
         "ID":       2308,
@@ -770,7 +824,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 10,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Fine Leather Gloves": {
         "ID":       2312,
@@ -784,7 +839,8 @@ recipes = {
 			"Cured Light Hide": 1,
 			"Light Leather": 4,
 			"Coarse Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Fine Leather Pants": {
         "ID":       5958,
@@ -798,7 +854,8 @@ recipes = {
 			"Medium Leather": 8,
 			"Bolt of Woolen Cloth": 1,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Fine Leather Tunic": {
         "ID":       4243,
@@ -811,7 +868,8 @@ recipes = {
 			"Cured Light Hide": 3,
 			"Light Leather": 6,
 			"Coarse Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Fletchers Gloves": {
         "ID":       7348,
@@ -824,7 +882,8 @@ recipes = {
 			"Medium Leather": 8,
 			"Long Tail Feather": 4,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Frost Leather Cloak": {
         "ID":       7377,
@@ -838,7 +897,8 @@ recipes = {
 			"Elemental Earth": 2,
 			"Elemental Water": 2,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Frostsaber Boots": {
         "ID":       15071,
@@ -853,7 +913,8 @@ recipes = {
 			"Rugged Leather": 4,
 			"Frostsaber Leather": 6,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Frostsaber Gloves": {
         "ID":       15070,
@@ -868,7 +929,8 @@ recipes = {
 			"Rugged Leather": 6,
 			"Frostsaber Leather": 10,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Frostsaber Leggings": {
         "ID":       15069,
@@ -883,7 +945,8 @@ recipes = {
 			"Rugged Leather": 6,
 			"Frostsaber Leather": 8,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Gauntlets of the Sea": {
         "ID":       8346,
@@ -900,7 +963,8 @@ recipes = {
 			"Core of Earth": 2,
 			"Cured Thick Hide": 1,
 			"Heavy Silken Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Gem-studded Leather Belt": {
         "ID":       4262,
@@ -916,7 +980,8 @@ recipes = {
 			"Jade": 2,
 			"Citrine": 1,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Gloves of the Greatfather": {
         "ID":       17721,
@@ -930,7 +995,8 @@ recipes = {
 			"Heavy Leather": 8,
 			"Elemental Earth": 4,
 			"Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Dragonscale Breastplate": {
         "ID":       15045,
@@ -945,7 +1011,8 @@ recipes = {
 			"Rugged Leather": 20,
 			"Green Dragonscale": 25,
 			"Rune Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Green Dragonscale Gauntlets": {
         "ID":       20296,
@@ -960,7 +1027,8 @@ recipes = {
 			"Green Dragonscale": 30,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Green Dragonscale Leggings": {
         "ID":       15046,
@@ -975,7 +1043,8 @@ recipes = {
 			"Rugged Leather": 20,
 			"Green Dragonscale": 25,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Leather Armor": {
         "ID":       4255,
@@ -989,7 +1058,8 @@ recipes = {
 			"Heavy Leather": 9,
 			"Green Dye": 2,
 			"Fine Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Green Leather Belt": {
         "ID":       4257,
@@ -1004,7 +1074,8 @@ recipes = {
 			"Fine Thread": 1,
 			"Green Dye": 1,
 			"Iron Buckle": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Leather Bracers": {
         "ID":       4259,
@@ -1018,7 +1089,8 @@ recipes = {
 			"Heavy Leather": 6,
 			"Green Dye": 1,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Whelp Armor": {
         "ID":       7375,
@@ -1032,7 +1104,8 @@ recipes = {
 			"Green Whelp Scale": 4,
 			"Heavy Leather": 10,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Green Whelp Bracers": {
         "ID":       7386,
@@ -1046,7 +1119,8 @@ recipes = {
 			"Green Whelp Scale": 6,
 			"Heavy Leather": 8,
 			"Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Guardian Armor": {
         "ID":       4256,
@@ -1061,7 +1135,8 @@ recipes = {
 			"Heavy Leather": 12,
 			"Shadow Oil": 1,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Guardian Belt": {
         "ID":       4258,
@@ -1076,7 +1151,8 @@ recipes = {
 			"Heavy Leather": 4,
 			"Fine Thread": 1,
 			"Iron Buckle": 1
-        }
+        },
+        "Phase":    1
     },
     "Guardian Cloak": {
         "ID":       5965,
@@ -1090,7 +1166,8 @@ recipes = {
 			"Heavy Leather": 14,
 			"Bolt of Silk Cloth": 2,
 			"Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Guardian Gloves": {
         "ID":       5966,
@@ -1103,7 +1180,8 @@ recipes = {
 			"Heavy Leather": 4,
 			"Cured Heavy Hide": 1,
 			"Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Guardian Leather Bracers": {
         "ID":       4260,
@@ -1117,7 +1195,8 @@ recipes = {
 			"Heavy Leather": 6,
 			"Cured Heavy Hide": 2,
 			"Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Guardian Pants": {
         "ID":       5962,
@@ -1130,7 +1209,8 @@ recipes = {
 			"Heavy Leather": 12,
 			"Bolt of Silk Cloth": 2,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Handstitched Leather Belt": {
         "ID":       4237,
@@ -1142,7 +1222,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 6,
 			"Coarse Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Handstitched Leather Boots": {
         "ID":       2302,
@@ -1154,7 +1235,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 2,
 			"Coarse Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Handstitched Leather Bracers": {
         "ID":       7277,
@@ -1166,7 +1248,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 2,
 			"Coarse Thread": 3
-        }
+        },
+        "Phase":    1
     },
     "Handstitched Leather Cloak": {
         "ID":       7276,
@@ -1178,7 +1261,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 2,
 			"Coarse Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Handstitched Leather Pants": {
         "ID":       2303,
@@ -1190,7 +1274,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 4,
 			"Coarse Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Handstitched Leather Vest": {
         "ID":       5957,
@@ -1202,7 +1287,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 3,
 			"Coarse Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Armor Kit": {
         "ID":       4265,
@@ -1214,7 +1300,8 @@ recipes = {
         "Reagents": {
 			"Heavy Leather": 5,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Earthen Gloves": {
         "ID":       7359,
@@ -1229,7 +1316,8 @@ recipes = {
 			"Elemental Earth": 2,
 			"Bolt of Woolen Cloth": 2,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Heavy Leather": {
         "ID":       4234,
@@ -1240,7 +1328,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Medium Leather": 5
-        }
+        },
+        "Phase":    1
     },
     "Heavy Leather Ammo Pouch": {
         "ID":       7372,
@@ -1252,7 +1341,8 @@ recipes = {
         "Reagents": {
 			"Heavy Leather": 8,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Heavy Leather Ball": {
         "ID":       18662,
@@ -1265,7 +1355,8 @@ recipes = {
         "Reagents": {
 			"Heavy Leather": 2,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Quiver": {
         "ID":       7371,
@@ -1277,7 +1368,8 @@ recipes = {
         "Reagents": {
 			"Heavy Leather": 8,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Heavy Scorpid Belt": {
         "ID":       15082,
@@ -1291,7 +1383,8 @@ recipes = {
 			"Rugged Leather": 6,
 			"Heavy Scorpid Scale": 8,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Scorpid Bracers": {
         "ID":       15077,
@@ -1305,7 +1398,8 @@ recipes = {
 			"Rugged Leather": 4,
 			"Heavy Scorpid Scale": 4,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Scorpid Gauntlets": {
         "ID":       15078,
@@ -1319,7 +1413,8 @@ recipes = {
 			"Rugged Leather": 6,
 			"Heavy Scorpid Scale": 8,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Scorpid Helm": {
         "ID":       15080,
@@ -1334,7 +1429,8 @@ recipes = {
 			"Heavy Scorpid Scale": 12,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Scorpid Leggings": {
         "ID":       15079,
@@ -1348,7 +1444,8 @@ recipes = {
 			"Rugged Leather": 8,
 			"Heavy Scorpid Scale": 12,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Scorpid Vest": {
         "ID":       15076,
@@ -1362,7 +1459,8 @@ recipes = {
 			"Rugged Leather": 6,
 			"Heavy Scorpid Scale": 6,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Helm of Fire": {
         "ID":       8348,
@@ -1378,7 +1476,8 @@ recipes = {
 			"Core of Earth": 4,
 			"Cured Thick Hide": 2,
 			"Heavy Silken Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Herbalists Gloves": {
         "ID":       7349,
@@ -1393,7 +1492,8 @@ recipes = {
 			"Medium Leather": 8,
 			"Kingsblood": 4,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Hillmans Belt": {
         "ID":       4250,
@@ -1407,7 +1507,8 @@ recipes = {
 			"Medium Leather": 8,
 			"Elixir of Wisdom": 1,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Hillmans Cloak": {
         "ID":       3719,
@@ -1419,7 +1520,8 @@ recipes = {
         "Reagents": {
 			"Heavy Leather": 5,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Hillmans Leather Gloves": {
         "ID":       4247,
@@ -1431,7 +1533,8 @@ recipes = {
         "Reagents": {
 			"Medium Leather": 14,
 			"Fine Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Hillmans Leather Vest": {
         "ID":       4244,
@@ -1445,7 +1548,8 @@ recipes = {
 			"Fine Leather Tunic": 1,
 			"Cured Light Hide": 2,
 			"Coarse Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Hillmans Shoulders": {
         "ID":       4251,
@@ -1458,7 +1562,8 @@ recipes = {
 			"Cured Medium Hide": 1,
 			"Medium Leather": 4,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Ironfeather Breastplate": {
         "ID":       15066,
@@ -1475,7 +1580,8 @@ recipes = {
 			"Jade": 1,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Ironfeather Shoulders": {
         "ID":       15067,
@@ -1491,7 +1597,8 @@ recipes = {
 			"Ironfeather": 80,
 			"Jade": 2,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Kodo Hide Bag": {
         "ID":       5081,
@@ -1506,7 +1613,8 @@ recipes = {
 			"Thin Kodo Leather": 3,
 			"Light Leather": 4,
 			"Coarse Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Light Armor Kit": {
         "ID":       2304,
@@ -1517,7 +1625,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Light Leather": 1
-        }
+        },
+        "Phase":    1
     },
     "Light Leather": {
         "ID":       2318,
@@ -1528,7 +1637,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Ruined Leather Scraps": 3
-        }
+        },
+        "Phase":    1
     },
     "Light Leather Bracers": {
         "ID":       7281,
@@ -1540,7 +1650,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 6,
 			"Coarse Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Light Leather Pants": {
         "ID":       7282,
@@ -1553,7 +1664,8 @@ recipes = {
 			"Light Leather": 10,
 			"Cured Light Hide": 1,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Light Leather Quiver": {
         "ID":       7278,
@@ -1565,7 +1677,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 4,
 			"Coarse Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Living Leggings": {
         "ID":       15060,
@@ -1581,7 +1694,8 @@ recipes = {
 			"Living Essence": 6,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Living Shoulders": {
         "ID":       15061,
@@ -1596,7 +1710,8 @@ recipes = {
 			"Rugged Leather": 12,
 			"Living Essence": 4,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Medium Armor Kit": {
         "ID":       2313,
@@ -1608,7 +1723,8 @@ recipes = {
         "Reagents": {
 			"Medium Leather": 4,
 			"Coarse Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Medium Leather": {
         "ID":       2319,
@@ -1619,7 +1735,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Light Leather": 4
-        }
+        },
+        "Phase":    1
     },
     "Might of the Timbermaw": {
         "ID":       19044,
@@ -1635,7 +1752,8 @@ recipes = {
 			"Living Essence": 4,
 			"Cured Rugged Hide": 2,
 			"Rune Thread": 2
-        }
+        },
+        "Phase":    3
     },
     "Moonglow Vest": {
         "ID":       6709,
@@ -1651,7 +1769,8 @@ recipes = {
 			"Cured Light Hide": 1,
 			"Coarse Thread": 4,
 			"Small Lustrous Pearl": 1
-        }
+        },
+        "Phase":    1
     },
     "Murloc Scale Belt": {
         "ID":       5780,
@@ -1665,7 +1784,8 @@ recipes = {
 			"Slimy Murloc Scale": 8,
 			"Light Leather": 6,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Murloc Scale Bracers": {
         "ID":       5783,
@@ -1680,7 +1800,8 @@ recipes = {
 			"Cured Heavy Hide": 1,
 			"Heavy Leather": 14,
 			"Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Murloc Scale Breastplate": {
         "ID":       5781,
@@ -1695,7 +1816,8 @@ recipes = {
 			"Cured Light Hide": 1,
 			"Light Leather": 8,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Nightscape Boots": {
         "ID":       8197,
@@ -1707,7 +1829,8 @@ recipes = {
         "Reagents": {
 			"Thick Leather": 16,
 			"Heavy Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Nightscape Headband": {
         "ID":       8176,
@@ -1719,7 +1842,8 @@ recipes = {
         "Reagents": {
 			"Thick Leather": 5,
 			"Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Nightscape Pants": {
         "ID":       8193,
@@ -1731,7 +1855,8 @@ recipes = {
         "Reagents": {
 			"Thick Leather": 14,
 			"Silken Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Nightscape Shoulders": {
         "ID":       8192,
@@ -1745,7 +1870,8 @@ recipes = {
 			"Thick Leather": 8,
 			"Mageweave Cloth": 6,
 			"Silken Thread": 3
-        }
+        },
+        "Phase":    1
     },
     "Nightscape Tunic": {
         "ID":       8175,
@@ -1757,7 +1883,8 @@ recipes = {
         "Reagents": {
 			"Thick Leather": 7,
 			"Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Nimble Leather Gloves": {
         "ID":       7285,
@@ -1770,7 +1897,8 @@ recipes = {
 			"Elixir of Minor Agility": 1,
 			"Medium Leather": 6,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Pilferers Gloves": {
         "ID":       7358,
@@ -1784,7 +1912,8 @@ recipes = {
 			"Medium Leather": 10,
 			"Lucky Charm": 2,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Quickdraw Quiver": {
         "ID":       8217,
@@ -1798,7 +1927,8 @@ recipes = {
 			"Cured Thick Hide": 1,
 			"Elixir of Agility": 1,
 			"Silken Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Raptor Hide Belt": {
         "ID":       4456,
@@ -1813,7 +1943,8 @@ recipes = {
 			"Raptor Hide": 4,
 			"Heavy Leather": 4,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Raptor Hide Harness": {
         "ID":       4455,
@@ -1828,7 +1959,8 @@ recipes = {
 			"Raptor Hide": 6,
 			"Heavy Leather": 4,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Red Whelp Gloves": {
         "ID":       7284,
@@ -1843,7 +1975,8 @@ recipes = {
 			"Red Whelp Scale": 6,
 			"Medium Leather": 4,
 			"Fine Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Rugged Armor Kit": {
         "ID":       15564,
@@ -1854,7 +1987,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Rugged Leather": 5
-        }
+        },
+        "Phase":    1
     },
     "Rugged Leather": {
         "ID":       8170,
@@ -1865,7 +1999,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Thick Leather": 6
-        }
+        },
+        "Phase":    1
     },
     "Rugged Leather Pants": {
         "ID":       7280,
@@ -1878,7 +2013,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 5,
 			"Coarse Thread": 5
-        }
+        },
+        "Phase":    1
     },
     "Runic Leather Belt": {
         "ID":       15093,
@@ -1892,7 +2028,8 @@ recipes = {
 			"Rugged Leather": 12,
 			"Runecloth": 10,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Runic Leather Bracers": {
         "ID":       15092,
@@ -1907,7 +2044,8 @@ recipes = {
 			"Black Pearl": 1,
 			"Runecloth": 6,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Runic Leather Gauntlets": {
         "ID":       15091,
@@ -1921,7 +2059,8 @@ recipes = {
 			"Rugged Leather": 10,
 			"Runecloth": 6,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Runic Leather Headband": {
         "ID":       15094,
@@ -1935,7 +2074,8 @@ recipes = {
 			"Rugged Leather": 14,
 			"Runecloth": 10,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Shadowskin Gloves": {
         "ID":       18238,
@@ -1952,7 +2092,8 @@ recipes = {
 			"Cured Heavy Hide": 2,
 			"Shadowgem": 4,
 			"Heavy Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Small Leather Ammo Pouch": {
         "ID":       7279,
@@ -1964,7 +2105,8 @@ recipes = {
         "Reagents": {
 			"Light Leather": 3,
 			"Coarse Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Stormshroud Armor": {
         "ID":       15056,
@@ -1981,7 +2123,8 @@ recipes = {
 			"Essence of Air": 3,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Stormshroud Pants": {
         "ID":       15057,
@@ -1997,7 +2140,8 @@ recipes = {
 			"Essence of Water": 2,
 			"Essence of Air": 2,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Stormshroud Shoulders": {
         "ID":       15058,
@@ -2014,7 +2158,8 @@ recipes = {
 			"Essence of Air": 3,
 			"Enchanted Leather": 2,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Swift Boots": {
         "ID":       7391,
@@ -2029,7 +2174,8 @@ recipes = {
 			"Swiftness Potion": 2,
 			"Thick Spiders Silk": 2,
 			"Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Thick Armor Kit": {
         "ID":       8173,
@@ -2041,7 +2187,8 @@ recipes = {
         "Reagents": {
 			"Thick Leather": 5,
 			"Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Thick Leather": {
         "ID":       4304,
@@ -2052,7 +2199,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Heavy Leather": 6
-        }
+        },
+        "Phase":    1
     },
     "Thick Leather Ammo Pouch": {
         "ID":       8218,
@@ -2066,7 +2214,8 @@ recipes = {
 			"Cured Thick Hide": 1,
 			"Elixir of Greater Defense": 1,
 			"Silken Thread": 6
-        }
+        },
+        "Phase":    1
     },
     "Thick Murloc Armor": {
         "ID":       5782,
@@ -2081,7 +2230,8 @@ recipes = {
 			"Cured Heavy Hide": 1,
 			"Heavy Leather": 10,
 			"Fine Thread": 3
-        }
+        },
+        "Phase":    1
     },
     "Tough Scorpid Boots": {
         "ID":       8209,
@@ -2095,7 +2245,8 @@ recipes = {
 			"Thick Leather": 12,
 			"Scorpid Scale": 12,
 			"Silken Thread": 6
-        }
+        },
+        "Phase":    1
     },
     "Tough Scorpid Bracers": {
         "ID":       8205,
@@ -2109,7 +2260,8 @@ recipes = {
 			"Thick Leather": 10,
 			"Scorpid Scale": 4,
 			"Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Tough Scorpid Breastplate": {
         "ID":       8203,
@@ -2123,7 +2275,8 @@ recipes = {
 			"Thick Leather": 12,
 			"Scorpid Scale": 12,
 			"Silken Thread": 4
-        }
+        },
+        "Phase":    1
     },
     "Tough Scorpid Gloves": {
         "ID":       8204,
@@ -2137,7 +2290,8 @@ recipes = {
 			"Thick Leather": 6,
 			"Scorpid Scale": 8,
 			"Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Tough Scorpid Helm": {
         "ID":       8208,
@@ -2151,7 +2305,8 @@ recipes = {
 			"Thick Leather": 10,
 			"Scorpid Scale": 20,
 			"Heavy Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Tough Scorpid Leggings": {
         "ID":       8206,
@@ -2165,7 +2320,8 @@ recipes = {
 			"Thick Leather": 14,
 			"Scorpid Scale": 8,
 			"Heavy Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Tough Scorpid Shoulders": {
         "ID":       8207,
@@ -2179,7 +2335,8 @@ recipes = {
 			"Thick Leather": 12,
 			"Scorpid Scale": 16,
 			"Heavy Silken Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Toughened Leather Armor": {
         "ID":       2314,
@@ -2192,7 +2349,8 @@ recipes = {
 			"Medium Leather": 10,
 			"Cured Light Hide": 2,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Toughened Leather Gloves": {
         "ID":       4253,
@@ -2207,7 +2365,8 @@ recipes = {
 			"Elixir of Defense": 2,
 			"Spiders Silk": 2,
 			"Fine Thread": 2
-        }
+        },
+        "Phase":    1
     },
     "Turtle Scale Bracers": {
         "ID":       8198,
@@ -2220,7 +2379,8 @@ recipes = {
 			"Thick Leather": 8,
 			"Turtle Scale": 12,
 			"Heavy Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Turtle Scale Breastplate": {
         "ID":       8189,
@@ -2233,7 +2393,8 @@ recipes = {
 			"Thick Leather": 6,
 			"Turtle Scale": 12,
 			"Heavy Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Turtle Scale Gloves": {
         "ID":       8187,
@@ -2247,7 +2408,8 @@ recipes = {
 			"Thick Leather": 6,
 			"Turtle Scale": 8,
 			"Heavy Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Turtle Scale Helm": {
         "ID":       8191,
@@ -2260,7 +2422,8 @@ recipes = {
 			"Thick Leather": 14,
 			"Turtle Scale": 24,
 			"Heavy Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Turtle Scale Leggings": {
         "ID":       8185,
@@ -2273,7 +2436,8 @@ recipes = {
 			"Thick Leather": 14,
 			"Turtle Scale": 28,
 			"Heavy Silken Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Volcanic Breastplate": {
         "ID":       15053,
@@ -2289,7 +2453,8 @@ recipes = {
 			"Essence of Fire": 1,
 			"Essence of Earth": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Volcanic Leggings": {
         "ID":       15054,
@@ -2305,7 +2470,8 @@ recipes = {
 			"Essence of Fire": 1,
 			"Core of Earth": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Warbear Harness": {
         "ID":       15064,
@@ -2320,7 +2486,8 @@ recipes = {
 			"Rugged Leather": 28,
 			"Warbear Leather": 12,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    3
     },
     "Warbear Woolies": {
         "ID":       15065,
@@ -2335,7 +2502,8 @@ recipes = {
 			"Rugged Leather": 24,
 			"Warbear Leather": 14,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    3
     },
     "White Leather Jerkin": {
         "ID":       2311,
@@ -2349,7 +2517,8 @@ recipes = {
 			"Light Leather": 8,
 			"Coarse Thread": 2,
 			"Bleach": 1
-        }
+        },
+        "Phase":    1
     },
     "Wicked Leather Bracers": {
         "ID":       15084,
@@ -2363,7 +2532,8 @@ recipes = {
 			"Rugged Leather": 8,
 			"Black Dye": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Wicked Leather Gauntlets": {
         "ID":       15083,
@@ -2377,7 +2547,8 @@ recipes = {
 			"Rugged Leather": 8,
 			"Black Dye": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Wicked Leather Headband": {
         "ID":       15086,
@@ -2391,7 +2562,8 @@ recipes = {
 			"Rugged Leather": 12,
 			"Black Dye": 1,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Wicked Leather Pants": {
         "ID":       15087,
@@ -2406,7 +2578,8 @@ recipes = {
 			"Cured Rugged Hide": 1,
 			"Black Dye": 3,
 			"Rune Thread": 1
-        }
+        },
+        "Phase":    1
     },
     "Wild Leather Boots": {
         "ID":       8213,
@@ -2421,7 +2594,8 @@ recipes = {
 			"Thick Leather": 14,
 			"Wildvine": 4,
 			"Cured Thick Hide": 2
-        }
+        },
+        "Phase":    1
     },
     "Wild Leather Cloak": {
         "ID":       8215,
@@ -2436,7 +2610,8 @@ recipes = {
 			"Thick Leather": 16,
 			"Wildvine": 6,
 			"Cured Thick Hide": 2
-        }
+        },
+        "Phase":    1
     },
     "Wild Leather Helmet": {
         "ID":       8214,
@@ -2451,7 +2626,8 @@ recipes = {
 			"Thick Leather": 10,
 			"Wildvine": 2,
 			"Cured Thick Hide": 1
-        }
+        },
+        "Phase":    1
     },
     "Wild Leather Leggings": {
         "ID":       8212,
@@ -2466,7 +2642,8 @@ recipes = {
 			"Thick Leather": 16,
 			"Wildvine": 6,
 			"Cured Thick Hide": 2
-        }
+        },
+        "Phase":    1
     },
     "Wild Leather Shoulders": {
         "ID":       8210,
@@ -2481,7 +2658,8 @@ recipes = {
 			"Thick Leather": 10,
 			"Wildvine": 1,
 			"Cured Thick Hide": 1
-        }
+        },
+        "Phase":    1
     },
     "Wild Leather Vest": {
         "ID":       8211,
@@ -2496,7 +2674,8 @@ recipes = {
 			"Thick Leather": 12,
 			"Wildvine": 2,
 			"Cured Thick Hide": 1
-        }
+        },
+        "Phase":    1
     },
     "Wolfshead Helm": {
         "ID":       8345,
@@ -2512,7 +2691,8 @@ recipes = {
 			"Wicked Claw": 8,
 			"Heavy Silken Thread": 4,
 			"Cured Thick Hide": 2
-        }
+        },
+        "Phase":    1
     }
 }
 

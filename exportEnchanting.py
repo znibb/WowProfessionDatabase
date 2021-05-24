@@ -1994,7 +1994,6 @@ recipes = {
             "Golden Pearl": 1,
             "Illusion Dust": 10,
             "Greater Eternal Essence": 4,
-            "Small Brilliant Shard": 4,
             "Large Brilliant Shard": 2
         },
         "Phase":    1

@@ -1402,7 +1402,7 @@ recipes = {
             "Soothing Spices": 1
         },
         "AmountCrafted": 1,
-        "Phase":    4
+        "Phase":    1
     },
     "Smoked Sagefish": {
         "ID":       21072,

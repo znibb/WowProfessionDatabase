@@ -16,6 +16,77 @@ recipes = {
         },
         "Phase":    1
     },
+	"Adamantite Frame": {
+        "ID":       23784,
+        "Learn":    325,
+        "Yellow":   325,
+        "Green":    330,
+        "Grey":     335,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Adamantite Bar": 4,
+            "Primal Earth": 1
+        },
+        "Phase":    1
+    },
+	"Adamantite Grenade": {
+        "ID":       23737,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Adamantite Bar": 4,
+            "Handful of Fel Iron Bolts": 2,
+            "Elemental Blasting Powder": 1
+        },
+        "Phase":    1
+    },
+	"Adamantite Rifle": {
+        "ID":       23746,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "VendorLimted",
+        "RecipeID": 23799,
+        "Reagents": {
+			"Fel Iron Casing": 3,
+            "Adamantite Frame": 2,
+            "Handful of Fel Iron Bolts": 4
+        },
+        "Phase":    1
+    },
+	"Adamantite Scope": {
+        "ID":       23764,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    355,
+        "Grey":     365,
+        "Source":   "VendorLimited",
+        "RecipeID": 23807,
+        "Reagents": {
+			"Adamantite Bar": 8,
+            "Golden Draenite": 2
+        },
+        "Phase":    1
+    },
+	"Adamantite Shell Machine": {
+        "ID":       34504,
+        "Learn":    335,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "VendorLimited",
+        "RecipeID": 23815,
+        "Reagents": {
+			"Adamantite Bar": 1,
+            "Elemental Blasting Powder": 2,
+            "Simple Wood": 4
+        },
+        "Phase":    1
+    },
 	"Advanced Target Dummy": {
         "ID":       4392,
         "Learn":    185,
@@ -217,6 +288,21 @@ recipes = {
         "AmountCrafted": 2,
         "Phase":    1
     },
+	"Cogspinner Goggles": {
+        "ID":       23758,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "VendorLimited",
+        "RecipeID": 23803,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Blood Garnet": 2,
+            "Arcane Dust": 8
+        },
+        "Phase":    1
+    },
 	"Compact Harvest Reaper Kit": {
         "ID":       4391,
         "Learn":    175,
@@ -312,6 +398,21 @@ recipes = {
         "Reagents": {
 			"Heavy Leather": 6,
 			"Citrine": 2
+        },
+        "Phase":    1
+    },
+	"Crashin Thrashin Robot": {
+        "ID":       23767,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Adamantite Frame": 1,
+            "Fel Iron Casing": 2,
+            "Gold Power Core": 1,
+            "Handful of Fel Iron Bolts": 2
         },
         "Phase":    1
     },
@@ -483,6 +584,34 @@ recipes = {
         },
         "Phase":    1
     },
+	"Elemental Blasting Powder": {
+        "ID":       23781,
+        "Learn":    300,
+        "Yellow":   300,
+        "Green":    310,
+        "Grey":     320,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Mote of Fire": 1,
+            "Mote of Earth": 2
+        },
+        "Phase":    1
+    },
+	"Elemental Seaforium Charge": {
+        "ID":       23819,
+        "Learn":    350,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Vendor",
+        "RecipeID": 23874,
+        "Reagents": {
+			"Elemental Blasting Powder": 2,
+            "Fel Iron Casing": 1,
+            "Handful of Fel Iron Bolts": 1
+        },
+        "Phase":    1
+    },
 	"Explosive Sheep": {
         "ID":       4384,
         "Learn":    150,
@@ -525,6 +654,132 @@ recipes = {
 			"Solid Blasting Powder": 1,
 			"Mageweave Cloth": 2
         },
+        "Phase":    1
+    },
+	"Fel Iron Bomb": {
+        "ID":       23736,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Fel Iron Casing": 1,
+            "Handful of Fel Iron Bolts": 2,
+            "Elemental Blasting Powder": 1
+        },
+        "Phase":    1
+    },
+	"Fel Iron Casing": {
+        "ID":       23782,
+        "Learn":    300,
+        "Yellow":   300,
+        "Green":    310,
+        "Grey":     320,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Fel Iron Bar": 3
+        },
+        "Phase":    1
+    },
+	"Fel Iron Musket": {
+        "ID":       23742,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    340,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Heavy Stock": 1,
+            "Fel Iron Casing": 3,
+            "Handful of Fel Iron Bolts": 6
+        },
+        "Phase":    1
+    },
+	"Fel Iron Shells": {
+        "ID":       23772,
+        "Learn":    310,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Fel Iron Bar": 2,
+            "Elementium Blasting Powder": 1
+        },
+        "AmountCrafted": 200,
+        "Phase":    1
+    },
+	"Fel Iron Toolbox": {
+        "ID":       23774,
+        "Learn":    325,
+        "Yellow":   325,
+        "Green":    335,
+        "Grey":     345,
+        "Source":   "VendorLimited",
+        "RecipeID": 23816,
+        "Reagents": {
+			"Fel Iron Casing": 1,
+            "Fel Iron Bar": 5,
+            "Handful of Fel Iron Bolts": 2
+        },
+        "Phase":    1
+    },
+	"Felsteel Boomstick": {
+        "ID":       23747,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 23800,
+        "Reagents": {
+			"Hardened Adamantite Tube": 1,
+            "Felsteel Stablilizer": 4,
+            "Handful of Fel Iron Bolts": 4
+        },
+        "Phase":    1
+    },
+	"Felsteel Stabilizer": {
+        "ID":       23787,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Felsteel Bar": 2
+        },
+        "Phase":    1
+    },
+	"Field Repair Bot 74A": {
+        "ID":       18232,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 18235,
+        "Reagents": {
+			"Thorium Bar": 16,
+            "Fused Wiring": 2
+        },
+        "Phase":    1
+    },
+	"Field Repair Bot 110G": {
+        "ID":       34113,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 34114,
+        "Reagents": {
+			"Adamantite Bar": 8,
+            "Handful of Fel Iron Bolts": 8,
+            "Khorium Power Core": 1
+        },
+        "AmountCrafted": 5,
         "Phase":    1
     },
 	"Fire Googles": {
@@ -617,6 +872,35 @@ recipes = {
         },
         "Phase":    1
     },
+	"Frost Grenade": {
+        "ID":       32413,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    355,
+        "Grey":     365,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Icy Blasting Primers": 3,
+            "Fel Iron Casing": 1,
+            "Handful of Fel Iron Bolts": 1
+        },
+        "AmountCrafted": 5,
+        "Phase":    1
+    },
+	"Fused Wiring": {
+        "ID":       7191,
+        "Learn":    275,
+        "Yellow":   275,
+        "Green":    280,
+        "Grey":     285,
+        "Source":   "VendorLimited",
+        "RecipeID": 32381,
+        "Reagents": {
+			"Delicate Copper Wire": 3,
+            "Essence of Fire": 2
+        },
+        "Phase":    1
+    },
 	"Gnomish Battle Chicken": {
         "ID":       10725,
         "Learn":    230,
@@ -666,6 +950,22 @@ recipes = {
 			"Essence of Undeath": 1,
 			"Ichor of Undeath": 4,
 			"Inlaid Mithril Cylinder": 1
+        },
+        "Phase":    1
+    },
+	"Gnomish Flame Turret": {
+        "ID":       23841,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "School":   "Gnomish",
+        "Reagents": {
+			"Adamantite Frame": 1,
+            "Handful of Fel Iron Bolts": 2,
+            "Elemental Blasting Powder": 3,
+            "Fel Iron Casing": 1
         },
         "Phase":    1
     },
@@ -734,6 +1034,22 @@ recipes = {
 			"Thick Spiders Silk": 4,
 			"Solid Blasting Powder": 2,
 			"Mithril Bar": 4
+        },
+        "Phase":    1
+    },
+	"Gnomish Poultryizer": {
+        "ID":       23835,
+        "Learn":    340,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Trainer",
+        "School":   "Gnomish",
+        "Reagents": {
+			"Hardened Adamantite Tube": 2,
+            "Khorium Power Core": 2,
+            "Arcane Dust": 10,
+            "Large Prismatic Shard": 2
         },
         "Phase":    1
     },
@@ -1025,6 +1341,22 @@ recipes = {
         },
         "Phase":    1
     },
+	"Green Smoke Flare": {
+        "ID":       23771,
+        "Learn":    335,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "Vendor",
+        "RecipeID": 23814,
+        "Reagents": {
+			"Elemental Blasting Powder": 1,
+            "Netherweave Cloth": 1,
+            "Green Dye": 1
+        },
+        "AmountCrafted": 3,
+        "Phase":    1
+    },
 	"Green Rocket Cluster": {
         "ID":       21574,
         "Learn":    225,
@@ -1108,6 +1440,30 @@ recipes = {
         },
         "Phase":    1
     },
+	"Handful of Fel Iron Bolts": {
+        "ID":       23783,
+        "Learn":    300,
+        "Yellow":   300,
+        "Green":    305,
+        "Grey":     310,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Fel Iron Bar": 3
+        },
+        "Phase":    1
+    },
+	"Hardened Adamantite Tube": {
+        "ID":       23785,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Hardened Adamantite Bar": 3
+        },
+        "Phase":    1
+    },
 	"Heavy Blasting Powder": {
         "ID":       4377,
         "Learn":    125,
@@ -1180,6 +1536,22 @@ recipes = {
         },
         "Phase":    1
     },
+	"Hyper-Vision Goggles": {
+        "ID":       23763,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 23806,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Khorium Bar": 2,
+            "Nightseye": 2,
+            "Large Prismatic Shard": 2
+        },
+        "Phase":    1
+    },
 	"Ice Deflector": {
         "ID":       4386,
         "Learn":    155,
@@ -1232,6 +1604,49 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Iron Bar": 2
+        },
+        "Phase":    1
+    },
+	"Khorium Power Core": {
+        "ID":       23786,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Khorium Bar": 3,
+            "Primal Fire": 1
+        },
+        "Phase":    1
+    },
+	"Khorium Scope": {
+        "ID":       23765,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 23808,
+        "Reagents": {
+			"Hardened Adamantite Tube": 1,
+            "Khorium Bar": 4,
+            "Dawnstone": 2
+        },
+        "Phase":    1
+    },
+	"Khorium Toolbox": {
+        "ID":       23775,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 23817,
+        "Reagents": {
+			"Fel Iron Casing": 1,
+            "Khorium Bar": 5,
+            "Handful of Fel Iron Bolts": 2
         },
         "Phase":    1
     },
@@ -1702,6 +2117,21 @@ recipes = {
         },
         "Phase":    1
     },
+	"Power Amplification Goggles": {
+        "ID":       23761,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Drop",
+        "RecipeID": 23804,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Flame Spessarite": 2,
+            "Arcane Dust": 8
+        },
+        "Phase":    1
+    },
 	"Powerful Seaforium Charge": {
         "ID":       18594,
         "Learn":    275,
@@ -1758,6 +2188,38 @@ recipes = {
         "Reagents": {
 			"Solid Blasting Powder": 1,
 			"Thick Leather": 1
+        },
+        "Phase":    1
+    },
+	"Rocket Boots Xtreme": {
+        "ID":       23824,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 23887,
+        "Reagents": {
+			"Heavy Knothide Leather": 8,
+            "Khorium Power Core": 2,
+            "Hardened Adamantite Tube": 2,
+            "Felsteel Stabilizer": 4
+        },
+        "Phase":    1
+    },
+	"Rocket Boots Xtreme Lite": {
+        "ID":       35581,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 35582,
+        "Reagents": {
+			"Bolt of Netherweave": 8,
+            "Khorium Power Core": 2,
+            "Hardened Adamantite Tube": 2,
+            "Felsteel Stabilizer": 4
         },
         "Phase":    1
     },
@@ -2237,6 +2699,40 @@ recipes = {
         },
         "Phase":    1
     },
+	"Ultra-Flash Shadow Reflector": {
+        "ID":       18639,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 18658,
+        "Reagents": {
+			"Dark Iron Bar": 8,
+            "Truesilver Transformer": 4,
+            "Living Essence": 6,
+            "Essence of Undeath": 4,
+            "Azerothian Diamond": 2,
+            "Large Opal": 2
+        },
+        "Phase":    1
+    },
+	"Ultra-Spectropic Detection Goggles": {
+        "ID":       23762,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "VendorLimited",
+        "RecipeID": 23805,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Khorium Bar": 2,
+            "Deep Peridot": 2,
+            "Small Prismatic Shard": 2
+        },
+        "Phase":    1
+    },
 	"Ultrasafe Transporter - Gadgetzan": {
         "ID":       18986,
         "Learn":    260,
@@ -2295,6 +2791,20 @@ recipes = {
         "Reagents": {
 			"Bronze Bar": 2,
 			"Wool Cloth": 1
+        },
+        "Phase":    1
+    },
+	"White Smoke Flare": {
+        "ID":       23768,
+        "Learn":    335,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "VendorLimited",
+        "RecipeID": 23811,
+        "Reagents": {
+			"Elemental Blasting Powder": 1,
+            "Netherweave Cloth": 1
         },
         "Phase":    1
     },

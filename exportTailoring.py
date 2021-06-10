@@ -2000,7 +2000,7 @@ recipes = {
         "Yellow":   290,
         "Green":    305,
         "Grey":     320,
-        "Source":   "Vendor",
+        "Source":   "Trainer",
         "RecipeID": 14481,
         "Reagents": {
             "Bolt of Runecloth": 4,

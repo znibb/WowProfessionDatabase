@@ -1280,7 +1280,7 @@ recipes = {
         "Yellow":   290,
         "Green":    310,
         "Grey":     330,
-        "Source":   "Vendor",
+        "Source":   "Trainer",
         "RecipeID": 13480,
         "Reagents": {
             "Golden Sansam": 2,
@@ -1676,7 +1676,7 @@ recipes = {
         "Yellow":   275,
         "Green":    295,
         "Grey":     315,
-        "Source":   "Vendor",
+        "Source":   "Trainer",
         "RecipeID": 13477,
         "Reagents": {
             "Sungrass": 2,

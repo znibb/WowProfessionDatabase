@@ -1,17 +1,19 @@
 #!/usr/bin/env python3.7
 
 recipes = {
-    "Amulet of Truesight": {
-        "ID":       45627,
-        "Learn":    200,
-        "Yellow":   210,
-        "Green":    220,
-        "Grey":     230,
-        "Source":   "Trainer",
+    "Amulet of Flowing Life": {
+        "ID":       34360,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    392,
+        "Grey":     410,
+        "Source":   "Drop",
+        "RecipeID": 35202,
         "Reagents": {
-            "Truesilver Bar": 8
+            "Mercurial Adamantite": 6,
+            "Seaspray Emerald": 6
         },
-        "Phase": 1
+        "Phase": 5
     },
     "Amulet of the Moon": {
         "ID":       20830,
@@ -53,6 +55,49 @@ recipes = {
         },
         "Phase": 1
     },
+    "Arcane Khorium Band": {
+        "ID":       24086,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 24162,
+        "Reagents": {
+            "Khorium Bar": 2,
+            "Mercurial Adamantite": 4,
+            "Primal Mana": 3
+        },
+        "Phase": 1
+    },
+    "Azure Moonstone Ring": {
+        "ID":       24076,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    340,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 1,
+            "Azure Moonstone": 2,
+            "Deep Peridot": 1
+        },
+        "Phase": 1
+    },
+    "Band of Natural Fire": {
+        "ID":       21779,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Flame Spessarite": 1,
+            "Essence of Fire": 4,
+            "Living Essence": 4
+        },
+        "Phase": 1
+    },
     "Barbaric Iron Collar": {
         "ID":       20909,
         "Learn":    110,
@@ -80,6 +125,60 @@ recipes = {
         },
         "Phase": 1
     },
+    "Blazing Eternium Band": {
+        "ID":       24089,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 24165,
+        "Reagents": {
+            "Eternium Bar": 2,
+            "Mercurial Adamantite": 4,
+            "Primal Fire": 4
+        },
+        "Phase": 1
+    },
+    "Blood of Amber": {
+        "ID":       33140,
+        "Learn":    360,
+        "Yellow":   365,
+        "Green":    370,
+        "Grey":     375,
+        "Source":   "Reputation",
+        "RecipeID": 33159,
+        "Reagents": {
+            "Dawnstone": 1
+        },
+        "Phase": 1
+    },
+    "Bracing Earthstorm Diamond": {
+        "ID":       25897,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Vendor",
+        "RecipeID": 25903,
+        "Reagents": {
+            "Earthstorm Diamond": 1
+        },
+        "Phase": 1
+    },
+    "Brutal Earthstorm Diamond": {
+        "ID":       25899,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 25906,
+        "Reagents": {
+            "Earthstorm Diamond": 1
+        },
+        "Phase": 1
+    },
     "Braided Copper Ring": {
         "ID":       20906,
         "Learn":    1,
@@ -89,6 +188,20 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Delicate Copper Wire": 2
+        },
+        "Phase": 1
+    },
+    "Braided Eternium Chain": {
+        "ID":       24114,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 24168,
+        "Reagents": {
+            "Eternium Bar": 2,
+            "Mercurial Adamantite": 3
         },
         "Phase": 1
     },
@@ -103,6 +216,19 @@ recipes = {
             "Bronze Bar": 4,
             "Bronze Setting": 1,
             "Moss Agate": 1
+        },
+        "Phase": 1
+    },
+    "Brilliant Pearl Band": {
+        "ID":       32772,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Jaggal Pearl": 8,
+            "Eternium Bar": 2
         },
         "Phase": 1
     },
@@ -148,6 +274,50 @@ recipes = {
         },
         "Phase": 1
     },
+    "Chain of the Twilight Owl": {
+        "ID":       24121,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 24171,
+        "Reagents": {
+            "Khorium Bar": 2,
+            "Mercurial Adamantite": 4,
+            "Azure Moonstone": 2
+        },
+        "Phase": 1
+    },
+    "Chaotic Skyfire Diamond": {
+        "ID":       24220,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 34689,
+        "Reagents": {
+            "Skyfire Diamond": 1
+        },
+        "Phase": 1
+    },
+    "Circlet of Arcane Might": {
+        "ID":       24123,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 24173,
+        "Reagents": {
+            "Felsteel Bar": 20,
+            "Primal Mana": 20,
+            "Star of Elune": 2,
+            "Mercurial Adamantite": 5
+        },
+        "Phase": 1
+    },
     "Citrine Pendant of Golden Healing": {
         "ID":       20967,
         "Learn":    190,
@@ -189,6 +359,35 @@ recipes = {
         },
         "Phase": 1
     },
+    "Coronet of the Verdant Flame": {
+        "ID":       24122,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 24172,
+        "Reagents": {
+            "Khorium Bar": 20,
+            "Primal Life": 20,
+            "Talasite": 2,
+            "Mercurial Adamantite": 5
+        },
+        "Phase": 1
+    },
+    "Crimson Sun": {
+        "ID":       33131,
+        "Learn":    360,
+        "Yellow":   365,
+        "Green":    370,
+        "Grey":     375,
+        "Source":   "Reputation",
+        "RecipeID": 33156,
+        "Reagents": {
+            "Living Ruby": 1
+        },
+        "Phase": 1
+    },
     "Delicate Copper Wire": {
         "ID":       20816,
         "Learn":    1,
@@ -201,6 +400,20 @@ recipes = {
         },
         "Phase": 1
     },
+    "Delicate Eternium Riung": {
+        "ID":       24088,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 24164,
+        "Reagents": {
+            "Eternium Bar": 1,
+            "Mercuraial Adamantite": 5
+        },
+        "Phase": 1
+    },
     "Dense Stone Statue": {
         "ID":       25883,
         "Learn":    225,
@@ -210,6 +423,19 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Dense Stone": 10
+        },
+        "Phase": 1
+    },
+    "Destructive Skyfire Diamond": {
+        "ID":       25890,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 25907,
+        "Reagents": {
+            "Skyfire Diamond": 1
         },
         "Phase": 1
     },
@@ -226,6 +452,19 @@ recipes = {
         },
         "Phase": 1
     },
+    "Don Julios Heart": {
+        "ID":       33133,
+        "Learn":    360,
+        "Yellow":   365,
+        "Green":    370,
+        "Grey":     375,
+        "Source":   "Reputation",
+        "RecipeID": 33305,
+        "Reagents": {
+            "Living Ruby": 1
+        },
+        "Phase": 1
+    },
     "Elegant Silver Ring": {
         "ID":       20818,
         "Learn":    50,
@@ -235,6 +474,34 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Silver Bar": 1
+        },
+        "Phase": 1
+    },
+    "Ember Skyfire Diamond": {
+        "ID":       35503,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 35505,
+        "Reagents": {
+            "Skyfire Diamond": 1
+        },
+        "Phase": 5
+    },
+    "Embrace of the Dawn": {
+        "ID":       24117,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 24170,
+        "Reagents": {
+            "Eternium Bar": 2,
+            "Mercurial Adamantite": 4,
+            "Golden Draenite": 2
         },
         "Phase": 1
     },
@@ -281,6 +548,103 @@ recipes = {
         },
         "Phase": 1
     },
+    "Enigmatic Skyfire Diamond": {
+        "ID":       25895,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Reputation",
+        "RecipeID": 25910,
+        "Reagents": {
+            "Skyfire Diamond": 1
+        },
+        "Phase": 1
+    },
+    "Eternal Earthstorm Diamond": {
+        "ID":       35501,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 35502,
+        "Reagents": {
+            "Earthstorm Diamond": 1
+        },
+        "Phase": 5
+    },
+    "Eye of the Night": {
+        "ID":       24116,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 24169,
+        "Reagents": {
+            "Hardened Adamantite Bar": 2,
+            "Mercurial Adamantite": 2,
+            "Nightseye": 1
+        },
+        "Phase": 1
+    },
+    "Facet of Eternity": {
+        "ID":       33144,
+        "Learn":    360,
+        "Yellow":   365,
+        "Green":    370,
+        "Grey":     375,
+        "Source":   "Reputation",
+        "RecipeID": 33160,
+        "Reagents": {
+            "Dawnstone": 1
+        },
+        "Phase": 1
+    },
+    "Falling Star": {
+        "ID":       33135,
+        "Learn":    360,
+        "Yellow":   365,
+        "Green":    370,
+        "Grey":     375,
+        "Source":   "Reputation",
+        "RecipeID": 33157,
+        "Reagents": {
+            "Star of Elune": 1
+        },
+        "Phase": 1
+    },
+    "Fel Iron Blood Ring": {
+        "ID":       24074,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 1,
+            "Blood Garnet": 2
+        },
+        "Phase": 1
+    },
+    "Figurine - Black Diamond Crab": {
+        "ID":       21784,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Drop",
+        "RecipeID": 21955,
+        "Reagents": {
+            "Pristine Black Diamond": 4,
+            "Black Diamond": 4,
+            "Azerothian Diamond": 2,
+            "Arcanite Bar": 2,
+            "Thorium Bar": 4
+        },
+        "Phase": 1
+    },
     "Figurine - Black Pearl Panther": {
         "ID":       21758,
         "Learn":    215,
@@ -292,6 +656,36 @@ recipes = {
         "Reagents": {
             "Black Pearl": 4,
             "Flask of Mojo": 4
+        },
+        "Phase": 1
+    },
+    "Figurine - Dark Iron Scorpid": {
+        "ID":       21789,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Drop",
+        "RecipeID": 21956,
+        "Reagents": {
+            "Dark Iron Bar": 4,
+            "Arcanite Bar": 2,
+            "Star Ruby": 2
+        },
+        "Phase": 1
+    },
+    "Figurine - Dawnstone Crab": {
+        "ID":       24125,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 31358,
+        "Reagents": {
+            "Khorium Bar": 4,
+            "Dawnstone": 2,
+            "Golden Draenite": 4
         },
         "Phase": 1
     },
@@ -308,6 +702,21 @@ recipes = {
             "Huge Emerald": 2,
             "Arcanite Bar": 2,
             "Thorium Bar": 2
+        },
+        "Phase": 1
+    },
+    "Figurine - Felsteel Boar": {
+        "ID":       24124,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 24179,
+        "Reagents": {
+            "Felsteel Bar": 8,
+            "Blood Garnet": 2,
+            "Primal Earth": 4
         },
         "Phase": 1
     },
@@ -340,6 +749,36 @@ recipes = {
         },
         "Phase": 1
     },
+    "Figurine - Living Ruby Serpent": {
+        "ID":       24126,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 24181,
+        "Reagents": {
+            "Felsteel Bar": 2,
+            "Living Ruby": 2,
+            "Primal Fire": 4
+        },
+        "Phase": 1
+    },
+    "Figurine - Nightseye Panther": {
+        "ID":       24128,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 24183,
+        "Reagents": {
+            "Hardened Adamantite Bar": 6,
+            "Nightseye": 2,
+            "Primal Shadow": 2
+        },
+        "Phase": 1
+    },
     "Figurine - Ruby Serpent": {
         "ID":       21769,
         "Learn":    260,
@@ -353,6 +792,21 @@ recipes = {
             "Truesilver Bar": 2,
             "Essence of Fire": 2,
             "Star Ruby": 2
+        },
+        "Phase": 1
+    },
+    "Figurine - Talasite Owl": {
+        "ID":       24127,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 24182,
+        "Reagents": {
+            "Eternium Bar": 2,
+            "Talasite": 2,
+            "Primal Mana": 4
         },
         "Phase": 1
     },
@@ -433,6 +887,19 @@ recipes = {
         },
         "Phase": 1
     },
+    "Golden Draenite Ring": {
+        "ID":       24075,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    335,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 1,
+            "Golden Draenite": 2
+        },
+        "Phase": 1
+    },
     "Golden Dragon Ring": {
         "ID":       20955,
         "Learn":    135,
@@ -462,6 +929,19 @@ recipes = {
         },
         "Phase": 1
     },
+    "Heavy Adamantite Ring": {
+        "ID":       24078,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    355,
+        "Grey":     365,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Adamantite Bar": 1,
+            "Mercurial Adamantite": 1
+        },
+        "Phase": 1
+    },
     "Heavy Copper Ring": {
         "ID":       21932,
         "Learn":    5,
@@ -472,6 +952,20 @@ recipes = {
         "Reagents": {
             "Copper Bar": 4,
             "Delicate Copper Wire": 2
+        },
+        "Phase": 1
+    },
+    "Heavy Felsteel Ring": {
+        "ID":       24087,
+        "Learn":    345,
+        "Yellow":   355,
+        "Green":    365,
+        "Grey":     375,
+        "Source":   "Drop",
+        "RecipeID": 24163,
+        "Reagents": {
+            "Felsteel Bar": 2,
+            "Mercurial Adamantite": 4
         },
         "Phase": 1
     },
@@ -557,6 +1051,19 @@ recipes = {
         },
         "Phase": 1
     },
+    "Insightful Earthstorm Diamond": {
+        "ID":       25901,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Reputation",
+        "RecipeID": 25904,
+        "Reagents": {
+            "Earthstorm Diamond": 1
+        },
+        "Phase": 1
+    },
     "Jade Pendant of Blasting": {
         "ID":       20966,
         "Learn":    160,
@@ -568,6 +1075,94 @@ recipes = {
         "Reagents": {
             "Mithril Filigree": 2,
             "Jade": 1
+        },
+        "Phase": 1
+    },
+    "Kailees Rose": {
+        "ID":       33134,
+        "Learn":    360,
+        "Yellow":   365,
+        "Green":    370,
+        "Grey":     375,
+        "Source":   "Reputation",
+        "RecipeID": 33155,
+        "Reagents": {
+            "Living Ruby": 1
+        },
+        "Phase": 1
+    },
+    "Khorium Band of Frost": {
+        "ID":       24080,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 24159,
+        "Reagents": {
+            "Khorium Bar": 2,
+            "Mercurial Adamantite": 4,
+            "Primal Water": 3
+        },
+        "Phase": 1
+    },
+    "Khorium Band of Leaves": {
+        "ID":       24085,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 24161,
+        "Reagents": {
+            "Khorium Bar": 2,
+            "Mercurial Adamantite": 4,
+            "Primal Life": 3
+        },
+        "Phase": 1
+    },
+    "Khorium Band of Shadows": {
+        "ID":       24079,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 24158,
+        "Reagents": {
+            "Khorium Bar": 2,
+            "Mercurial Adamantite": 3,
+            "Primal Shadow": 3
+        },
+        "Phase": 1
+    },
+    "Khorium Inferno Band": {
+        "ID":       24082,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 24160,
+        "Reagents": {
+            "Khorium Bar": 2,
+            "Mercurial Adamantite": 4,
+            "Primal Fire": 3
+        },
+        "Phase": 1
+    },
+    "Living Ruby Pendant": {
+        "ID":       24110,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 24167,
+        "Reagents": {
+            "Khorium Band": 4,
+            "Mercurial Adamantite": 1,
+            "Living Ruby": 1
         },
         "Phase": 1
     },
@@ -623,6 +1218,34 @@ recipes = {
             "Lesser Moonstone": 3,
             "Small Lustrous Pearl": 3,
             "Mana Potion": 2
+        },
+        "Phase": 1
+    },
+    "Mystical Skyfire Diamond": {
+        "ID":       25893,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 25909,
+        "Reagents": {
+            "Skyfire Diamond": 1
+        },
+        "Phase": 1
+    },
+    "Necklace of the Diamond Tower": {
+        "ID":       21792,
+        "Learn":    305,
+        "Yellow":   315,
+        "Green":    325,
+        "Grey":     335,
+        "Source":   "VendorLimited",
+        "RecipeID": 21957,
+        "Reagents": {
+            "Azerothian Diamond": 2,
+            "Thorium Setting": 2,
+            "Arcanite Bar": 2
         },
         "Phase": 1
     },
@@ -685,6 +1308,113 @@ recipes = {
         },
         "Phase": 1
     },
+    "Pendant of Frozen Flame": {
+        "ID":       24092,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 24174,
+        "Reagents": {
+            "Felsteel Bar": 2,
+            "Primal Water": 6,
+            "Primal Fire": 4,
+            "Mercurial Adamantite": 1
+        },
+        "Phase": 1
+    },
+    "Pendant of Shadows End": {
+        "ID":       24097,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 24177,
+        "Reagents": {
+            "Felsteel Bar": 2,
+            "Primal Life": 6,
+            "Primal Shadow": 4,
+            "Mercurial Adamantite": 1
+        },
+        "Phase": 1
+    },
+    "Pendant of Sunfire": {
+        "ID":       34359,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    392,
+        "Grey":     410,
+        "Source":   "Drop",
+        "RecipeID": 35201,
+        "Reagents": {
+            "Mercurial Adamantite": 12,
+            "Crimson Spinel": 3,
+            "Empyrean Sapphire": 3
+        },
+        "Phase": 5
+    },
+    "Pendant of Thawing": {
+        "ID":       24093,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 24175,
+        "Reagents": {
+            "Felsteel Bar": 2,
+            "Primal Fire": 6,
+            "Primal Water": 4,
+            "Mercurial Adamantite": 1
+        },
+        "Phase": 1
+    },
+    "Pendant of the Null Rune": {
+        "ID":       24098,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 24178,
+        "Reagents": {
+            "Felsteel Bar": 2,
+            "Primal Mana": 8,
+            "Mercurial Adamantite": 1
+        },
+        "Phase": 1
+    },
+    "Pendant of Withering": {
+        "ID":       24095,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 24176,
+        "Reagents": {
+            "Felsteel Bar": 2,
+            "Primal Shadow": 6,
+            "Primal Life": 4,
+            "Mercurial Adamantite": 1
+        },
+        "Phase": 1
+    },
+    "Powerful Earthstorm Diamond": {
+        "ID":       25896,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Reputation",
+        "RecipeID": 25902,
+        "Reagents": {
+            "Earthstorm Diamond": 1
+        },
+        "Phase": 1
+    },
     "Red Ring of Destruction": {
         "ID":       30421,
         "Learn":    230,
@@ -695,6 +1425,33 @@ recipes = {
         "Reagents": {
             "Star Ruby": 1,
             "Thorium Bar": 1
+        },
+        "Phase": 1
+    },
+    "Relentles Earthstorm Diamond": {
+        "ID":       32409,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Reputation",
+        "RecipeID": 33622,
+        "Reagents": {
+            "Earthstorm Diamond": 1
+        },
+        "Phase": 1
+    },
+    "Ring of Arcane Shielding": {
+        "ID":       30825,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 30826,
+        "Reagents": {
+            "Eternium Bar": 2,
+            "Primal Mana": 8
         },
         "Phase": 1
     },
@@ -844,6 +1601,45 @@ recipes = {
         },
         "Phase": 1
     },
+    "Stone of Blades": {
+        "ID":       33143,
+        "Learn":    360,
+        "Yellow":   365,
+        "Green":    370,
+        "Grey":     375,
+        "Source":   "Reputation",
+        "RecipeID": 33158,
+        "Reagents": {
+            "Dawnstone": 1
+        },
+        "Phase": 1
+    },
+    "Swift Skyfire Diamond": {
+        "ID":       25894,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Reputation",
+        "RecipeID": 25908,
+        "Reagents": {
+            "Skyfire Diamond": 1
+        },
+        "Phase": 1
+    },
+    "Tenacious Earthstorm Diamond": {
+        "ID":       25898,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 25905,
+        "Reagents": {
+            "Earthstorm Diamond": 1
+        },
+        "Phase": 1
+    },
     "The Aquamarine Ward": {
         "ID":       21754,
         "Learn":    245,
@@ -855,6 +1651,19 @@ recipes = {
         "Reagents": {
             "Aquamarine": 1,
             "Thorium Setting": 1
+        },
+        "Phase": 1
+    },
+    "The Black Pearl": {
+        "ID":       32774,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Shadow Pearl": 1,
+            "Mercurial Adamantite": 4
         },
         "Phase": 1
     },
@@ -872,6 +1681,19 @@ recipes = {
         },
         "Phase": 1
     },
+    "Thick Adamantite Necklace": {
+        "ID":       24077,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    355,
+        "Grey":     365,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Adamantite Bar": 2,
+            "Mercurial Adamantite": 1
+        },
+        "Phase": 1
+    },
     "Thick Bronze Necklace": {
         "ID":       21933,
         "Learn":    50,
@@ -886,6 +1708,20 @@ recipes = {
         },
         "Phase": 1
     },
+    "Thick Felsteel Necklace": {
+        "ID":       24106,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 24166,
+        "Reagents": {
+            "Felsteel Bar": 2,
+            "Mercurial Adamantite": 3
+        },
+        "Phase": 1
+    },
     "Thorium Setting": {
         "ID":       21752,
         "Learn":    225,
@@ -895,6 +1731,19 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Thorium Bar": 1
+        },
+        "Phase": 1
+    },
+    "Thundering Skyfire Diamond": {
+        "ID":       32410,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 32411,
+        "Reagents": {
+            "Skyfire Diamond": 1
         },
         "Phase": 1
     },

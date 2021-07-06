@@ -1,6 +1,38 @@
 #!/usr/bin/env python3.7
 
 recipes = {
+    "Arcane Armor Kit": {
+        "ID":       29488,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 29675,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Primal Mana": 4
+        },
+        "Phase":    1
+    },
+    "Bag of Many Hides": {
+        "ID":       34490,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 34491,
+        "Reagents": {
+			"Heavy Knothide Leather": 15,
+            "Wind Scales": 5,
+            "Fel Hide": 5,
+            "Nether Dragonscale" :5,
+            "Thick Clefthoof Leather": 5,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
 	"Barbaric Belt": {
         "ID":       4264,
         "Learn":    200,
@@ -154,6 +186,23 @@ recipes = {
         },
         "Phase":    1
     },
+    "Black Dragonscale Boots": {
+        "ID":       16984,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 17025,
+        "Reagents": {
+			"Enchanted Leather": 6,
+            "Black Dragonscale": 30,
+            "Fiery Core": 4,
+            "Lava Core": 3,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
     "Black Dragonscale Breastplate": {
         "ID":       15050,
         "Learn":    290,
@@ -168,6 +217,40 @@ recipes = {
 			"Black Dragonscale": 60,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "BLack Dragonscale Leggings": {
+        "ID":       15052,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 15781,
+        "Reagents": {
+			"Rugged Leather": 40,
+            "Black Dragonscale": 60,
+            "Enchanted Leather": 4,
+            "Cured Rugged Hide": 1,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Black Dragonscale Shoulders": {
+        "ID":       15051,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 15770,
+        "Reagents": {
+			"Rugged Leather": 44,
+            "Black Dragonscale": 45,
+            "Enchanted Leather": 2,
+            "Cured Rugged Hide": 1,
+            "Rune Thread": 1
         },
         "Phase":    1
     },
@@ -204,6 +287,102 @@ recipes = {
         },
         "Phase":    1
     },
+    "Blackstorm Leggings": {
+        "ID":       29964,
+        "Learn":    260,
+        "Yellow":   280,
+        "Green":    290,
+        "Grey":     300,
+        "Source":   "Trainer",
+        "School":   "Elemental",
+        "Reagents": {
+			"Rugged Leather": 10,
+            "Breath of Wind": 8,
+            "Cured Thick Hide": 2,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Blastguard Belt": {
+        "ID":       29500,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29704,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Fel Hide": 6,
+            "Primal Fire": 3,
+            "Primal Water": 3
+        },
+        "Phase":    1
+    },
+    "Blastguard Boots": {
+        "ID":       29499,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29703,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Fel Hide": 8,
+            "Primal Fire": 3,
+            "Primal Water": 3
+        },
+        "Phase":    1
+    },
+    "Blastguard Pants": {
+        "ID":       29498,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29702,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Fel Hide": 10,
+            "Primal Fire": 4,
+            "Primal Water": 4
+        },
+        "Phase":    1
+    },
+    "Blood Tiger Breastplate": {
+        "ID":       19688,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19772,
+        "Reagents": {
+			"Primal Tiger Leather": 35,
+            "Bloodvine": 2,
+            "Cured Rugged Hide": 3,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Blood Tiger Shoulders": {
+        "ID":       19689,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19773,
+        "Reagents": {
+			"Primal Tiger Leather": 25,
+            "Bloodvine": 2,
+            "Cured Rugged Hide": 3,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
     "Blue Dragonscale Breastplate": {
         "ID":       15048,
         "Learn":    285,
@@ -218,6 +397,22 @@ recipes = {
 			"Blue Dragonscale": 30,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Blue Dragonscale Leggings": {
+        "ID":       20295,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "School":   "Dragonscale",
+        "Reagents": {
+			"Rugged Leather": 28,
+            "Blue Dragonscale": 36,
+            "Cured Rugged Hide": 2,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -236,6 +431,53 @@ recipes = {
 			"Enchanted Leather": 2,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Bramplewood Belt": {
+        "ID":       22761,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22769,
+        "Reagents": {
+			"Enchanted Leather": 4,
+            "Living Essence": 2,
+            "Cured Rugged Hide": 1
+        },
+        "Phase":    1
+    },
+    "Bramblewood Boots": {
+        "ID":       22760,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22770,
+        "Reagents": {
+			"Enchanted Leather": 6,
+            "Larval Acid": 2,
+            "Living Essence": 2,
+            "Cured Rugged Hide": 2
+        },
+        "Phase":    1
+    },
+    "Bramblewood Helm": {
+        "ID":       22759,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22771,
+        "Reagents": {
+			"Enchanted Leather": 12,
+            "Bloodvine": 2,
+            "Living Essence": 2,
+            "Cured Rugged Hide": 2
         },
         "Phase":    1
     },
@@ -303,6 +545,42 @@ recipes = {
         },
         "Phase":    1
     },
+    "Chromatic Cloak": {
+        "ID":       18509,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 18517,
+        "Reagents": {
+			"Rugged Leather": 30,
+            "Brilliant Chromatic Scale": 12,
+            "Black Dragonscale": 30,
+            "Red Dragonscale": 30,
+            "Cured Rugged Hide": 5,
+            "Rune Thread": 8
+        },
+        "Phase":    1
+    },
+    "Chromatic Gauntlets": {
+        "ID":       19157,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19331,
+        "Reagents": {
+			"Fiery Core": 5,
+            "Lave Core": 2,
+            "Core Leather": 4,
+            "Brilliant Chromatic Scale": 4,
+            "Cured Rugged Hide": 4,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
     "Comfortable Leather Hat": {
         "ID":       8174,
         "Learn":    200,
@@ -315,6 +593,37 @@ recipes = {
 			"Heavy Leather": 12,
 			"Cured Heavy Hide": 2,
 			"Silken Thread": 2
+        },
+        "Phase":    1
+    },
+    "Core Armor Kit": {
+        "ID":       18251,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 18252,
+        "Reagents": {
+			"Core Leather": 3,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Corehound Belt": {
+        "ID":       19162,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19332,
+        "Reagents": {
+			"Fiery Core": 8,
+            "Core Leather": 12,
+            "Enchanted Leather": 10,
+            "Cured Rugged Hide": 4,
+            "Ironweb Spider Silk": 4
         },
         "Phase":    1
     },
@@ -583,6 +892,22 @@ recipes = {
         },
         "Phase":    1
     },
+    "Devilsaur Leggings": {
+        "ID":       15062,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 15772,
+        "Reagents": {
+			"Rugged Leather": 30,
+            "Devilsaur Leather": 14,
+            "Curerd Rugged Hide": 1,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
     "Dragonscale Breastplate": {
         "ID":       8367,
         "Learn":    255,
@@ -612,6 +937,40 @@ recipes = {
 			"Worn Dragonscale": 12,
 			"Heavy Silken Thread": 4,
 			"Cured Thick Hide": 2
+        },
+        "Phase":    1
+    },
+    "Dragonstrike Leggings": {
+        "ID":       29971,
+        "Learn":    260,
+        "Yellow":   280,
+        "Green":    290,
+        "Grey":     300,
+        "Source":   "Trainer",
+        "School":   "Dragonscale",
+        "Reagents": {
+			"Rugged Leather": 10,
+            "Worn Dragonscale": 10,
+            "Heart of Fire": 2,
+            "Cured Thick Hide": 2,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Dreamscale Breastplate": {
+        "ID":       20380,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 20382,
+        "Reagents": {
+			"Enchanted Leather": 12,
+            "Dreamscale": 6,
+            "Living Essence": 4,
+            "Cured Rugged Hide": 4,
+            "Ironweb Spider Silk": 6
         },
         "Phase":    1
     },
@@ -770,6 +1129,96 @@ recipes = {
         },
         "Phase":    1
     },
+    "Enchanted Clefthoof Boots": {
+        "ID":       29497,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29701,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Thick Clefthoof Leather": 16,
+            "Primal Mana": 6
+        },
+        "Phase":    1
+    },
+    "Enchanted Clefthoof Gloves": {
+        "ID":       29496,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29700,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Thick Clefthoof Leather": 16,
+            "Primal Mana": 6
+        },
+        "Phase":    1
+    },
+    "Enchanted Clefthoof Leggings": {
+        "ID":       29495,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29698,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Thick Clefthoof Leather": 24,
+            "Primal Mana": 8
+        },
+        "Phase":    1
+    },
+    "Enchanted Felscale Boots": {
+        "ID":       29491,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29684,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Fel Scales": 10,
+            "Primal Mana": 6
+        },
+        "Phase":    1
+    },
+    "Enchanted Felscale Gloves": {
+        "ID":       29490,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29682,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Fel Scales": 10,
+            "Primal Mana": 6
+        },
+        "Phase":    1
+    },
+    "Enchanted Felscale Leggings": {
+        "ID":       29489,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29677,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Fel Scales": 12,
+            "Primal Mana": 8
+        },
+        "Phase":    1
+    },
     "Feathered Breastplate": {
         "ID":       8349,
         "Learn":    250,
@@ -784,6 +1233,161 @@ recipes = {
 			"Black Pearl": 2,
 			"Cured Thick Hide": 4,
 			"Heavy Silken Thread": 4
+        },
+        "Phase":    1
+    },
+    "Fel Leather Boots": {
+        "ID":       25686,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 25733,
+        "Reagents": {
+			"Heavy Knothide Leather": 10,
+            "Fel Hide": 8,
+            "Primal Shadow": 8,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Fel Leather Gloves": {
+        "ID":       25685,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Reputation",
+        "RecipeID": 25732,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Fel Hide": 6,
+            "Primal Shadow": 6,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Fel Leather Leggings": {
+        "ID":       25687,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 25734,
+        "Reagents": {
+			"Heavy Knothide Leather": 10,
+            "Fel Hide": 10,
+            "Primal Shadow": 10,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Felscale Boots": {
+        "ID":       25655,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 8,
+            "Fel Scales": 1,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Felscale Breastplate": {
+        "ID":       25657,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    355,
+        "Grey":     365,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 14,
+            "Fel Scales": 3,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Felscale Gloves": {
+        "ID":       25654,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 5,
+            "Fel Scales": 1,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Felscale Pants": {
+        "ID":       25656,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    340,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 10,
+            "Fel Scales": 3,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Felstalker Belt": {
+        "ID":       25695,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 25738,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Fel Hide": 4,
+            "Crystal Infused Leather": 8,
+            "Primal Air": 6,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Felstalker Bracer": {
+        "ID":       25697,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 25739,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Fel Hide": 6,
+            "Crystal Infused Leather": 6,
+            "Primal Air": 4,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Felstalker Breastplate": {
+        "ID":       25696,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 25740,
+        "Reagents": {
+			"Heavy Knothide Leather": 10,
+            "Fel Hide": 4,
+            "Crystal Infused Leather": 8,
+            "Primal Air": 8,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -871,6 +1475,68 @@ recipes = {
         },
         "Phase":    1
     },
+    "Flame Armor Kit": {
+        "ID":       29485,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 29672,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Primal Water": 4
+        },
+        "Phase":    1
+    },
+    "Flamescale Belt": {
+        "ID":       29494,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29693,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Crystal Infused Leather": 8,
+            "Primal Fire": 3,
+            "Primal Water": 3
+        },
+        "Phase":    1
+    },
+    "Flamescale Boots": {
+        "ID":       29493,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29691,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Crystal Infused Leather": 8,
+            "Primal Fire": 3,
+            "Primal Water": 3
+        },
+        "Phase":    1
+    },
+    "Flamescale Leggings": {
+        "ID":       29492,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 29689,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Crystal Infused Leather":  12,
+            "Primal Fire": 4,
+            "Primal Water": 4
+        },
+        "Phase":    1
+    },
     "Fletchers Gloves": {
         "ID":       7348,
         "Learn":    125,
@@ -882,6 +1548,20 @@ recipes = {
 			"Medium Leather": 8,
 			"Long Tail Feather": 4,
 			"Fine Thread": 2
+        },
+        "Phase":    1
+    },
+    "Frost Armor Kit": {
+        "ID":       29486,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 29673,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Primal Fire": 4
         },
         "Phase":    1
     },
@@ -948,6 +1628,22 @@ recipes = {
         },
         "Phase":    1
     },
+    "Frostsaber Tunic": {
+        "ID":       15068,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 15779,
+        "Reagents": {
+			"Rugged Leather": 12,
+            "Frostsaber Leather": 12,
+            "Cured Rugged Hide": 1,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
     "Gauntlets of the Sea": {
         "ID":       8346,
         "Learn":    230,
@@ -983,6 +1679,35 @@ recipes = {
         },
         "Phase":    1
     },
+    "Girdle of Insight": {
+        "ID":       18504,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 18514,
+        "Reagents": {
+			"Rugged Leather": 12,
+            "Powerful Mojo": 12,
+            "Cured Rugged Hide": 2,
+            "Rune Thread": 4
+        },
+        "Phase":    1
+    },
+    "Glove Reinforcement": {
+        "ID":       34207,
+        "Learn":    350,
+        "Yellow":   355,
+        "Green":    360,
+        "Grey":     365,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Primal Earth": 3
+        },
+        "Phase":    1
+    },
     "Gloves of the Greatfather": {
         "ID":       17721,
         "Learn":    190,
@@ -995,6 +1720,39 @@ recipes = {
 			"Heavy Leather": 8,
 			"Elemental Earth": 4,
 			"Silken Thread": 1
+        },
+        "Phase":    1
+    },
+    "Golden Dragonstrike Breastplate": {
+        "ID":       29975,
+        "Learn":    330,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Trainer",
+        "School":   "Dragonscale",
+        "Reagents": {
+			"Knothide Leather": 20,
+            "Black Dragonscale": 8,
+            "Primal Fire": 3,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Golden Mantle of the Dawn": {
+        "ID":       19058,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19329,
+        "Reagents": {
+			"Enchanted Leather": 8,
+            "Living Essence": 4,
+            "Guardian Stone": 4,
+            "Cured Rugged Hide": 2,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -1303,6 +2061,54 @@ recipes = {
         },
         "Phase":    1
     },
+    "Heavy Clefthoof Boots": {
+        "ID":       25691,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Reputation",
+        "RecipeID": 25737,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Thick Clefthoof Leather": 20,
+            "Primal Earth": 4,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Heavy Clefthoof Leggings": {
+        "ID":       25690,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Reputation",
+        "RecipeID": 25736,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Thick Clefthoof Leather": 34,
+            "Primal Earth": 4,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Heavy Clefthoof Vest": {
+        "ID":       25689,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 25735,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Thick Clefthoof Leather": 40,
+            "Primal Earth": 4,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
     "Heavy Earthen Gloves": {
         "ID":       7359,
         "Learn":    145,
@@ -1316,6 +2122,18 @@ recipes = {
 			"Elemental Earth": 2,
 			"Bolt of Woolen Cloth": 2,
 			"Fine Thread": 2
+        },
+        "Phase":    1
+    },
+    "Heavy Knothide Armor Kit": {
+        "ID":       34330,
+        "Learn":    350,
+        "Yellow":   355,
+        "Green":    360,
+        "Grey":     365,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Heavy Knothide Leather": 3
         },
         "Phase":    1
     },
@@ -1447,6 +2265,22 @@ recipes = {
         },
         "Phase":    1
     },
+    "Heavy Scorpid Shoulders": {
+        "ID":       15081,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 15774,
+        "Reagents": {
+			"Rugged Leather": 14,
+            "Heavy Scorpid Scale": 14,
+            "Cured Rugged Hide": 1,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
     "Heavy Scorpid Vest": {
         "ID":       15076,
         "Learn":    265,
@@ -1492,6 +2326,24 @@ recipes = {
 			"Medium Leather": 8,
 			"Kingsblood": 4,
 			"Fine Thread": 2
+        },
+        "Phase":    1
+    },
+    "Hide of the Wild": {
+        "ID":       18510,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 18518,
+        "Reagents": {
+			"Rugged Leather": 30,
+            "Living Essence ": 12,
+            "Essence of Water": 10,
+            "Larval Acid": 8,
+            "Cured Rugged Hide": 3,
+            "Rune Thread": 8
         },
         "Phase":    1
     },
@@ -1565,6 +2417,57 @@ recipes = {
         },
         "Phase":    1
     },
+    "Icy Scale Bracers": {
+        "ID":       22665,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22698,
+        "Reagents": {
+			"Frozen Rune": 4,
+            "Heavy Scorpid Scale": 16,
+            "Essence of Water": 2,
+            "Cured Rugged Hide": 2,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
+    "Icy Scale Breastplate": {
+        "ID":       22664,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22696,
+        "Reagents": {
+			"Frozen Rune": 7,
+            "Heavy Scorpid Scale": 24,
+            "Essence of Water": 2,
+            "Cured Rugged Hide": 4,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
+    "Icy Scale Gauntlets": {
+        "ID":       22666,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22697,
+        "Reagents": {
+			"Frozen Rune": 5,
+            "Heavy Scorpid Scale": 16,
+            "Essence of Water": 2,
+            "Cured Rugged Hide": 3,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
     "Ironfeather Breastplate": {
         "ID":       15066,
         "Learn":    290,
@@ -1600,6 +2503,18 @@ recipes = {
         },
         "Phase":    1
     },
+    "Knothide Armor Kit": {
+        "ID":       25650,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    325,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 4
+        },
+        "Phase":    1
+    },
     "Kodo Hide Bag": {
         "ID":       5081,
         "Learn":    40,
@@ -1613,6 +2528,36 @@ recipes = {
 			"Thin Kodo Leather": 3,
 			"Light Leather": 4,
 			"Coarse Thread": 1
+        },
+        "Phase":    1
+    },
+    "Lava Belt": {
+        "ID":       19149,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19330,
+        "Reagents": {
+			"Lava Core": 5,
+            "Cured Rugged Hide": 4,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
+    "Leatherworkers Satchel": {
+        "ID":       34482,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 20,
+            "Fel Scales": 4,
+            "Fel Hide": 4,
+            "Rune Thread": 3
         },
         "Phase":    1
     },
@@ -1680,6 +2625,39 @@ recipes = {
         },
         "Phase":    1
     },
+    "Living Breastplate": {
+        "ID":       15059,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 15771,
+        "Reagents": {
+			"Rugged Leather": 16,
+            "Living Essence": 8,
+            "Mooncloth": 2,
+            "Cured Rugged Hide": 1,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Living Crystal Breastplate": {
+        "ID":       29974,
+        "Learn":    330,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Trainer",
+        "School":   "Tribal",
+        "Reagents": {
+			"Knothide Leather": 20,
+            "Crystal Infused Leather": 12,
+            "Primal Life": 3,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
     "Living Leggings": {
         "ID":       15060,
         "Learn":    285,
@@ -1710,6 +2688,20 @@ recipes = {
 			"Rugged Leather": 12,
 			"Living Essence": 4,
 			"Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Magisters Armor Kit": {
+        "ID":       25652,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    340,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 25722,
+        "Reagents": {
+			"Heavy Knothide Leater": 3,
+            "Primal Mana": 1
         },
         "Phase":    1
     },
@@ -1754,6 +2746,56 @@ recipes = {
 			"Rune Thread": 2
         },
         "Phase":    3
+    },
+    "Molden Belt": {
+        "ID":       19163,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19333,
+        "Reagents": {
+			"Fiery Core": 2,
+            "Lava Core": 7,
+            "Essence of Earth": 6,
+            "Cured Rugged Hide": 4,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
+    "Molten Helm": {
+        "ID":       16983,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 17023,
+        "Reagents": {
+			"Core Leather": 15,
+            "Fiery Core": 3,
+            "Lava Core": 6,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Mongoose Boots": {
+        "ID":       18506,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 18515,
+        "Reagents": {
+			"Rugged Leather": 12,
+            "Essence of Air": 6,
+            "Black Diamond": 4,
+            "Cured Rugged Hide": 2,
+            "Rune Thread": 4
+        },
+        "Phase":    1
     },
     "Moonglow Vest": {
         "ID":       6709,
@@ -1816,6 +2858,71 @@ recipes = {
 			"Cured Light Hide": 1,
 			"Light Leather": 8,
 			"Fine Thread": 1
+        },
+        "Phase":    1
+    },
+    "Nature Armor Kit": {
+        "ID":       29487,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 29674,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Primal Shadow": 4
+        },
+        "Phase":    1
+    },
+    "Netherfury Belt": {
+        "ID":       25694,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Reputation",
+        "RecipeID": 25741,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Crystal Infused Leather": 8,
+            "Primal Water": 3,
+            "Primal Mana": 3,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Netherfury Boots": {
+        "ID":       25693,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 25743,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Crystal Infused Leather": 10,
+            "Primal Water": 4,
+            "Primal Mana": 4,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Netherfury Leggings": {
+        "ID":       25692,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Reputation",
+        "RecipeID": 25742,
+        "Reagents": {
+			"Heavy Knothide Leather": 8,
+            "Crystal Infused Leather": 12,
+            "Primal Water": 5,
+            "Primal Mana": 5,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -1900,6 +3007,21 @@ recipes = {
         },
         "Phase":    1
     },
+    "Onyxia Scale Cloak": {
+        "ID":       15138,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Quest",
+        "RecipeID": 15769,
+        "Reagents": {
+			"Scale of Onyxia": 1,
+            "Cindercloth Cloak": 1,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
     "Pilferers Gloves": {
         "ID":       7358,
         "Learn":    140,
@@ -1912,6 +3034,121 @@ recipes = {
 			"Medium Leather": 10,
 			"Lucky Charm": 2,
 			"Fine Thread": 2
+        },
+        "Phase":    1
+    },
+    "Polar Bracers": {
+        "ID":       22663,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22695,
+        "Reagents": {
+			"Frozen Rune": 4,
+            "Enchanted Leather": 12,
+            "Essence of Water": 2,
+            "Cured Rugged Hide": 2,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
+    "Polar Gloves": {
+        "ID":       22662,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22694,
+        "Reagents": {
+			"Frozen Rune": 5,
+            "Enchanted Leather": 12,
+            "Essence of Water": 2,
+            "Cured Rugged Hide": 3,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
+    "Polar Tunic": {
+        "ID":       22661,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22692,
+        "Reagents": {
+			"Frozen Rune": 7,
+            "Enchanted Leather": 16,
+            "Essence of Water": 2,
+            "Cured Rugged Hide": 4,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
+    "Priaml Batskin Bracers": {
+        "ID":       19687,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19771,
+        "Reagents": {
+			"Primal Bat Leather": 8,
+            "Cured Rugged Hide": 3,
+            "Living Essence": 4,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Priaml Batskin Gloves": {
+        "ID":       19686,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19770,
+        "Reagents": {
+			"Primal Bat Leather": 10,
+            "Cured Rugged Hide": 4,
+            "Living Essence": 4,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Primal Batskin Jerkin": {
+        "ID":       19685,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19769,
+        "Reagents": {
+			"Primal Bat Leather": 14,
+            "Cured Rugged Hide": 5,
+            "Living Essence": 4,
+            "Rune Thread": 4
+        },
+        "Phase":    1
+    },
+    "Primalstorm Breastplate": {
+        "ID":       29973,
+        "Learn":    330,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "Trainer",
+        "School":   "Elemental",
+        "Reagents": {
+			"Knothide Leather": 20,
+            "Primal Air": 2,
+            "Primal Earth": 2,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -1962,6 +3199,21 @@ recipes = {
         },
         "Phase":    1
     },
+    "Red Dragonscale Breastplate": {
+        "ID":       15047,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 15730,
+        "Reagents": {
+			"Rugged Leather": 40,
+            "Red Dragonscale": 30,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
     "Red Whelp Gloves": {
         "ID":       7284,
         "Learn":    120,
@@ -1975,6 +3227,36 @@ recipes = {
 			"Red Whelp Scale": 6,
 			"Medium Leather": 4,
 			"Fine Thread": 1
+        },
+        "Phase":    1
+    },
+    "Reinforced Mining Bag": {
+        "ID":       29540,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    340,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 29664,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Primal Earth": 4
+        },
+        "Phase":    1
+    },
+    "Riding Crop": {
+        "ID":       25653,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Vendor",
+        "RecipeID": 25725,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Primal Might": 1,
+            "Arcane Dust": 6,
+            "Small Prismatic Shard": 1
         },
         "Phase":    1
     },
@@ -2013,6 +3295,22 @@ recipes = {
         "Reagents": {
 			"Light Leather": 5,
 			"Coarse Thread": 5
+        },
+        "Phase":    1
+    },
+    "Runic Leather Armor": {
+        "ID":       15090,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Rugged Leather": 22,
+            "Enchanted Leather": 4,
+            "Runecloth": 16,
+            "Cured Rugged Hide": 1,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -2077,6 +3375,154 @@ recipes = {
         },
         "Phase":    1
     },
+    "Runic Leather Pants": {
+        "ID":       15095,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Rugged Leather": 18,
+            "Runecloth": 12,
+            "Enchanting Leather": 2,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Runic Leather Shoulders": {
+        "ID":       15096,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Rugged Leather": 16,
+            "Enchanted Leather": 4,
+            "Runecloth": 18,
+            "Cured Rugged Hide": 1,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Sandstalker Bracers": {
+        "ID":       20476,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 20509,
+        "Reagents": {
+			"Heavy Silithid Carapace": 1,
+            "Silithiud Chitin": 20,
+            "Larval Acid": 2
+        },
+        "Phase":    1
+    },
+    "Sandstalker Breastplate": {
+        "ID":       20478,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 20511,
+        "Reagents": {
+			"Heavy Silithid Carapace": 3,
+            "Silithid Chitin": 40,
+            "Larval Acid": 2,
+            "Cured Rugged Hide": 2
+        },
+        "Phase":    1
+    },
+    "Sandstalker Gauntlets": {
+        "ID":       20477,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 20510,
+        "Reagents": {
+			"Heavy Silithid Carapace": 2,
+            "Silithid Chitin": 30,
+            "Larval Acid": 2,
+            "Cured Rugged Hide": 1
+        },
+        "Phase":    1
+    },
+    "Scaled Draenic Boots": {
+        "ID":       25659,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    355,
+        "Grey":     365,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 12,
+            "Fel Scales": 2,
+            "Rune Tread": 3
+        },
+        "Phase":    1
+    },
+    "Scaled Draenic Gloves": {
+        "ID":       25661,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 8,
+            "Fel Scales": 1,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Scaled Draenic Pants": {
+        "ID":       25662,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 6,
+            "Fel Scales": 3,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Scaled Draenic Vest": {
+        "ID":       25660,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 12,
+            "Fel Scales": 3,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Shadow Armor Kit": {
+        "ID":       29483,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 29669,
+        "Reagents": {
+			"Heavy Knothide Leather": 4,
+            "Primal Life": 4
+        },
+        "Phase":    1
+    },
     "Shadowskin Gloves": {
         "ID":       18238,
         "Learn":    200,
@@ -2108,6 +3554,53 @@ recipes = {
         },
         "Phase":    1
     },
+    "Spitfire Bracers": {
+        "ID":       20481,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 20506,
+        "Reagents": {
+			"Light Silithid Carapace": 1,
+            "Silithid Chitin": 20,
+            "Essence of Fire": 2
+        },
+        "Phase":    1
+    },
+    "Spitfire Breastplate": {
+        "ID":       20479,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 20508,
+        "Reagents": {
+			"Light Silithid Carapace": 3,
+            "Silithid Chitin": 40,
+            "Essence of Fire": 2,
+            "Cured Rugged Hide": 2
+        },
+        "Phase":    1
+    },
+    "Spitfire Gauntlets": {
+        "ID":       20480,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 20507,
+        "Reagents": {
+			"Light Silithid Carapace": 2,
+            "Silithid Chitin": 30,
+            "Essence of Fire": 2,
+            "Cured Rugged Hide": 1
+        },
+        "Phase":    1
+    },
     "Stormshroud Armor": {
         "ID":       15056,
         "Learn":    285,
@@ -2123,6 +3616,23 @@ recipes = {
 			"Essence of Air": 3,
 			"Cured Rugged Hide": 1,
 			"Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Stormshroud Gloves": {
+        "ID":       21278,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 21548,
+        "Reagents": {
+			"Enchanted Leather": 6,
+            "Essence of Water": 4,
+            "Essence of Air": 4,
+            "Cured Rugged Hide": 2,
+            "Ironweb Spider Silk": 2
         },
         "Phase":    1
     },
@@ -2161,6 +3671,73 @@ recipes = {
         },
         "Phase":    1
     },
+    "Stylin Adventurer Hat": {
+        "ID":       25681,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 25729,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Cobra Scales": 2,
+            "Primal Life": 8,
+            "Black Dye": 4,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Stylin Crimson Hat": {
+        "ID":       25683,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 25731,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Cobra Scales": 2,
+            "Primal Fire": 8,
+            "Red Dye": 4,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Stylin Jungle Hat": {
+        "ID":       25682,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 25730,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Cobra Scales": 2,
+            "Primal Earth": 8,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Stylin Purple Hat": {
+        "ID":       25680,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 25728,
+        "Reagents": {
+			"Heavy Knothide Leather": 6,
+            "Cobra Scales": 2,
+            "Primal Shadow": 8,
+            "Purple Dye": 4,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
     "Swift Boots": {
         "ID":       7391,
         "Learn":    200,
@@ -2177,6 +3754,23 @@ recipes = {
         },
         "Phase":    1
     },
+    "Swift Flight Bracers": {
+        "ID":       18508,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 18516,
+        "Reagents": {
+			"Rugged Leather": 12,
+            "Larval Acid": 8,
+            "Ironfeather": 60,
+            "Cured Rugged Hide": 4,
+            "Rune Thread": 4
+        },
+        "Phase":    1
+    },
     "Thick Armor Kit": {
         "ID":       8173,
         "Learn":    200,
@@ -2187,6 +3781,58 @@ recipes = {
         "Reagents": {
 			"Thick Leather": 5,
 			"Silken Thread": 1
+        },
+        "Phase":    1
+    },
+    "Thick Draenic Boots": {
+        "ID":       25668,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    340,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 10,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Thick Draenic Gloves": {
+        "ID":       25669,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 6,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Thick Draenic Pants": {
+        "ID":       25670,
+        "Learn":    315,
+        "Yellow":   325,
+        "Green":    335,
+        "Grey":     345,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 10,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Thick Draenic Vest": {
+        "ID":       25671,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 14,
+            "Rune Thread": 3
         },
         "Phase":    1
     },
@@ -2230,6 +3876,23 @@ recipes = {
 			"Cured Heavy Hide": 1,
 			"Heavy Leather": 10,
 			"Fine Thread": 3
+        },
+        "Phase":    1
+    },
+    "Timbermaw Brawlers": {
+        "ID":       19049,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19327,
+        "Reagents": {
+			"Enchanted Leather": 8,
+            "Powerful Mojo": 6,
+            "Living Essence ": 6,
+            "Cured Rugged Hide": 2,
+            "Ironweb Spider Silk": 2
         },
         "Phase":    1
     },
@@ -2439,6 +4102,20 @@ recipes = {
         },
         "Phase":    1
     },
+    "Vindicatiors Armor Kit": {
+        "ID":       25651,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    340,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 25721,
+        "Reagents": {
+			"Heavy Knothide Leather": 3,
+            "Primal Earth": 1
+        },
+        "Phase":    1
+    },
     "Volcanic Breastplate": {
         "ID":       15053,
         "Learn":    285,
@@ -2470,6 +4147,22 @@ recipes = {
 			"Essence of Fire": 1,
 			"Core of Earth": 1,
 			"Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Volcanic Shoulders": {
+        "ID":       15055,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 15775,
+        "Reagents": {
+			"Rugged Leather": 10,
+            "Essence of Fire": 1,
+            "Essence of Earth": 1,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -2517,6 +4210,36 @@ recipes = {
 			"Light Leather": 8,
 			"Coarse Thread": 2,
 			"Bleach": 1
+        },
+        "Phase":    1
+    },
+    "Wicked Leather Armor": {
+        "ID":       15085,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Rugged Leather": 20,
+            "Cured Rugged Hide": 2,
+            "Felcloth": 2,
+            "Black Dye": 4,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Wicked Leather Belt": {
+        "ID":       15088,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Rugged Leather": 14,
+            "Black Dye": 2,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -2578,6 +4301,58 @@ recipes = {
 			"Cured Rugged Hide": 1,
 			"Black Dye": 3,
 			"Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Wild Draenish Boots": {
+        "ID":       25673,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 6,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Wild Draenish Gloves": {
+        "ID":       25674,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 9,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Wild Draenish Leggings": {
+        "ID":       25675,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    340,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 13,
+            "Rune Thread": 3
+        },
+        "Phase":    1
+    },
+    "Wild Draenish Vest": {
+        "ID":       25676,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Knothide Leather": 15,
+            "Rune Thread": 3
         },
         "Phase":    1
     },
@@ -2674,6 +4449,23 @@ recipes = {
 			"Thick Leather": 12,
 			"Wildvine": 2,
 			"Cured Thick Hide": 1
+        },
+        "Phase":    1
+    },
+    "Wildfeather Leggings": {
+        "ID":       29970,
+        "Learn":    260,
+        "Yellow":   380,
+        "Green":    290,
+        "Grey":     300,
+        "Source":   "Trainer",
+        "School":   "Tribal",
+        "Reagents": {
+			"Rugged Leather": 10,
+            "Jet Black Feather": 40,
+            "Wildvine": 4,
+            "Cured Thick Hide": 2,
+            "Rune Thread": 1
         },
         "Phase":    1
     },

@@ -16,6 +16,51 @@ recipes = {
         },
         "Phase":    1
     },
+    "Arcanoweave Boots": {
+        "ID":       21867,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    375,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 21906,
+        "Reagents": {
+            "Bolt of Netherweave": 8,
+            "Arcane Dust": 16,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Arcanoweave Bracers": {
+        "ID":       21866,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    365,
+        "Grey":     370,
+        "Source":   "Drop",
+        "RecipeID": 21905,
+        "Reagents": {
+            "Bolt of Netherweave": 6,
+            "Arcane Dust": 12,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Arcanoweave Robe": {
+        "ID":       21868,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    385,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 21907,
+        "Reagents": {
+            "Bolt of Netherweave": 12,
+            "Arcane Dust": 20,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
     "Argent Boots": {
         "ID":       19056,
         "Learn":    290,
@@ -28,6 +73,21 @@ recipes = {
             "Bolt of Runecloth": 6,
             "Enchanted Leather": 4,
             "Golden Pearl": 2,
+            "Guardian Stone": 2,
+            "Ironweb Spider Silk": 2
+        },
+        "Phase":    1
+    },
+    "Argent Shoulders": {
+        "ID":       19059,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 19217,
+        "Reagents": {
+            "Mooncloth": 5,
             "Guardian Stone": 2,
             "Ironweb Spider Silk": 2
         },
@@ -137,6 +197,20 @@ recipes = {
         },
         "Phase":    1
     },
+    "Bag of Jewels": {
+        "ID":       24270,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 24314,
+        "Reagents": {
+            "Bolt of Imbued Netherweave": 6,
+            "Knothide Leather": 4
+        },
+        "Phase":    1
+    },
     "Barbaric Linen Vest": {
         "ID":       2578,
         "Learn":    70,
@@ -148,6 +222,22 @@ recipes = {
             "Bolt of Linen Cloth": 4,
             "Light Leather": 1,
             "Fine Thread": 1
+        },
+        "Phase":    1
+    },
+    "Big Bag of Enchantment": {
+        "ID":       22249,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Drop",
+        "RecipeID": 22309,
+        "Reagents": {
+            "Bolt of Runecloth": 6,
+            "Large Brilliant Shard": 4,
+            "Enchanted Leather": 4,
+            "Ironweb Spider Silk": 4
         },
         "Phase":    1
     },
@@ -273,6 +363,20 @@ recipes = {
         },
         "Phase":    1
     },
+    "Blackstrike Bracers": {
+        "ID":       24251,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    365,
+        "Grey":     370,
+        "Source":   "Drop",
+        "RecipeID": 24298,
+        "Reagents": {
+            "Bolt of Imbued Netherweave": 4,
+            "Primal Fire": 8
+        },
+        "Phase":    1
+    },
     "Blue Linen Robe": {
         "ID":       6242,
         "Learn":    70,
@@ -353,6 +457,32 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Mageweave Cloth": 5
+        },
+        "Phase":    1
+    },
+    "Bolt of Imbued Netherweave": {
+        "ID":       21842,
+        "Learn":    325,
+        "Yellow":   330,
+        "Green":    335,
+        "Grey":     340,
+        "Source":   "Vendor",
+        "RecipeID": 21892,
+        "Reagents": {
+            "Bolt of Netherweave": 3,
+            "Arcane Dust": 2
+        },
+        "Phase":    1
+    },
+    "Bolt of Netherweave": {
+        "ID":       21840,
+        "Learn":    300,
+        "Yellow":   305,
+        "Green":    315,
+        "Grey":     325,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Netherweave Cloth": 6
         },
         "Phase":    1
     },
@@ -857,6 +987,20 @@ recipes = {
         },
         "Phase":    1
     },
+    "Dress Shoes": {
+        "ID":       6836,
+        "Learn":    250,
+        "Yellow":   255,
+        "Green":    270,
+        "Grey":     285,
+        "Source":   "VendorLimited",
+        "RecipeID": 37915,
+        "Reagents": {
+            "Bolt of Mageweave": 4,
+            "Thick Leather": 2
+        },
+        "Phase":    1
+    },
     "Earthen Silk Belt": {
         "ID":       7061,
         "Learn":    195,
@@ -1027,6 +1171,51 @@ recipes = {
         },
         "Phase":    1
     },
+    "Flameheart Bracers": {
+        "ID":       30837,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    365,
+        "Grey":     370,
+        "Source":   "Reputation",
+        "RecipeID": 30842,
+        "Reagents": {
+            "Bolt of Netherweave": 5,
+            "Primal Fire": 5,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Flameheart Gloves": {
+        "ID":       30838,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    375,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 30843,
+        "Reagents": {
+            "Bolt of Netherweave": 7,
+            "Primal Fire": 7,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Flameheart Vest": {
+        "ID":       30839,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    385,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 30844,
+        "Reagents": {
+            "Bolt of Netherweave": 9,
+            "Primal Fire": 9,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
     "Formal White Shirt": {
         "ID":       4334,
         "Learn":    170,
@@ -1101,6 +1290,22 @@ recipes = {
         },
         "Phase":    1
     },
+    "Gaeas Embrace": {
+        "ID":       22660,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 22683,
+        "Reagents": {
+            "Bloodvine": 1,
+            "Mooncloth": 2,
+            "Living Essence": 4,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
     "Ghostweave Belt": {
         "ID":       14143,
         "Learn":    265,
@@ -1161,6 +1366,70 @@ recipes = {
             "Ghost Dye": 4,
             "Ironweb Spider Silk": 1,
             "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Glacial Cloak": {
+        "ID":       22658,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 22685,
+        "Reagents": {
+            "Frozen Rune": 5,
+            "Bolt of Runecloth": 4,
+            "Essence of Water": 2,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
+    "Glacial Gloves": {
+        "ID":       22654,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 22684,
+        "Reagents": {
+            "Frozen Rune": 5,
+            "Bolt of Runecloth": 4,
+            "Essence of Water": 4,
+            "Ironweb Spider Silk": 4
+        },
+        "Phase":    1
+    },
+    "Glacial Vest": {
+        "ID":       22652,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 22686,
+        "Reagents": {
+            "Frozen Rune": 7,
+            "Bolt of Runecloth": 8,
+            "Essence of Water": 6,
+            "Ironweb Spider Silk": 8
+        },
+        "Phase":    1
+    },
+    "Glacial Wrists": {
+        "ID":       22655,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 22687,
+        "Reagents": {
+            "Frozen Rune": 4,
+            "Bolt of Runecloth": 2,
+            "Essence of Water": 2,
+            "Ironweb Spider Silk": 4
         },
         "Phase":    1
     },
@@ -1338,6 +1607,37 @@ recipes = {
         },
         "Phase":    1
     },
+    "Haliscan Jacket": {
+        "ID":       38277,
+        "Learn":    250,
+        "Yellow":   265,
+        "Green":    280,
+        "Grey":     295,
+        "Source":   "Vendor",
+        "RecipeID": 38327,
+        "Reagents": {
+            "Bolt of Mageweave": 5,
+            "Black Dye": 2,
+            "Red Dye": 1,
+            "Heavy Silken Thread": 3
+        },
+        "Phase":    1
+    },
+    "Haliscan Pantaloons": {
+        "ID":       38278,
+        "Learn":    245,
+        "Yellow":   250,
+        "Green":    255,
+        "Grey":     260,
+        "Source":   "Vendor",
+        "RecipeID": 38328,
+        "Reagents": {
+            "Bolt of Mageweave": 4,
+            "Heavy Silken Thread": 3,
+            "Black Dye": 3
+        },
+        "Phase":    1
+    },
     "Hands of Darkness": {
         "ID":       7047,
         "Learn":    145,
@@ -1434,6 +1734,83 @@ recipes = {
             "Silken Thread": 2,
             "Frost Oil": 1,
             "Thick Spiders Silk": 2
+        },
+        "Phase":    1
+    },
+    "Imbued Netherweave Boots": {
+        "ID":       21860,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    365,
+        "Grey":     370,
+        "Source":   "VendorLimited",
+        "RecipeID": 21899,
+        "Reagents": {
+            "Bolt of Imbued Netherweave": 4,
+            "Knothide Leather": 6,
+            "Netherweb Spider Silk": 2,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Imbued Netherweave Pants": {
+        "ID":       21859,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "VendorLimited",
+        "RecipeID": 21898,
+        "Reagents": {
+            "Bolt of Imbued Netherweave": 5,
+            "Netherweb Spider Silk": 2,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Imbued Netherweave Robe": {
+        "ID":       21861,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    375,
+        "Grey":     380,
+        "Source":   "VendorLimited",
+        "RecipeID": 21900,
+        "Reagents": {
+            "Bolt of Imbued Netherweave": 6,
+            "Netherweb Spider Silk": 2,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Imbued Netherweave Tunic": {
+        "ID":       21862,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    375,
+        "Grey":     380,
+        "Source":   "VendorLimited",
+        "RecipeID": 21901,
+        "Reagents": {
+            "Bolt of Imbued Netherweave": 6,
+            "Netherweb Spider Silk": 2,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Inferno Gloves": {
+        "ID":       18408,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Drop",
+        "RecipeID": 18416,
+        "Reagents": {
+            "Bolt of Runecloth": 12,
+            "Essence of Fire": 10,
+            "Star Ruby": 2,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -1546,6 +1923,50 @@ recipes = {
         },
         "Phase":    1
     },
+    "Mantle of the Timbermaw": {
+        "ID":       19050,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 19218,
+        "Reagents": {
+            "Mooncloth": 5,
+            "Essence of Earth": 5,
+            "Living Essence": 5,
+            "Ironweb Spider Silk": 2
+        },
+        "Phase":    1
+    },
+    "Mooncloth": {
+        "ID":       14342,
+        "Learn":    250,
+        "Yellow":   290,
+        "Green":    305,
+        "Grey":     320,
+        "Source":   "Vendor",
+        "RecipeID": 14526,
+        "Reagents": {
+            "Felcloth": 2
+        },
+        "Phase":    1
+    },
+    "Mooncloth Bag": {
+        "ID":       14155,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Drop",
+        "RecipeID": 14499,
+        "Reagents": {
+            "Bolt of Runecloth": 4,
+            "Mooncloth": 1,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
     "Mooncloth Boots": {
         "ID":       15802,
         "Learn":    290,
@@ -1563,6 +1984,39 @@ recipes = {
         },
         "Phase":    1
     },
+    "Mooncloth Circlet": {
+        "ID":       14140,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Drop",
+        "RecipeID": 14509,
+        "Reagents": {
+            "Bolt of Runecloth": 4,
+            "Mooncloth": 6,
+            "Azerothian Diamond": 1,
+            "Enchanted Leather": 2,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Mooncloth Gloves": {
+        "ID":       18409,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Drop",
+        "RecipeID": 18417,
+        "Reagents": {
+            "Bolt of Runecloth": 12,
+            "Mooncloth": 6,
+            "Golden Pearl": 2,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
     "Mooncloth Leggings": {
         "ID":       14137,
         "Learn":    290,
@@ -1575,6 +2029,147 @@ recipes = {
             "Bolt of Runecloth": 6,
             "Mooncloth": 4,
             "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Mooncloth Robe": {
+        "ID":       18486,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "VendorLimited",
+        "RecipeID": 18487,
+        "Reagents": {
+            "Bolt of Runecloth": 6,
+            "Mooncloth": 4,
+            "Golden Pearl": 2,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Mooncloth Shoulders": {
+        "ID":       14139,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Drop",
+        "RecipeID": 14507,
+        "Reagents": {
+            "Bolt of Runecloth": 5,
+            "Mooncloth": 5,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Mooncloth Vest": {
+        "ID":       14138,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Drop",
+        "RecipeID": 14501,
+        "Reagents": {
+            "Bolt of Runecloth": 6,
+            "Mooncloth": 4,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Netherweave Bag": {
+        "ID":       21841,
+        "Learn":    315,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Bolt of Netherweave": 4,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Netherweave Belt": {
+        "ID":       21850,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    325,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Bolt of Netherweave": 3,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Netherweave Boots": {
+        "ID":       21853,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    350,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Bolt of Netherweave": 6,
+            "Knothide Leather": 2,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Netherweave Bracers": {
+        "ID":       21849,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    325,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Bolt of Netherweave": 3,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Netherweave Gloves": {
+        "ID":       21851,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    335,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Bolt of Netherweave": 4,
+            "Knothide Leather": 2,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Netherweave Robe": {
+        "ID":       21854,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Vendor",
+        "RecipeID": 21896,
+        "Reagents": {
+            "Bolt of Netherweave": 8,
+            "Rune Thread": 2
+        },
+        "Phase":    1
+    },
+    "Netherweave Tunic": {
+        "ID":       21855,
+        "Learn":    345,
+        "Yellow":   355,
+        "Green":    360,
+        "Grey":     365,
+        "Source":   "Vendor",
+        "RecipeID": 21897,
+        "Reagents": {
+            "Bolt of Netherweave": 8,
+            "Rune Thread": 2
         },
         "Phase":    1
     },
@@ -2054,6 +2649,22 @@ recipes = {
         },
         "Phase":    1
     },
+    "Runecloth Shoulders": {
+        "ID":       13867,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Drop",
+        "RecipeID": 14504,
+        "Reagents": {
+            "Bolt of Runecloth": 7,
+            "Ironweb Spider Silk": 2,
+            "Rugged Leather": 4,
+            "Rune Thread": 1
+        },
+        "Phase":    1
+    },
     "Runecloth Tunic": {
         "ID":       13857,
         "Learn":    260,
@@ -2066,6 +2677,22 @@ recipes = {
             "Bolt of Runecloth": 5,
             "Ironweb Spider Silk": 1,
             "Rune Thread": 1
+        },
+        "Phase":    1
+    },
+    "Satchel of Cenarius": {
+        "ID":       22252,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 22312,
+        "Reagents": {
+            "Bolt of Runecloth": 6,
+            "Mooncloth": 2,
+            "Black Lotus": 1,
+            "Ironweb Spider Silk": 4
         },
         "Phase":    1
     },
@@ -2299,6 +2926,49 @@ recipes = {
         },
         "Phase":    1
     },
+    "Soulcloth Gloves": {
+        "ID":       21863,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    370,
+        "Grey":     375,
+        "Source":   "VendorLimited",
+        "RecipeID": 21902,
+        "Reagents": {
+            "Bolt of Soulcloth": 5,
+            "Knothide Leather": 6,
+            "Rune Thread": 4
+        },
+        "Phase":    1
+    },
+    "Soulcloth Shoulders": {
+        "ID":       21864,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    380,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 21903,
+        "Reagents": {
+            "Bolt of Soulcloth": 6,
+            "Rune Thread": 4
+        },
+        "Phase":    1
+    },
+    "Soulcloth Vest": {
+        "ID":       21865,
+        "Learn":    375,
+        "Yellow":   385,
+        "Green":    390,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 21904,
+        "Reagents": {
+            "Bolt of Soulcloth": 8,
+            "Rune Thread": 4
+        },
+        "Phase":    1
+    },
     "Spider Belt": {
         "ID":       4328,
         "Learn":    180,
@@ -2404,6 +3074,53 @@ recipes = {
             "Bolt of Woolen Cloth": 3,
             "Red Dye": 2,
             "Fine Thread": 1
+        },
+        "Phase":    1
+    },
+    "Sylvan Crown": {
+        "ID":       22757,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 22773,
+        "Reagents": {
+            "Bolt of Runecloth": 4,
+            "Mooncloth": 2,
+            "Living Essence": 2,
+            "Ironweb Spider Silk": 2
+        },
+        "Phase":    1
+    },
+    "Sylvan Shoulders": {
+        "ID":       22758,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 22772,
+        "Reagents": {
+            "Bolt of Runecloth": 2,
+            "Living Essence": 4,
+            "Ironweb Spider Silk": 2
+        },
+        "Phase":    1
+    },
+    "Sylvan Vest": {
+        "ID":       22756,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Reputation",
+        "RecipeID": 22774,
+        "Reagents": {
+            "Bolt of Runecloth": 4,
+            "Bloodvine": 2,
+            "Living Essence": 2,
+            "Ironweb Spider Silk": 2
         },
         "Phase":    1
     },

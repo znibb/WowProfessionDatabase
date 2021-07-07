@@ -1502,7 +1502,7 @@ recipes = {
         "RecipeID": 33873,
         "Reagents": {
             "Talbuk Venison": 1,
-            "Hoy Spices": 1
+            "Hot Spices": 1
         },
         "AmountCrafted": 1,
         "Phase":    1

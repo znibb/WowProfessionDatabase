@@ -410,7 +410,7 @@ recipes = {
         "RecipeID": 24164,
         "Reagents": {
             "Eternium Bar": 1,
-            "Mercuraial Adamantite": 5
+            "Mercurial Adamantite": 5
         },
         "Phase": 1
     },
@@ -1160,7 +1160,7 @@ recipes = {
         "Source":   "Drop",
         "RecipeID": 24167,
         "Reagents": {
-            "Khorium Band": 4,
+            "Khorium Bar": 4,
             "Mercurial Adamantite": 1,
             "Living Ruby": 1
         },

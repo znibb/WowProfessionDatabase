@@ -821,7 +821,7 @@ recipes = {
         "Reagents": {
             "Dark Iron Bar": 16,
             "Fiery Core": 12,
-			"Blood of the Mountains": 2,
+			"Blood of the Mountain": 2,
             "Enchanted Leather": 2
         },
         "Phase":    1
@@ -1839,7 +1839,7 @@ recipes = {
         "Source":   "Trainer",
         "School":   "Weapon",
         "Reagents": {
-            "Adamantiate Bar": 12,
+            "Adamantite Bar": 12,
             "Primal Earth": 6
         },
         "Phase":    1

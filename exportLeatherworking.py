@@ -573,7 +573,7 @@ recipes = {
         "RecipeID": 19331,
         "Reagents": {
 			"Fiery Core": 5,
-            "Lave Core": 2,
+            "Lava Core": 2,
             "Core Leather": 4,
             "Brilliant Chromatic Scale": 4,
             "Cured Rugged Hide": 4,
@@ -903,7 +903,7 @@ recipes = {
         "Reagents": {
 			"Rugged Leather": 30,
             "Devilsaur Leather": 14,
-            "Curerd Rugged Hide": 1,
+            "Cured Rugged Hide": 1,
             "Rune Thread": 1
         },
         "Phase":    1
@@ -2339,7 +2339,7 @@ recipes = {
         "RecipeID": 18518,
         "Reagents": {
 			"Rugged Leather": 30,
-            "Living Essence ": 12,
+            "Living Essence": 12,
             "Essence of Water": 10,
             "Larval Acid": 8,
             "Cured Rugged Hide": 3,
@@ -2700,7 +2700,7 @@ recipes = {
         "Source":   "Reputation",
         "RecipeID": 25722,
         "Reagents": {
-			"Heavy Knothide Leater": 3,
+			"Heavy Knothide Leather": 3,
             "Primal Mana": 1
         },
         "Phase":    1
@@ -3385,7 +3385,7 @@ recipes = {
         "Reagents": {
 			"Rugged Leather": 18,
             "Runecloth": 12,
-            "Enchanting Leather": 2,
+            "Enchanted Leather": 2,
             "Rune Thread": 1
         },
         "Phase":    1
@@ -3416,7 +3416,7 @@ recipes = {
         "RecipeID": 20509,
         "Reagents": {
 			"Heavy Silithid Carapace": 1,
-            "Silithiud Chitin": 20,
+            "Silithid Chitin": 20,
             "Larval Acid": 2
         },
         "Phase":    1
@@ -3463,7 +3463,7 @@ recipes = {
         "Reagents": {
 			"Knothide Leather": 12,
             "Fel Scales": 2,
-            "Rune Tread": 3
+            "Rune Thread": 3
         },
         "Phase":    1
     },
@@ -3890,7 +3890,7 @@ recipes = {
         "Reagents": {
 			"Enchanted Leather": 8,
             "Powerful Mojo": 6,
-            "Living Essence ": 6,
+            "Living Essence": 6,
             "Cured Rugged Hide": 2,
             "Ironweb Spider Silk": 2
         },

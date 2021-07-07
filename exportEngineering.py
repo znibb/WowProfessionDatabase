@@ -705,7 +705,7 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Fel Iron Bar": 2,
-            "Elementium Blasting Powder": 1
+            "Elemental Blasting Powder": 1
         },
         "AmountCrafted": 200,
         "Phase":    1
@@ -735,7 +735,7 @@ recipes = {
         "RecipeID": 23800,
         "Reagents": {
 			"Hardened Adamantite Tube": 1,
-            "Felsteel Stablilizer": 4,
+            "Felsteel Stabilizer": 4,
             "Handful of Fel Iron Bolts": 4
         },
         "Phase":    1

@@ -1415,7 +1415,7 @@ recipes = {
             "Primal Fire": 4,
             "Primal Air": 4,
             "Primal Earth": 4,
-            "Primar Water": 4
+            "Primal Water": 4
         },
         "Phase":    1
     },
@@ -1986,7 +1986,7 @@ recipes = {
         "Source":   "Drop",
         "RecipeID": 22539,
         "Reagents": {
-			"Greater Planar Essnce": 4
+			"Greater Planar Essence": 4
         },
         "Phase":    1
     },
@@ -2286,7 +2286,7 @@ recipes = {
         "Reagents": {
 			"Arcane Dust": 8,
             "Greater Planar Essence": 4,
-			"Parge Prismatic Shard": 6,
+			"Large Prismatic Shard": 6,
             "Primal Air": 2
         },
         "Phase":    1

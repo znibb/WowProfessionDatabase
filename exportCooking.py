@@ -332,6 +332,7 @@ recipes = {
         "Green":    110,
         "Grey":     130,
         "Source":   "Trainer",
+        "Faction":  "Alliance",
         "Reagents": {
             "Coyote Meat": 1
         },

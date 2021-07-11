@@ -139,7 +139,7 @@ items = {
     "Enchanted Leather": 12810,
     "Enchanted Thorium Bar": 12655,
     "Engineers Ink": 10647,
-    "Enourmous Barbed Gill Trout": 27516,
+    "Enormous Barbed Gill Trout": 27516,
     "Essence of Air": 7082,
     "Essence of Earth": 7076,
     "Essence of Fire": 7078,

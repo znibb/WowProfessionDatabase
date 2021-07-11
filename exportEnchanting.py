@@ -2909,9 +2909,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Fel Iron Rod": 1,
-            "Greater Eternal Essence": 12,
-            "Large Brilliant Shard": 2,
-            "Primal Might": 4,
+            "Greater Eternal Essence": 4,
+            "Large Brilliant Shard": 6,
         },
         "Phase":    1
     },

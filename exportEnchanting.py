@@ -14,7 +14,8 @@ recipes = {
             "Greater Eternal Essence": 6,
 			"Illusion Dust": 14,
 			"Essence of Air": 4
-        }
+        },
+        "Phase":    1
     },
     "2H Weapon Greater Impact": {
         "ID":       13937,
@@ -26,7 +27,8 @@ recipes = {
         "Reagents": {
 			"Large Radiant Shard": 2,
 			"Dream Dust": 2
-        }
+        },
+        "Phase":    1
     },
     "2H Weapon Impact": {
         "ID":       13695,
@@ -38,7 +40,8 @@ recipes = {
         "Reagents": {
 			"Vision Dust": 4,
 			"Large Glowing Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "2H Weapon Lesser Impact": {
         "ID":       13529,
@@ -50,7 +53,8 @@ recipes = {
         "Reagents": {
 			"Soul Dust": 3,
 			"Large Glimmering Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "2H Weapon Lesser Intellect": {
         "ID":       7793,
@@ -62,7 +66,8 @@ recipes = {
         "RecipeID": 6349,
         "Reagents": {
 			"Greater Magic Essence": 3
-        }
+        },
+        "Phase":    1
     },
     "2H Weapon Lesser Spirit": {
         "ID":       13380,
@@ -75,7 +80,23 @@ recipes = {
         "Reagents": {
 			"Lesser Astral Essence": 1,
 			"Strange Dust": 6
-        }
+        },
+        "Phase":    1
+    },
+    "2H Weapon Major Agility": {
+        "ID":       27977,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 22556,
+        "Reagents": {
+			"Large Prismatic Shard": 8,
+            "Greater Planar Essence": 6,
+            "Arcane Dust": 20
+        },
+        "Phase":    1
     },
     "2H Weapon Major Intellect": {
         "ID":       20036,
@@ -88,7 +109,8 @@ recipes = {
         "Reagents": {
 			"Greater Eternal Essence": 12,
 			"Large Brilliant Shard": 2
-        }
+        },
+        "Phase":    1
     },
     "2H Weapon Major Spirit": {
         "ID":       20035,
@@ -101,7 +123,8 @@ recipes = {
         "Reagents": {
 			"Greater Eternal Essence": 12,
 			"Large Brilliant Shard": 2
-        }
+        },
+        "Phase":    1
     },
     "2H Weapon Minor Impact": {
         "ID":       7745,
@@ -113,7 +136,22 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 4,
 			"Small Glimmering Shard": 1
-        }
+        },
+        "Phase":    1
+    },
+    "2H Weapon Savagery": {
+        "ID":       27971,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    375,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22554,
+        "Reagents": {
+			"Large Prismatic Shard": 4,
+			"Arcane Dust": 40
+        },
+        "Phase":    1
     },
     "2H Weapon Superior Impact": {
         "ID":       20030,
@@ -126,7 +164,8 @@ recipes = {
         "Reagents": {
 			"Large Brilliant Shard": 4,
 			"Illusion Dust": 10
-        }
+        },
+        "Phase":    1
     },
     "Boots Agility": {
         "ID":       13935,
@@ -137,7 +176,63 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Greater Nether Essence": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Boots Boars Speed": {
+        "ID":       34008,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 35297,
+        "Reagents": {
+			"Large Prismatic Shard": 8,
+			"Primal Earth": 8
+        },
+        "Phase":    1
+    },
+    "Boots Cats Swiftness": {
+        "ID":       34007,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 35299,
+        "Reagents": {
+			"Large Prismatic Shard": 8,
+			"Primal Air": 8
+        },
+        "Phase":    1
+    },
+    "Boots Dexterity": {
+        "ID":       27951,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    365,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 22544,
+        "Reagents": {
+			"Greater Planar Essence": 8,
+			"Arcane Dust": 8
+        },
+        "Phase":    1
+    },
+    "Boots Fortitude": {
+        "ID":       27950,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    345,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 22543,
+        "Reagents": {
+			"Arcane Dust": 12
+        },
+        "Phase":    1
     },
     "Boots Greater Agility": {
         "ID":       20023,
@@ -149,7 +244,8 @@ recipes = {
         "RecipeID": 16245,
         "Reagents": {
 			"Greater Eternal Essence": 8
-        }
+        },
+        "Phase":    1
     },
     "Boots Greater Stamina": {
         "ID":       20020,
@@ -161,7 +257,8 @@ recipes = {
         "RecipeID": 16215,
         "Reagents": {
 			"Dream Dust": 10
-        }
+        },
+        "Phase":    1
     },
     "Boots Lesser Agility": {
         "ID":       13637,
@@ -173,7 +270,8 @@ recipes = {
         "Reagents": {
 			"Soul Dust": 1,
 			"Lesser Mystic Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Boots Lesser Spirit": {
         "ID":       13687,
@@ -186,7 +284,8 @@ recipes = {
         "Reagents": {
 			"Greater Mystic Essence": 1,
 			"Lesser Mystic Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Boots Lesser Stamina": {
         "ID":       13644,
@@ -197,7 +296,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Soul Dust": 4
-        }
+        },
+        "Phase":    1
     },
     "Boots Minor Agility": {
         "ID":       7867,
@@ -210,7 +310,8 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 6,
 			"Lesser Astral Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Boots Minor Speed": {
         "ID":       13890,
@@ -223,7 +324,8 @@ recipes = {
 			"Small Radiant Shard": 1,
 			"Aquamarine": 1,
 			"Lesser Nether Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Boots Minor Stamina": {
         "ID":       7863,
@@ -234,7 +336,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Strange Dust": 8
-        }
+        },
+        "Phase":    1
     },
     "Boots Spirit": {
         "ID":       20024,
@@ -247,7 +350,8 @@ recipes = {
         "Reagents": {
 			"Greater Eternal Essence": 2,
 			"Lesser Eternal Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Boots Stamina": {
         "ID":       13836,
@@ -258,7 +362,47 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Vision Dust": 5
-        }
+        },
+        "Phase":    1
+    },
+    "Boots Vitality": {
+        "ID":       27948,
+        "Learn":    305,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Drop",
+        "RecipeID": 35298,
+        "Reagents": {
+			"Arcane Dust": 6,
+			"Major Healing Potion": 4,
+            "Major Mana Potion": 4
+        },
+        "Phase":    1
+    },
+    "Bracer Assault": {
+        "ID":       34002,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    325,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Arcane Dust": 6
+        },
+        "Phase":    1
+    },
+    "Bracer Brawn": {
+        "ID":       27899,
+        "Learn":    305,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Arcane Dust": 6
+        },
+        "Phase":    1
     },
     "Bracer Deflection": {
         "ID":       13931,
@@ -271,7 +415,23 @@ recipes = {
         "Reagents": {
 			"Greater Nether Essence": 1,
 			"Dream Dust": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Bracer Fortitude": {
+        "ID":       27914,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    375,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22533,
+        "Reagents": {
+			"Large Prismatic Shard": 1,
+            "Greater Planar Essence": 10,
+            "Arcane Dust": 20
+        },
+        "Phase":    1
     },
     "Bracer Greater Intellect": {
         "ID":       20008,
@@ -283,7 +443,8 @@ recipes = {
         "RecipeID": 16214,
         "Reagents": {
 			"Lesser Eternal Essence": 3
-        }
+        },
+        "Phase":    1
     },
     "Bracer Greater Spirit": {
         "ID":       13846,
@@ -296,7 +457,8 @@ recipes = {
         "Reagents": {
 			"Lesser Nether Essence": 3,
 			"Vision Dust": 1
-        }
+        },
+        "Phase":    1
     },
     "Bracer Greater Stamina": {
         "ID":       13945,
@@ -308,7 +470,8 @@ recipes = {
         "RecipeID": 11225,
         "Reagents": {
 			"Dream Dust": 5
-        }
+        },
+        "Phase":    1
     },
     "Bracer Greater Strength": {
         "ID":       13939,
@@ -320,7 +483,8 @@ recipes = {
         "Reagents": {
 			"Dream Dust": 2,
 			"Greater Nether Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Bracer Healing Power": {
         "ID":       23802,
@@ -335,7 +499,8 @@ recipes = {
             "Illusion Dust": 20,
             "Greater Eternal Essence": 4,
             "Living Essence": 6
-        }
+        },
+        "Phase":    1
     },
     "Bracer Intellect": {
         "ID":       13822,
@@ -346,7 +511,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Lesser Nether Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Bracer Lesser Deflection": {
         "ID":       13646,
@@ -359,7 +525,8 @@ recipes = {
         "Reagents": {
 			"Lesser Mystic Essence": 1,
 			"Soul Dust": 2
-        }
+        },
+        "Phase":    1
     },
     "Bracer Lesser Intellect": {
         "ID":       13622,
@@ -370,7 +537,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Greater Astral Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Bracer Lesser Spirit": {
         "ID":       7859,
@@ -382,7 +550,8 @@ recipes = {
         "RecipeID": 6375,
         "Reagents": {
 			"Lesser Astral Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Bracer Lesser Stamina": {
         "ID":       13501,
@@ -393,7 +562,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Soul Dust": 2
-        }
+        },
+        "Phase":    1
     },
     "Bracer Lesser Strength": {
         "ID":       13536,
@@ -405,7 +575,8 @@ recipes = {
         "RecipeID": 11101,
         "Reagents": {
 			"Soul Dust": 2
-        }
+        },
+        "Phase":    1
     },
     "Bracer Mana Regeneration": {
         "ID":       23801,
@@ -419,7 +590,34 @@ recipes = {
 			"Illusion Dust": 16,
 			"Greater Eternal Essence": 4,
 			"Essence of Water": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Bracer Major Defense": {
+        "ID":       27906,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    345,
+        "Grey":     360,
+        "Source":   "Drop",
+        "RecipeID": 22530,
+        "Reagents": {
+			"Small Prismatic Shard": 2,
+			"Arcane Dust": 10
+        },
+        "Phase":    1
+    },
+    "Bracer Major Intellect": {
+        "ID":       34001,
+        "Learn":    305,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Lesser Planar Essence": 3
+        },
+        "Phase":    1
     },
     "Bracer Minor Agility": {
         "ID":       7779,
@@ -431,9 +629,10 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 2,
 			"Greater Magic Essence": 1
-        }
+        },
+        "Phase":    1
     },
-    "Bracer Minor Deflect": {
+    "Bracer Minor Deflection": {
         "ID":       7428,
         "Learn":    1,
         "Yellow":   80,
@@ -443,7 +642,8 @@ recipes = {
         "Reagents": {
 			"Lesser Magic Essence": 1,
 			"Strange Dust": 1
-        }
+        },
+        "Phase":    1
     },
     "Bracer Minor Health": {
         "ID":       7418,
@@ -454,7 +654,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Strange Dust": 1
-        }
+        },
+        "Phase":    1
     },
     "Bracer Minor Spirit": {
         "ID":       7766,
@@ -466,7 +667,8 @@ recipes = {
         "RecipeID": 6344,
         "Reagents": {
 			"Lesser Magic Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Bracer Minor Stamina": {
         "ID":       7457,
@@ -477,7 +679,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Strange Dust": 3
-        }
+        },
+        "Phase":    1
     },
     "Bracer Minor Strength": {
         "ID":       7782,
@@ -489,7 +692,36 @@ recipes = {
         "RecipeID": 6347,
         "Reagents": {
 			"Strange Dust": 5
-        }
+        },
+        "Phase":    1
+    },
+    "Bracer Restore Mana Prime": {
+        "ID":       37913,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    360,
+        "Grey":     375,
+        "Source":   "Drop",
+        "RecipeID": 22532,
+        "Reagents": {
+			"Greater Planar Essence": 8
+        },
+        "Phase":    1
+    },
+    "Bracer Spellpower": {
+        "ID":       27917,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 22534,
+        "Reagents": {
+			"Large Prismatic Shard": 6,
+            "Primal Fire": 6,
+            "Primal Water": 6
+        },
+        "Phase":    1
     },
     "Bracer Spirit": {
         "ID":       13642,
@@ -500,7 +732,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Lesser Mystic Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Bracer Stamina": {
         "ID":       13648,
@@ -511,7 +744,21 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Soul Dust": 6
-        }
+        },
+        "Phase":    1
+    },
+    "Bracer Stats": {
+        "ID":       27905,
+        "Learn":    315,
+        "Yellow":   325,
+        "Green":    340,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Arcane Dust": 6,
+            "Lesser Planar Essence": 6
+        },
+        "Phase":    1
     },
     "Bracer Strength": {
         "ID":       13661,
@@ -522,7 +769,22 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Vision Dust": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Bracer Superior Healing": {
+        "ID":       27911,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    350,
+        "Grey":     365,
+        "Source":   "Reputation",
+        "RecipeID": 24000,
+        "Reagents": {
+			"Greater Planar Essence": 4,
+            "Primal Life": 4
+        },
+        "Phase":    1
     },
     "Bracer Superior Spirit": {
         "ID":       20009,
@@ -535,7 +797,8 @@ recipes = {
         "Reagents": {
 			"Lesser Eternal Essence": 3,
 			"Dream Dust": 10
-        }
+        },
+        "Phase":    1
     },
     "Bracer Superior Stamina": {
         "ID":       20011,
@@ -547,7 +810,8 @@ recipes = {
         "RecipeID": 16251,
         "Reagents": {
 			"Illusion Dust": 15
-        }
+        },
+        "Phase":    1
     },
     "Bracer Superior Strength": {
         "ID":       20010,
@@ -560,7 +824,8 @@ recipes = {
         "Reagents": {
 			"Illusion Dust":  6,
 			"Greater Eternal Essence": 6
-        }
+        },
+        "Phase":    1
     },
     "Brilliant Mana Oil": {
         "ID":       25130,
@@ -574,7 +839,8 @@ recipes = {
 			"Large Brilliant Shard": 2,
             "Purple Lotus": 3,
             "Imbued Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Brilliant Wizard Oil": {
         "ID":       25129,
@@ -588,7 +854,67 @@ recipes = {
 			"Large Brilliant Shard": 2,
             "Firebloom": 3,
             "Imbued Vial": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Chest Defense": {
+        "ID":       46594,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 35500,
+        "Reagents": {
+			"Greater Planar Essence": 4,
+            "Arcane Dust": 8,
+            "Eternium Ore": 4
+        },
+        "Phase":    1
+    },
+    "Chest Exceptional Health": {
+        "ID":       27957,
+        "Learn":    315,
+        "Yellow":   325,
+        "Green":    340,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Arcane Dust": 8,
+            "Major Healing Potion": 4,
+            "Large Brilliant Shard": 2
+        },
+        "Phase":    1
+    },
+    "Chest Exceptional Mana": {
+        "ID":       27958,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    350,
+        "Grey":     365,
+        "Source":   "Drop",
+        "RecipeID": 22546,
+        "Reagents": {
+			"Large Prismatic Shard": 1,
+            "Major Mana Potion": 4,
+            "Greater Planar Essence": 3
+        },
+        "Phase":    1
+    },
+    "Chest Exceptional Stats": {
+        "ID":       27960,
+        "Learn":    345,
+        "Yellow":   355,
+        "Green":    370,
+        "Grey":     385,
+        "Source":   "Reputation",
+        "RecipeID": 22547,
+        "Reagents": {
+			"Large Prismatic Shard": 4,
+            "Arcane Dust": 4,
+            "Greater Planar Essence": 4
+        },
+        "Phase":    1
     },
     "Chest Greater Health": {
         "ID":       13640,
@@ -599,7 +925,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Soul Dust": 3
-        }
+        },
+        "Phase":    1
     },
     "Chest Greater Mana": {
         "ID":       13663,
@@ -610,7 +937,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Greater Mystic Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Chest Greater Stats": {
         "ID":       20025,
@@ -624,7 +952,8 @@ recipes = {
 			"Large Brilliant Shard": 4,
             "Illusion Dust": 15,
             "Greater Eternal Essence": 10
-        }
+        },
+        "Phase":    1
     },
     "Chest Health": {
         "ID":       7857,
@@ -636,7 +965,8 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 4,
 			"Lesser Astral Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Chest Lesser Absorption": {
         "ID":       13538,
@@ -649,7 +979,8 @@ recipes = {
 			"Strange Dust": 2,
 			"Greater Astral Essence": 1,
 			"Large Glimmering Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "Chest Lesser Health": {
         "ID":       7748,
@@ -661,7 +992,8 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 2,
 			"Lesser Magic Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Chest Lesser Mana": {
         "ID":       7776,
@@ -669,12 +1001,13 @@ recipes = {
         "Yellow":   115,
         "Green":    135,
         "Grey":     155,
-        "Source":   "Vendor",
+        "Source":   "VendorLimited",
         "RecipeID": 6346,
         "Reagents": {
 			"Greater Magic Essence": 1,
 			"Lesser Magic Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Chest Lesser Stats": {
         "ID":       13700,
@@ -687,7 +1020,8 @@ recipes = {
 			"Greater Mystic Essence": 2,
 			"Vision Dust": 2,
 			"Large Glowing Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "Chest Major Health": {
         "ID":       20026,
@@ -700,7 +1034,8 @@ recipes = {
         "Reagents": {
 			"Illusion Dust": 6,
 			"Small Brilliant Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "Chest Major Mana": {
         "ID":       20028,
@@ -713,7 +1048,34 @@ recipes = {
         "Reagents": {
 			"Greater Eternal Essence": 3,
 			"Small Brilliant Shard": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Chest Major Resilience": {
+        "ID":       33992,
+        "Learn":    345,
+        "Yellow":   355,
+        "Green":    370,
+        "Grey":     385,
+        "Source":   "Drop",
+        "RecipeID": 28270,
+        "Reagents": {
+			"Greater Planar Essence": 4,
+			"Arcane Dust": 10
+        },
+        "Phase":    1
+    },
+    "Chest Major Spirit": {
+        "ID":       33990,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    345,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Greater Planar Essence": 2
+        },
+        "Phase":    1
     },
     "Chest Mana": {
         "ID":       13607,
@@ -725,7 +1087,8 @@ recipes = {
         "Reagents": {
 			"Greater Astral Essence": 1,
 			"Lesser Astral Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Chest Minor Absorption": {
         "ID":       7426,
@@ -737,7 +1100,8 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 2,
 			"Lesser Magic Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Chest Minor Health": {
         "ID":       7420,
@@ -748,7 +1112,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Strange Dust": 1
-        }
+        },
+        "Phase":    1
     },
     "Chest Minor Mana": {
         "ID":       7443,
@@ -756,11 +1121,12 @@ recipes = {
         "Yellow":   80,
         "Green":    100,
         "Grey":     120,
-        "Source":   "Vendor",
+        "Source":   "VendorLimited",
         "RecipeID": 6342,
         "Reagents": {
 			"Lesser Magic Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Chest Minor Stats": {
         "ID":       13626,
@@ -773,7 +1139,21 @@ recipes = {
 			"Greater Astral Essence": 1,
 			"Soul Dust": 1,
 			"Large Glimmering Shard": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Chest Restore Mana Prime": {
+        "ID":       33991,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    325,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Lesser Planar Essence": 2,
+			"Arcane Dust": 2
+        },
+        "Phase":    1
     },
     "Chest Stats": {
         "ID":       13941,
@@ -786,7 +1166,8 @@ recipes = {
 			"Large Radiant Shard": 1,
 			"Dream Dust": 3,
 			"Greater Nether Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Chest Superior Health": {
         "ID":       13858,
@@ -797,7 +1178,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Vision Dust": 6
-        }
+        },
+        "Phase":    1
     },
     "Chest Superior Mana": {
         "ID":       13917,
@@ -809,7 +1191,8 @@ recipes = {
         "Reagents": {
 			"Greater Nether Essence": 1,
 			"Lesser Nether Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Cloak Defense": {
         "ID":       13635,
@@ -821,7 +1204,8 @@ recipes = {
         "Reagents": {
 			"Small Glowing Shard": 1,
 			"Soul Dust": 3
-        }
+        },
+        "Phase":    1
     },
     "Cloak Dodge": {
         "ID":       25086,
@@ -835,7 +1219,8 @@ recipes = {
             "Nexus Crystal": 3,
 			"Large Brilliant Shard": 8,
             "Guardian Stone": 8
-        }
+        },
+        "Phase":    1
     },
     "Cloak Fire Resistance": {
         "ID":       13657,
@@ -847,7 +1232,22 @@ recipes = {
         "Reagents": {
 			"Lesser Mystic Essence": 1,
 			"Elemental Fire": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Cloak Greater Agility": {
+        "ID":       34004,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    335,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Greater Planar Essence": 1,
+            "Arcane Dust": 4,
+            "Primal Air": 1
+        },
+        "Phase":    1
     },
     "Cloak Greater Defense": {
         "ID":       13746,
@@ -858,7 +1258,37 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Vision Dust": 3
-        }
+        },
+        "Phase":    1
+    },
+    "Cloak Greater Arcane Resistance": {
+        "ID":       34005,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    375,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 28276,
+        "Reagents": {
+			"Large Prismatic Shard": 4,
+            "Primal Mana": 8
+        },
+        "Phase":    1
+    },
+    "Cloak Greater Fire Resistance": {
+        "ID":       25081,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    325,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 20732,
+        "Reagents": {
+			"Nexus Crystal": 3,
+            "Large Brilliant Shard": 8,
+            "Essence of Fire": 4
+        },
+        "Phase":    1
     },
     "Cloak Greater Nature Resistance": {
         "ID":       25082,
@@ -872,7 +1302,22 @@ recipes = {
             "Nexus Crystal": 3,
 			"Large Brilliant Shard": 8,
             "Essence of Fire": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Cloak Greater Shadow Resistance": {
+        "ID":       34006,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    375,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 28277,
+        "Reagents": {
+			"Large Prismatic Shard": 4,
+            "Primal Shadow": 8
+        },
+        "Phase":    1
     },
     "Cloak Greater Resistance": {
         "ID":       20014,
@@ -889,7 +1334,8 @@ recipes = {
 			"Globe of Water": 1,
 			"Breath of Wind": 1,
 			"Ichor of Undeath": 1
-        }
+        },
+        "Phase":    1
     },
     "Cloak Lesser Agility": {
         "ID":       13882,
@@ -901,7 +1347,8 @@ recipes = {
         "RecipeID": 11206,
         "Reagents": {
 			"Lesser Nether Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Cloak Lesser Fire Resistance": {
         "ID":       7861,
@@ -913,7 +1360,8 @@ recipes = {
         "Reagents": {
 			"Fire Oil": 1,
 			"Lesser Astral Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Cloak Lesser Protection": {
         "ID":       13421,
@@ -925,7 +1373,8 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 6,
 			"Small Glimmering Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "Cloak Lesser Shadow Resistance": {
         "ID":       13522,
@@ -938,7 +1387,37 @@ recipes = {
         "Reagents": {
 			"Greater Astral Essence": 1,
 			"Shadow Protection Potion": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Cloak Major Armor": {
+        "ID":       27961,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    335,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Arcane Dust": 8
+        },
+        "Phase":    1
+    },
+    "Cloak Major Resistance": {
+        "ID":       27962,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    355,
+        "Grey":     370,
+        "Source":   "Drop",
+        "RecipeID": 22548,
+        "Reagents": {
+			"Greater Planar Essence": 4,
+            "Primal Fire": 4,
+            "Primal Air": 4,
+            "Primal Earth": 4,
+            "Primal Water": 4
+        },
+        "Phase":    1
     },
     "Cloak Minor Agility": {
         "ID":       13419,
@@ -950,7 +1429,8 @@ recipes = {
         "RecipeID": 11039,
         "Reagents": {
 			"Lesser Astral Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Cloak Minor Protection": {
         "ID":       7771,
@@ -962,7 +1442,8 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 3,
 			"Greater Magic Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Cloak Minor Resistance": {
         "ID":       7454,
@@ -974,7 +1455,8 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 1,
 			"Lesser Magic Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Cloak Resistance": {
         "ID":       13794,
@@ -985,7 +1467,23 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
 			"Lesser Nether Essence": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Cloak Spell Penetration": {
+        "ID":       34003,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    350,
+        "Grey":     365,
+        "Source":   "Reputation",
+        "RecipeID": 28274,
+        "Reagents": {
+			"Greater Planar Essence": 2,
+            "Arcane Dust": 6,
+            "Primal Mana": 2
+        },
+        "Phase":    1
     },
     "Cloak Stealth": {
         "ID":       25083,
@@ -999,7 +1497,22 @@ recipes = {
             "Nexus Crystal": 3,
 			"Large Brilliant Shard": 8,
             "Black Lotus": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Cloak Steelweave": {
+        "ID":       47051,
+        "Learn":    375,
+        "Yellow":   380,
+        "Green":    395,
+        "Grey":     410,
+        "Source":   "Drop",
+        "RecipeID": 35756,
+        "Reagents": {
+			"Greater Planar Essence": 8,
+            "Primal Earth": 8
+        },
+        "Phase":    1
     },
     "Cloak Subtlety": {
         "ID":       25084,
@@ -1013,7 +1526,8 @@ recipes = {
             "Nexus Crystal": 4,
 			"Large Brilliant Shard": 6,
             "Black Diamond": 2
-        }
+        },
+        "Phase":    1
     },
     "Cloak Superior Defense": {
         "ID":       20015,
@@ -1021,11 +1535,12 @@ recipes = {
         "Yellow":   305,
         "Green":    325,
         "Grey":     345,
-        "Source":   "Vendor",
+        "Source":   "VendorLimited",
         "RecipeID": 16224,
         "Reagents": {
 			"Illusion Dust": 8
-        }
+        },
+        "Phase":    1
     },
     "Gloves Advanced Herbalism": {
         "ID":       13868,
@@ -1038,7 +1553,8 @@ recipes = {
         "Reagents": {
 			"Vision Dust": 3,
 			"Sungrass": 3
-        }
+        },
+        "Phase":    1
     },
     "Gloves Advanded Mining": {
         "ID":       13841,
@@ -1051,7 +1567,20 @@ recipes = {
         "Reagents": {
 			"Vision Dust": 3,
 			"Truesilver Bar": 3
-        }
+        },
+        "Phase":    1
+    },
+    "Gloves Assault": {
+        "ID":       33996,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    335,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Arcane Dust": 8
+        },
+        "Phase":    1
     },
     "Gloves Agility": {
         "ID":       13815,
@@ -1063,7 +1592,21 @@ recipes = {
         "Reagents": {
 			"Lesser Nether Essence": 1,
 			"Vision Dust": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Gloves Blasting": {
+        "ID":       33993,
+        "Learn":    305,
+        "Yellow":   315,
+        "Green":    330,
+        "Grey":     345,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Lesser Planar Essence": 1,
+			"Arcane Dust": 4
+        },
+        "Phase":    1
     },
     "Gloves Fire Power": {
         "ID":       25078,
@@ -1077,7 +1620,8 @@ recipes = {
             "Nexus Crystal": 2,
 			"Large Brilliant Shard": 10,
             "Essence of Fire": 4
-        }
+        },
+        "Phase":    1
     },
     "Gloves Fishing": {
         "ID":       13620,
@@ -1090,7 +1634,8 @@ recipes = {
         "Reagents": {
 			"Soul Dust": 1,
 			"Blackmouth Oil": 3
-        }
+        },
+        "Phase":    1
     },
     "Gloves Frost Power": {
         "ID":       25074,
@@ -1104,7 +1649,8 @@ recipes = {
             "Nexus Crystal": 3,
 			"Large Brilliant Shard": 10,
             "Essence of Water": 4
-        }
+        },
+        "Phase":    1
     },
     "Gloves Greater Agility": {
         "ID":       20012,
@@ -1117,7 +1663,8 @@ recipes = {
         "Reagents": {
 			"Lesser Eternal Essence": 3,
 			"Illusion Dust": 3
-        }
+        },
+        "Phase":    1
     },
     "Gloves Greater Strength": {
         "ID":       20013,
@@ -1130,7 +1677,8 @@ recipes = {
         "Reagents": {
 			"Greater Eternal Essence": 4,
 			"Illusion Dust": 4
-        }
+        },
+        "Phase":    1
     },
     "Gloves Healing Power": {
         "ID":       25079,
@@ -1144,7 +1692,8 @@ recipes = {
             "Nexus Crystal": 3,
 			"Large Brilliant Shard": 8,
             "Righteous Orb": 1
-        }
+        },
+        "Phase":    1
     },
     "Gloves Herbalism": {
         "ID":       13617,
@@ -1157,7 +1706,51 @@ recipes = {
         "Reagents": {
 			"Soul Dust": 1,
 			"Kingsblood": 3
-        }
+        },
+        "Phase":    1
+    },
+    "Gloves Major Healing": {
+        "ID":       33999,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    375,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 28273,
+        "Reagents": {
+			"Greater Planar Essence": 6,
+            "Large Prismatic Shard": 6,
+            "Primal Life": 6
+        },
+        "Phase":    1
+    },
+    "Gloves Major Spellpower": {
+        "ID":       33997,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 28272,
+        "Reagents": {
+			"Greater Planar Essence": 6,
+            "Large Prismatic Shard": 6,
+            "Primal Mana": 6
+        },
+        "Phase":    1
+    },
+    "Gloves Major Strength": {
+        "ID":       33995,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    365,
+        "Grey":     380,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Arcane Dust": 12,
+            "Greater Planar Essence": 1
+        },
+        "Phase":    1
     },
     "Gloves Mining": {
         "ID":       13612,
@@ -1170,7 +1763,8 @@ recipes = {
         "Reagents": {
 			"Soul Dust": 1,
 			"Iron Ore": 3
-        }
+        },
+        "Phase":    1
     },
     "Gloves Minor Haste": {
         "ID":       13948,
@@ -1182,7 +1776,8 @@ recipes = {
         "Reagents": {
 			"Large Radiant Shard": 2,
 			"Wildvine": 2
-        }
+        },
+        "Phase":    1
     },
     "Gloves Riding Skill": {
         "ID":       13947,
@@ -1195,7 +1790,8 @@ recipes = {
         "Reagents": {
 			"Large Radiant Shard": 2,
 			"Dream Dust": 3
-        }
+        },
+        "Phase":    1
     },
     "Gloves Shadow Power": {
         "ID":       25073,
@@ -1209,7 +1805,8 @@ recipes = {
             "Nexus Crystal": 3,
 			"Large Brilliant Shard": 10,
             "Essence of Undeath": 6
-        }
+        },
+        "Phase":    1
     },
     "Gloves Skinning": {
         "ID":       13698,
@@ -1222,7 +1819,23 @@ recipes = {
         "Reagents": {
 			"Vision Dust": 1,
 			"Green Whelp Scale": 3
-        }
+        },
+        "Phase":    1
+    },
+    "Gloves Spell Strike": {
+        "ID":       33994,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 28271,
+        "Reagents": {
+			"Greater Planar Essence": 8,
+            "Arcane Dust": 2,
+            "Large Prismatic Shard": 2
+        },
+        "Phase":    1
     },
     "Gloves Strength": {
         "ID":       13887,
@@ -1234,7 +1847,8 @@ recipes = {
         "Reagents": {
 			"Lesser Nether Essence": 2,
 			"Vision Dust": 3
-        }
+        },
+        "Phase":    1
     },
     "Gloves Superior Agility": {
         "ID":       25080,
@@ -1248,7 +1862,8 @@ recipes = {
             "Nexus Crystal": 3,
 			"Large Brilliant Shard": 8,
             "Essence of Air": 4
-        }
+        },
+        "Phase":    1
     },
     "Gloves Threat": {
         "ID":       25072,
@@ -1262,7 +1877,65 @@ recipes = {
             "Nexus Crystal": 4,
 			"Large Brilliant Shard": 6,
             "Larval Acid": 8
-        }
+        },
+        "Phase":    1
+    },
+    "Ring Healing Power": {
+        "ID":       27926,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    395,
+        "Grey":     410,
+        "Source":   "Reputation",
+        "RecipeID": 22537,
+        "Reagents": {
+			"Large Prismatic Shard": 2,
+            "Greater Planar Essence": 3,
+            "Arcane Dust": 5
+        },
+        "Phase":    1
+    },
+    "Ring Spellpower": {
+        "ID":       27924,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 22536,
+        "Reagents": {
+			"Large Prismatic Shard": 2,
+            "Greater Planar Essence": 2
+        },
+        "Phase":    1
+    },
+    "Ring Stats": {
+        "ID":       27927,
+        "Learn":    375,
+        "Yellow":   385,
+        "Green":    400,
+        "Grey":     315,
+        "Source":   "Reputation",
+        "RecipeID": 22538,
+        "Reagents": {
+			"Void Crystal": 2,
+            "Large Prismatic Shard": 2
+        },
+        "Phase":    1
+    },
+    "Ring Striking": {
+        "ID":       27920,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Reputation",
+        "RecipeID": 22535,
+        "Reagents": {
+			"Large Prismatic Shard": 2,
+            "Arcane Dust": 6
+        },
+        "Phase":    1
     },
     "Shield Frost Resistance": {
         "ID":       13933,
@@ -1275,7 +1948,8 @@ recipes = {
         "Reagents": {
 			"Large Radiant Shard": 1,
 			"Frost Oil": 1
-        }
+        },
+        "Phase":    1
     },
     "Shield Greater Spirit": {
         "ID":       13905,
@@ -1287,7 +1961,8 @@ recipes = {
         "Reagents": {
 			"Greater Nether Essence": 1,
 			"Dream Dust": 2
-        }
+        },
+        "Phase":    1
     },
     "Shield Greater Stamina": {
         "ID":       20017,
@@ -1295,11 +1970,25 @@ recipes = {
         "Yellow":   285,
         "Green":    305,
         "Grey":     325,
-        "Source":   "Vendor",
+        "Source":   "VendorLimited",
         "RecipeID": 16217,
         "Reagents": {
 			"Dream Dust": 10
-        }
+        },
+        "Phase":    1
+    },
+    "Shield Intellect": {
+        "ID":       27945,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    350,
+        "Grey":     365,
+        "Source":   "Drop",
+        "RecipeID": 22539,
+        "Reagents": {
+			"Greater Planar Essence": 4
+        },
+        "Phase":    1
     },
     "Shield Lesser Block": {
         "ID":       13689,
@@ -1313,7 +2002,8 @@ recipes = {
 			"Greater Mystic Essence": 2,
 			"Vision Dust": 2,
 			"Large Glowing Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "Shield Lesser Protection": {
         "ID":       13464,
@@ -1327,7 +2017,8 @@ recipes = {
 			"Lesser Astral Essence": 1,
 			"Strange Dust": 1,
 			"Small Glimmering Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "Shield Lesser Spirit": {
         "ID":       13485,
@@ -1339,7 +2030,8 @@ recipes = {
         "Reagents": {
 			"Lesser Astral Essence": 2,
 			"Strange Dust": 4
-        }
+        },
+        "Phase":    1
     },
     "Shield Lesser Stamina": {
         "ID":       13631,
@@ -1351,7 +2043,21 @@ recipes = {
         "Reagents": {
 			"Lesser Mystic Essence": 1,
 			"Soul Dust": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Shield Major Stamina": {
+        "ID":       34009,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    350,
+        "Grey":     365,
+        "Source":   "VendorLimited",
+        "RecipeID": 28282,
+        "Reagents": {
+			"Arcane Dust": 15
+        },
+        "Phase":    1
     },
     "Shield Minor Stamina": {
         "ID":       13378,
@@ -1363,7 +2069,53 @@ recipes = {
         "Reagents": {
 			"Lesser Astral Essence": 1,
 			"Strange Dust": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Shield Resilience": {
+        "ID":       44383,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    355,
+        "Grey":     370,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Large Prismatic Shard": 1,
+            "Lesser Planar Essence": 4
+        },
+        "Phase":    1
+    },
+    "Shield Resistance": {
+        "ID":       27947,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     4000,
+        "Source":   "Drop",
+        "RecipeID": 22541,
+        "Reagents": {
+			"Large Prismatic Shard": 2,
+            "Mote of Earth": 1,
+            "Mote of Fire": 1,
+            "Mote of Air": 1,
+            "Mote of Water": 1
+        },
+        "Phase":    1
+    },
+    "Shield Shield Block": {
+        "ID":       27946,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    365,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 22540,
+        "Reagents": {
+			"Arcane Dust": 12,
+            "Greater Planar Essence": 4,
+            "Primal Earth": 10
+        },
+        "Phase":    1
     },
     "Shield Spirit": {
         "ID":       13659,
@@ -1375,7 +2127,8 @@ recipes = {
         "Reagents": {
 			"Greater Mystic Essence": 1,
 			"Vision Dust": 1
-        }
+        },
+        "Phase":    1
     },
     "Shield Stamina": {
         "ID":       13817,
@@ -1387,7 +2140,8 @@ recipes = {
         "RecipeID": 11202,
         "Reagents": {
 			"Vision Dust": 5
-        }
+        },
+        "Phase":    1
     },
     "Shield Superior Spirit": {
         "ID":       20016,
@@ -1400,7 +2154,21 @@ recipes = {
         "Reagents": {
 			"Greater Eternal Essence": 2,
 			"Illusion Dust": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Shield Tough Shield": {
+        "ID":       27944,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    335,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Arcane Dust": 6,
+            "Primal Earth": 10
+        },
+        "Phase":    1
     },
     "Weapon Agility": {
         "ID":       23800,
@@ -1415,7 +2183,23 @@ recipes = {
 			"Greater Eternal Essence": 6,
 			"Illusion Dust": 4,
 			"Essence of Air": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Weapon Battlemaster": {
+        "ID":       28004,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 22557,
+        "Reagents": {
+			"Void Crystal": 8,
+			"Large Prismatic Shard": 8,
+            "Primal Water": 2
+        },
+        "Phase":    1
     },
     "Weapon Crusader": {
         "ID":       20034,
@@ -1428,7 +2212,22 @@ recipes = {
         "Reagents": {
 			"Large Brilliant Shard": 4,
 			"Righteous Orb": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Weapon Deathfrost": {
+        "ID":       46578,
+        "Learn":    350,
+        "Yellow":   350,
+        "Green":    357,
+        "Grey":     365,
+        "Source":   "Drop",
+        "RecipeID": 35498,
+        "Reagents": {
+			"Primal Shadow": 2,
+			"Primal Water": 2
+        },
+        "Phase":    1
     },
     "Weapon Demonslaying": {
         "ID":       13915,
@@ -1442,7 +2241,25 @@ recipes = {
 			"Small Radiant Shard": 1,
 			"Dream Dust": 2,
 			"Elixir of Demonslaying": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Weapon Executioner": {
+        "ID":       42974,
+        "Learn":    375,
+        "Yellow":   385,
+        "Green":    400,
+        "Grey":     415,
+        "Source":   "Drop",
+        "RecipeID": 33307,
+        "Reagents": {
+			"Void Crystal": 6,
+			"Large Prismatic Shard": 10,
+            "Greater Planar Essence": 6,
+            "Arcane Dust": 30,
+            "Elixir of Major Strength": 3
+        },
+        "Phase":    1
     },
     "Weapon Fiery Weapon": {
         "ID":       13898,
@@ -1455,7 +2272,24 @@ recipes = {
         "Reagents": {
 			"Small Radiant Shard": 4,
 			"Essence of Fire": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Weapon Greater Agility": {
+        "ID":       42620,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    367,
+        "Grey":     375,
+        "Source":   "Reputation",
+        "RecipeID": 33165,
+        "Reagents": {
+			"Arcane Dust": 8,
+            "Greater Planar Essence": 4,
+			"Large Prismatic Shard": 6,
+            "Primal Air": 2
+        },
+        "Phase":    1
     },
     "Weapon Greater Striking": {
         "ID":       13943,
@@ -1467,7 +2301,8 @@ recipes = {
         "Reagents": {
 			"Large Radiant Shard": 2,
 			"Greater Nether Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Weapon Healing Power": {
         "ID":       22750,
@@ -1483,7 +2318,8 @@ recipes = {
             "Living Essence": 6,
             "Essence of Water": 6,
 			"Righteous Orb": 1
-        }
+        },
+        "Phase":    1
     },
     "Weapon Icy Chill": {
         "ID":       20029,
@@ -1498,7 +2334,8 @@ recipes = {
 			"Essence of Water": 1,
 			"Essence of Air": 1,
 			"Icecap": 1
-        }
+        },
+        "Phase":    1
     },
     "Weapon Lesser Beastslaying": {
         "ID":       13653,
@@ -1512,7 +2349,8 @@ recipes = {
 			"Lesser Mystic Essence": 1,
 			"Large Fang": 2,
 			"Small Glowing Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "Weapon Lesser Elemental Slayer": {
         "ID":       13655,
@@ -1526,7 +2364,8 @@ recipes = {
 			"Lesser Mystic Essence": 1,
 			"Elemental Earth": 1,
 			"Small Glowing Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "Weapon Lesser Striking": {
         "ID":       13503,
@@ -1538,7 +2377,8 @@ recipes = {
         "Reagents": {
 			"Soul Dust": 2,
 			"Large Glimmering Shard": 1
-        }
+        },
+        "Phase":    1
     },
     "Weapon Lifestealing": {
         "ID":       20032,
@@ -1552,7 +2392,66 @@ recipes = {
 			"Large Brilliant Shard": 6,
             "Essence of Undeath": 6,
 			"Living Essence": 6
-        }
+        },
+        "Phase":    1
+    },
+    "Weapon Major Healing": {
+        "ID":       34010,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    375,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 28281,
+        "Reagents": {
+			"Large Prismatic Shard": 8,
+			"Primal Water": 8,
+            "Primal Life": 8
+        },
+        "Phase":    1
+    },
+    "Weapon Major Intellect": {
+        "ID":       27968,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    365,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 22551,
+        "Reagents": {
+			"Large Prismatic Shard": 2,
+			"Greater Planar Essence": 10
+        },
+        "Phase":    1
+    },
+    "Weapon Major Spellpower": {
+        "ID":       27975,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    375,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22555,
+        "Reagents": {
+			"Large Prismatic Shard": 8,
+			"Greater Planar Essence": 8
+        },
+        "Phase":    1
+    },
+    "Weapon Major Striking": {
+        "ID":       27967,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    365,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 22552,
+        "Reagents": {
+			"Large Prismatic Shard": 2,
+            "Greater Planar Essence": 6,
+            "Arcane Dust": 6
+        },
+        "Phase":    1
     },
     "Weapon Mighty Intellect": {
         "ID":       23804,
@@ -1566,7 +2465,8 @@ recipes = {
 			"Large Brilliant Shard": 15,
             "Greater Eternal Essence": 12,
 			"Illusion Dust": 20
-        }
+        },
+        "Phase":    1
     },
     "Weapon Mighty Spirit": {
         "ID":       23803,
@@ -1580,7 +2480,8 @@ recipes = {
 			"Large Brilliant Shard": 10,
             "Greater Eternal Essence": 8,
 			"Illusion Dust": 15
-        }
+        },
+        "Phase":    1
     },
     "Weapon Minor Beastslayer": {
         "ID":       7786,
@@ -1593,7 +2494,8 @@ recipes = {
         "Reagents": {
 			"Strange Dust": 4,
 			"Greater Magic Essence": 2
-        }
+        },
+        "Phase":    1
     },
     "Weapon Minor Striking": {
         "ID":       7788,
@@ -1606,7 +2508,56 @@ recipes = {
 			"Strange Dust": 2,
 			"Greater Magic Essence": 1,
 			"Small Glimmering Shard": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Weapon Mongoose": {
+        "ID":       27984,
+        "Learn":    375,
+        "Yellow":   385,
+        "Green":    400,
+        "Grey":     415,
+        "Source":   "Drop",
+        "RecipeID": 22559,
+        "Reagents": {
+            "Void Crystal": 6,
+			"Large Prismatic Shard": 10,
+			"Greater Planar Essence": 8,
+            "Arcane Dust": 10
+        },
+        "Phase":    1
+    },
+    "Weapon Potency": {
+        "ID":       27972,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    375,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 22553,
+        "Reagents": {
+			"Large Prismatic Shard": 4,
+			"Greater Planar Essence": 5,
+            "Arcane Dust": 20
+        },
+        "Phase":    1
+    },
+    "Weapon Soulfrost": {
+        "ID":       27982,
+        "Learn":    375,
+        "Yellow":   385,
+        "Green":    400,
+        "Grey":     415,
+        "Source":   "Drop",
+        "RecipeID": 22561,
+        "Reagents": {
+            "Void Crystal": 12,
+			"Large Prismatic Shard": 10,
+            "Greater Planar Essence": 8,
+			"Primal Water": 6,
+            "Primal Shadow": 6
+        },
+        "Phase":    1
     },
     "Weapon Spell Power": {
         "ID":       22749,
@@ -1623,7 +2574,23 @@ recipes = {
             "Essence of Water": 4,
             "Essence of Air": 4,
 			"Golden Pearl": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Weapon Spellsurge": {
+        "ID":       28003,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 22558,
+        "Reagents": {
+			"Large Prismatic Shard": 12,
+			"Greater Planar Essence": 10,
+            "Arcane Dust": 20
+        },
+        "Phase":    1
     },
     "Weapon Strength": {
         "ID":       23799,
@@ -1638,7 +2605,8 @@ recipes = {
 			"Greater Eternal Essence": 6,
 			"Illusion Dust": 4,
 			"Essence of Earth": 2
-        }
+        },
+        "Phase":    1
     },
     "Weapon Striking": {
         "ID":       13693,
@@ -1650,7 +2618,25 @@ recipes = {
         "Reagents": {
 			"Greater Mystic Essence": 2,
 			"Large Glowing Shard": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Weapon Sunfire": {
+        "ID":       27981,
+        "Learn":    375,
+        "Yellow":   385,
+        "Green":    400,
+        "Grey":     415,
+        "Source":   "Drop",
+        "RecipeID": 22560,
+        "Reagents": {
+            "Void Crystal": 12,
+			"Large Prismatic Shard": 10,
+            "Greater Planar Essence": 8,
+			"Primal Fire": 6,
+            "Primal Might": 1
+        },
+        "Phase":    1
     },
     "Weapon Superior Striking": {
         "ID":       20031,
@@ -1663,7 +2649,8 @@ recipes = {
         "Reagents": {
 			"Large Brilliant Shard": 2,
 			"Greater Eternal Essence": 10
-        }
+        },
+        "Phase":    1
     },
     "Weapon Unholy Weapon": {
         "ID":       20033,
@@ -1676,7 +2663,8 @@ recipes = {
 		"Reagents": {
 			"Large Brilliant Shard": 4,
 			"Essence of Undeath": 4
-        }
+        },
+        "Phase":    1
     },
     "Weapon Winters Might": {
         "ID":       21931,
@@ -1691,7 +2679,8 @@ recipes = {
 			"Vision Dust": 3,
 			"Large Glowing Shard": 1,
 			"Wintersbite": 2
-        }
+        },
+        "Phase":    1
     },
     "Enchanted Leather": {
         "ID":       17181,
@@ -1703,7 +2692,8 @@ recipes = {
         "Reagents": {
 			"Rugged Leather": 1,
 			"Lesser Eternal Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Enchanted Thorium": {
         "ID":       17180,
@@ -1715,7 +2705,8 @@ recipes = {
         "Reagents": {
 			"Thorium Bar": 1,
 			"Dream Dust": 3
-        }
+        },
+        "Phase":    1
     },
     "Greater Magic Wand": {
         "ID":       14807,
@@ -1727,7 +2718,8 @@ recipes = {
         "Reagents": {
 			"Simple Wood": 1,
 			"Greater Magic Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Greater Mystic Wand": {
         "ID":       14810,
@@ -1740,7 +2732,8 @@ recipes = {
 			"Star Wood": 1,
 			"Greater Mystic Essence": 1,
 			"Vision Dust": 1
-        }
+        },
+        "Phase":    1
     },
     "Lesser Magic Wand": {
         "ID":       14293,
@@ -1752,7 +2745,8 @@ recipes = {
         "Reagents": {
 			"Simple Wood": 1,
 			"Lesser Magic Essence": 1
-        }
+        },
+        "Phase":    1
     },
     "Lesser Mana Oil": {
         "ID":       25127,
@@ -1766,7 +2760,8 @@ recipes = {
 			"Dream Dust": 3,
 			"Purple Lotus": 2,
 			"Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Lesser Mystic Wand": {
         "ID":       14809,
@@ -1779,7 +2774,8 @@ recipes = {
 			"Star Wood": 1,
 			"Lesser Mystic Essence": 1,
 			"Soul Dust": 1
-        }
+        },
+        "Phase":    1
     },
     "Lesser Wizard Oil": {
         "ID":       25126,
@@ -1793,7 +2789,8 @@ recipes = {
 			"Vision Dust": 3,
 			"Stranglethorn Seed": 2,
 			"Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Minor Mana Oil": {
         "ID":       25125,
@@ -1807,7 +2804,8 @@ recipes = {
 			"Soul Dust": 3,
 			"Maple Seed": 2,
 			"Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Minor Mana Oil": {
         "ID":       25125,
@@ -1821,7 +2819,8 @@ recipes = {
 			"Soul Dust": 3,
 			"Maple Seed": 2,
 			"Leaded Vial": 1
-        }
+        },
+        "Phase":    1
     },
     "Minor Wizard Oil": {
         "ID":       25124,
@@ -1835,7 +2834,24 @@ recipes = {
 			"Strange Dust": 2,
 			"Maple Seed": 1,
 			"Empty Vial": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Runed Adamantite Rod": {
+        "ID":       32665,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    375,
+        "Grey":     390,
+        "Source":   "VendorLimited",
+        "RecipeID": 25848,
+        "Reagents": {
+			"Adamantite Rod": 1,
+            "Greater Planar Essence": 8,
+            "Large Prismatic Shard": 8,
+            "Primal Might": 1
+        },
+        "Phase":    1
     },
     "Runed Arcanite Rod": {
         "ID":       20051,
@@ -1850,9 +2866,9 @@ recipes = {
             "Golden Pearl": 1,
             "Illusion Dust": 10,
             "Greater Eternal Essence": 4,
-            "Small Brilliant Shard": 4,
             "Large Brilliant Shard": 2
-        }
+        },
+        "Phase":    1
     },
     "Runed Copper Rod": {
         "ID":       7421,
@@ -1865,7 +2881,38 @@ recipes = {
 			"Copper Rod": 1,
             "Strange Dust": 1,
             "Lesser Magic Essence": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Runed Eternium Rod": {
+        "ID":       32667,
+        "Learn":    375,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     400,
+        "Source":   "VendorLimited",
+        "RecipeID": 25849,
+        "Reagents": {
+			"Eternium Rod": 1,
+            "Greater Planar Essence": 12,
+            "Void Crystal": 2,
+            "Primal Might": 4,
+        },
+        "Phase":    1
+    },
+    "Runed Fel Iron Rod": {
+        "ID":       32664,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    325,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+			"Fel Iron Rod": 1,
+            "Greater Eternal Essence": 4,
+            "Large Brilliant Shard": 6,
+        },
+        "Phase":    1
     },
     "Runed Golden Rod": {
         "ID":       13628,
@@ -1879,7 +2926,8 @@ recipes = {
             "Iridescent Pearl": 1,
             "Greater Astral Essence": 2,
             "Soul Dust": 2
-        }
+        },
+        "Phase":    1
     },
     "Runed Silver Rod": {
         "ID":       7795,
@@ -1893,7 +2941,8 @@ recipes = {
             "Strange Dust": 6,
             "Greater Magic Essence": 3,
             "Shadowgem": 1
-        }
+        },
+        "Phase":    1
     },
     "Runed Truesilver Rod": {
         "ID":       13702,
@@ -1907,7 +2956,8 @@ recipes = {
             "Black Pearl": 1,
             "Greater Mystic Essence": 2,
             "Vision Dust": 2
-        }
+        },
+        "Phase":    1
     },
     "Smoking Heart of the Mountain": {
         "ID":       15596,
@@ -1921,7 +2971,38 @@ recipes = {
 			"Blood of the Mountain": 1,
 			"Essence of Fire": 1,
 			"Small Brilliant Shard": 3
-        }
+        },
+        "Phase":    1
+    },
+    "Superior Mana Oil": {
+        "ID":       22521,
+        "Learn":    310,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "VendorLimited",
+        "RecipeID": 22562,
+        "Reagents": {
+			"Arcane Dust": 3,
+            "Netherbloom": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
+    "Superior Wizard Oil": {
+        "ID":       22522,
+        "Learn":    340,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "VendorLimited",
+        "RecipeID": 22563,
+        "Reagents": {
+			"Arcane Dust": 3,
+            "Nightmare Vine": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
     },
     "Wizard Oil": {
         "ID":       25128,
@@ -1935,7 +3016,8 @@ recipes = {
 			"Illusion Dust": 3,
 			"Firebloom": 2,
 			"Crystal Vial": 1
-        }
+        },
+        "Phase":    1
     }
 }
 

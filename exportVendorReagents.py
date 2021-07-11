@@ -6,6 +6,7 @@ items = {
     "Bleach": 25,
     "Blue Dye": 50,
     "Coarse Thread": 10,
+    "Copper Rod": 130,
     "Crystal Vial": 500,
     "Empty Vial": 4,
     "Engineers Ink": 2000,

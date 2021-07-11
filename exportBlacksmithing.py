@@ -1,6 +1,160 @@
 #!/usr/bin/env python3.7
 
 recipes = {
+    "Adamantite Breastplate": {
+        "ID":       23507,
+        "Learn":    340,
+        "Yellow":   350,
+        "Green":    360,
+        "Grey":     370,
+        "Source":   "VendorLimited",
+        "RecipeID": 23596,
+        "Reagents": {
+            "Adamantite Bar": 12,
+            "Primal Earth": 4,
+            "Primal Fire": 2
+        },
+        "Phase":    1
+    },
+    "Adamantite Cleaver": {
+        "ID":       23503,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "VendorLimited",
+        "RecipeID": 23591,
+        "Reagents": {
+            "Adamantite Bar": 8
+        },
+        "Phase":    1
+    },
+    "Adamantite Dagger": {
+        "ID":       23504,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "VendorLimited",
+        "RecipeID": 23592,
+        "Reagents": {
+            "Adamantite Bar": 7,
+            "Knothide Leather": 2
+        },
+        "Phase":    1
+    },
+    "Adamantite Maul": {
+        "ID":       23502,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "VendorLimited",
+        "RecipeID": 23590,
+        "Reagents": {
+            "Adamantite Bar": 8
+        },
+        "Phase":    1
+    },
+    "Adamantite Plate Bracers": {
+        "ID":       23506,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    355,
+        "Grey":     365,
+        "Source":   "VendorLimited",
+        "RecipeID": 23594,
+        "Reagents": {
+            "Adamantite Bar": 6,
+            "Primal Earth": 2,
+            "Primal Fire": 2
+        },
+        "Phase":    1
+    },
+    "Adamantite Plate Gloves": {
+        "ID":       23508,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    355,
+        "Grey":     365,
+        "Source":   "VendorLimited",
+        "RecipeID": 23595,
+        "Reagents": {
+            "Adamantite Bar": 8,
+            "Knothide Leather": 2,
+            "Primal Earth": 3,
+            "Primal Fire": 2
+        },
+        "Phase":    1
+    },
+    "Adamantite Rapier": {
+        "ID":       23505,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    355,
+        "Grey":     365,
+        "Source":   "VendorLimited",
+        "RecipeID": 23593,
+        "Reagents": {
+            "Adamantite Bar": 12
+        },
+        "Phase":    1
+    },
+    "Adamantite Rod": {
+        "ID":       25844,
+        "Learn":    350,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "VendorLimited",
+        "RecipeID": 25846,
+        "Reagents": {
+            "Adamantite Bar": 10
+        },
+        "Phase":    1
+    },
+    "Adamantite Sharpening Stone": {
+        "ID":       23529,
+        "Learn":    350,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 23593,
+        "Reagents": {
+            "Adamantite Bar": 1,
+            "Mote of Earth": 2
+        },
+        "Phase":    1
+    },
+    "Adamantite Weapon Chain": {
+        "ID":       33185,
+        "Learn":    335,
+        "Yellow":   345,
+        "Green":    350,
+        "Grey":     355,
+        "Source":   "Drop",
+        "RecipeID": 33186,
+        "Reagents": {
+            "Hardened Adamantite Bar": 2,
+            "Khorium Bar":  1
+        },
+        "Phase":    1
+    },
+    "Adamantite Weightstone": {
+        "ID":       28421,
+        "Learn":    350,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 28632,
+        "Reagents": {
+            "Adamantite Bar": 1,
+            "Netherweave Cloth": 2
+        },
+        "Phase":    1
+    },
     "Arcanite Rod": {
         "ID":       16206,
         "Learn":    275,
@@ -11,7 +165,8 @@ recipes = {
         "Reagents": {
             "Arcanite Bar": 3,
             "Dense Grinding Stone": 1,
-        }
+        },
+        "Phase":    1
     },
     "Arcanite Skeleton Key": {
         "ID":       15872,
@@ -24,7 +179,8 @@ recipes = {
             "Arcanite Bar": 1,
             "Dense Grinding Stone": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
     "Barbaric Iron Boots": {
         "ID":       7916,
@@ -40,7 +196,8 @@ recipes = {
             "Large Fang": 4,
 			"Tigerseye": 4,
 			"Heavy Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Barbaric Iron Breastplate": {
         "ID":       7914,
@@ -54,7 +211,8 @@ recipes = {
         "Reagents": {
             "Iron Bar": 20,
             "Heavy Grinding Stone": 4
-        }
+        },
+        "Phase":    1
     },
     "Barbaric Iron Gloves": {
         "ID":       7917,
@@ -69,7 +227,8 @@ recipes = {
             "Iron Bar": 14,
             "Heavy Grinding Stone": 3,
 			"Large Fang": 2
-        }
+        },
+        "Phase":    1
     },
     "Barbaric Iron Helm": {
         "ID":       7915,
@@ -84,7 +243,8 @@ recipes = {
             "Iron Bar": 10,
             "Large Fang": 2,
 			"Sharp Claw": 2
-        }
+        },
+        "Phase":    1
     },
     "Barbaric Iron Shoulders": {
         "ID":       7913,
@@ -100,7 +260,8 @@ recipes = {
             "Sharp Claw": 4,
 			"Shadowgem": 2,
 			"Heavy Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Big Black Mace": {
         "ID":       7945,
@@ -115,7 +276,8 @@ recipes = {
 			"Shadowgem": 4,
 			"Solid Grinding Stone": 1,
 			"Thick Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Big Bronze Knife": {
         "ID":       3848,
@@ -130,7 +292,8 @@ recipes = {
 			"Rough Grinding Stone": 2,
 			"Tigerseye": 1,
 			"Medium Leather": 1
-        }
+        },
+        "Phase":    1
     },
     "Blazing Rapier": {
         "ID":       12777,
@@ -147,7 +310,8 @@ recipes = {
 			"Heart of Fire": 4,
 			"Azerothian Diamond": 2,
 			"Dense Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Blight": {
         "ID":       7959,
@@ -163,7 +327,56 @@ recipes = {
 			"Truesilver Bar": 10,
 			"Solid Grinding Stone": 6,
 			"Thick Leather": 6
-        }
+        },
+        "Phase":    1
+    },
+    "Bloodsoul Breastplate": {
+        "ID":       19690,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19776,
+        "Reagents": {
+            "Thorium Bar": 20,
+            "Souldarite": 10,
+            "Bloodvine": 2,
+            "Star Ruby": 2
+        },
+        "Phase":    1
+    },
+    "Bloodsoul Gauntlets": {
+        "ID":       19692,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19778,
+        "Reagents": {
+            "Thorium Bar": 12,
+            "Souldarite": 6,
+            "Bloodvine": 2,
+            "Enchanted Leather": 4
+        },
+        "Phase":    1
+    },
+    "Bloodsoul Shoulders": {
+        "ID":       19691,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19777,
+        "Reagents": {
+            "Thorium Bar": 16,
+            "Souldarite": 8,
+            "Bloodvine": 2,
+            "Star Ruby": 1
+        },
+        "Phase":    1
     },
     "Blue Glittering Axe": {
         "ID":       7942,
@@ -178,7 +391,8 @@ recipes = {
             "Aquamarine": 2,
 			"Solid Grinding Stone": 1,
 			"Thick Leather": 4
-        }
+        },
+        "Phase":    1
     },
     "Bronze Axe": {
         "ID":       2849,
@@ -191,7 +405,8 @@ recipes = {
             "Bronze Bar": 7,
             "Weak Flux": 4,
 			"Medium Leather": 1
-        }
+        },
+        "Phase":    1
     },
     "Bronze Battle Axe": {
         "ID":       7958,
@@ -204,7 +419,8 @@ recipes = {
             "Bronze Bar": 14,
             "Strong Flux": 1,
 			"Medium Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Bronze Greatsword": {
         "ID":       7957,
@@ -217,7 +433,8 @@ recipes = {
             "Bronze Bar": 12,
             "Strong Flux": 2,
 			"Medium Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Bronze Mace": {
         "ID":       2848,
@@ -230,7 +447,8 @@ recipes = {
             "Bronze Bar": 6,
             "Weak Flux": 4,
 			"Medium Leather": 1
-        }
+        },
+        "Phase":    1
     },
     "Bronze Shortsword": {
         "ID":       2850,
@@ -243,7 +461,8 @@ recipes = {
             "Bronze Bar": 5,
             "Weak Flux": 4,
 			"Medium Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Bronze Warhammer": {
         "ID":       7956,
@@ -256,7 +475,8 @@ recipes = {
             "Bronze Bar": 8,
             "Strong Flux": 1,
 			"Medium Leather": 1
-        }
+        },
+        "Phase":    1
     },
     "Coarse Grinding Stone": {
         "ID":       3478,
@@ -267,7 +487,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Coarse Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Coarse Sharpening Stone": {
         "ID":       2863,
@@ -278,7 +499,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Coarse Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Coarse Weightstone": {
         "ID":       3240,
@@ -290,7 +512,8 @@ recipes = {
         "Reagents": {
             "Coarse Stone": 1,
             "Wool Cloth": 1
-        }
+        },
+        "Phase":    1
     },
     "Copper Axe": {
         "ID":       2845,
@@ -303,7 +526,8 @@ recipes = {
             "Copper Bar": 6,
             "Weak Flux": 1,
 			"Linen Cloth": 2
-        }
+        },
+        "Phase":    1
     },
     "Copper Battle Axe": {
         "ID":       3488,
@@ -318,7 +542,8 @@ recipes = {
 			"Malachite": 2,
 			"Rough Grinding Stone": 2,
 			"Light Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Copper Bracers": {
         "ID":       2853,
@@ -329,7 +554,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Copper Bar": 2
-        }
+        },
+        "Phase":    1
     },
     "Copper Chain Belt": {
         "ID":       2851,
@@ -340,7 +566,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Copper Bar": 6
-        }
+        },
+        "Phase":    1
     },
     "Copper Chain Boots": {
         "ID":       3469,
@@ -351,7 +578,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Copper Bar": 8
-        }
+        },
+        "Phase":    1
     },
     "Copper Chain Pants": {
         "ID":       2852,
@@ -362,7 +590,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Copper Bar": 4
-        }
+        },
+        "Phase":    1
     },
     "Copper Chain Vest": {
         "ID":       3471,
@@ -376,7 +605,8 @@ recipes = {
             "Copper Bar": 8,
             "Malachite": 1,
 			"Rough Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Copper Claymore": {
         "ID":       7955,
@@ -390,7 +620,8 @@ recipes = {
             "Weak Flux": 2,
 			"Rough Grinding Stone": 1,
 			"Light Leather": 1
-        }
+        },
+        "Phase":    1
     },
     "Copper Dagger": {
         "ID":       7166,
@@ -404,7 +635,8 @@ recipes = {
             "Weak Flux": 1,
 			"Rough Grinding Stone": 1,
 			"Light Leather": 1
-        }
+        },
+        "Phase":    1
     },
     "Copper Mace": {
         "ID":       2844,
@@ -417,7 +649,8 @@ recipes = {
             "Copper Bar": 6,
             "Weak Flux": 1,
 			"Linen Cloth": 2
-        }
+        },
+        "Phase":    1
     },
     "Copper Shortsword": {
         "ID":       2847,
@@ -430,7 +663,25 @@ recipes = {
             "Copper Bar": 6,
             "Weak Flux": 1,
 			"Linen Cloth": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Dark Iron Boots": {
+        "ID":       20039,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "School":   "Armor",
+        "RecipeID": 20040,
+        "Reagents": {
+            "Dark Iron Bar": 6,
+            "Fiery Core": 3,
+			"Lava Core": 3,
+            "Core Leather": 4
+        },
+        "Phase":    1
     },
     "Dark Iron Bracers": {
         "ID":       17014,
@@ -445,7 +696,74 @@ recipes = {
             "Dark Iron Bar": 4,
             "Fiery Core": 2,
 			"Lava Core": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Dark Iron Destroyer": {
+        "ID":       17016,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 17060,
+        "Reagents": {
+            "Dark Iron Bar": 18,
+			"Lava Core": 12,
+            "Blood of the Mountain": 2,
+            "Enchanted Leather": 2
+        },
+        "Phase":    1
+    },
+    "Dark Iron Gauntlets": {
+        "ID":       19164,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "School":   "Armor",
+        "RecipeID": 19207,
+        "Reagents": {
+            "Dark Iron Bar": 4,
+            "Fiery Core": 5,
+			"Lava Core": 3,
+            "Core Leather": 4,
+            "Blood of the Mountain": 2
+        },
+        "Phase":    1
+    },
+    "Dark Iron Helm": {
+        "ID":       19148,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "School":   "Armor",
+        "RecipeID": 19206,
+        "Reagents": {
+            "Dark Iron Bar": 4,
+            "Fiery Core": 2,
+			"Lava Core": 4
+        },
+        "Phase":    1
+    },
+    "Dark Iron Leggings": {
+        "ID":       17013,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "School":   "Armor",
+        "RecipeID": 17052,
+        "Reagents": {
+            "Dark Iron Bar": 16,
+            "Fiery Core": 4,
+			"Lava Core": 6
+        },
+        "Phase":    1
     },
     "Dark Iron Mail": {
         "ID":       11606,
@@ -458,7 +776,8 @@ recipes = {
         "Reagents": {
             "Dark Iron Bar": 10,
             "Heart of Fire": 2
-        }
+        },
+        "Phase":    1
     },
     "Dark Iron Plate": {
         "ID":       11604,
@@ -472,7 +791,8 @@ recipes = {
         "Reagents": {
             "Dark Iron Bar": 20,
             "Heart of Fire": 8
-        }
+        },
+        "Phase":    1
     },
     "Dark Iron Pulverizer": {
         "ID":       11608,
@@ -486,7 +806,25 @@ recipes = {
         "Reagents": {
             "Dark Iron Bar": 18,
             "Heart of Fire": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Dark Iron Reaver": {
+        "ID":       17015,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "School":   "Armor",
+        "RecipeID": 17059,
+        "Reagents": {
+            "Dark Iron Bar": 16,
+            "Fiery Core": 12,
+			"Blood of the Mountain": 2,
+            "Enchanted Leather": 2
+        },
+        "Phase":    1
     },
     "Dark Iron Shoulders": {
         "ID":       11605,
@@ -499,7 +837,8 @@ recipes = {
         "Reagents": {
             "Dark Iron Bar": 6,
             "Heart of Fire": 1
-        }
+        },
+        "Phase":    1
     },
     "Dark Iron Sunderer": {
         "ID":       11607,
@@ -513,7 +852,100 @@ recipes = {
         "Reagents": {
             "Dark Iron Bar": 26,
             "Heart of Fire": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Darkrune Breastplate": {
+        "ID":       20550,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 20554,
+        "Reagents": {
+            "Thorium Bar": 20,
+            "Dark Rune": 10,
+            "Truesilver Bar": 10
+        },
+        "Phase":    1
+    },
+    "Darkrune Gauntlets": {
+        "ID":       20549,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 20553,
+        "Reagents": {
+            "Thorium Bar": 12,
+            "Dark Rune": 6,
+            "Truesilver Bar": 6,
+            "Enchanted Leather": 2
+        },
+        "Phase":    1
+    },
+    "Darkrune Helm": {
+        "ID":       20551,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 20555,
+        "Reagents": {
+            "Thorium Bar": 16,
+            "Dark Rune": 8,
+            "Truesilver Bar": 8,
+            "Black Diamond": 1
+        },
+        "Phase":    1
+    },
+    "Darksoul Breastplate": {
+        "ID":       19693,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19779,
+        "Reagents": {
+            "Thorium Bar": 20,
+            "Souldarite": 14,
+            "Large Opal": 2
+        },
+        "Phase":    1
+    },
+    "Darksoul Leggings": {
+        "ID":       19694,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19780,
+        "Reagents": {
+            "Thorium Bar": 18,
+            "Souldarite": 12,
+            "Large Opal": 2
+        },
+        "Phase":    1
+    },
+    "Darksoul Shoulders": {
+        "ID":       19695,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19781,
+        "Reagents": {
+            "Thorium Bar": 16,
+            "Souldarite": 10,
+            "Large Opal": 1
+        },
+        "Phase":    1
     },
     "Dawns Edge": {
         "ID":       12774,
@@ -531,7 +963,8 @@ recipes = {
 			"Blue Sapphire": 4,
 			"Dense Grinding Stone": 2,
 			"Rugged Leather": 4
-        }
+        },
+        "Phase":    1
     },
     "Dawnbringer Shoulders": {
         "ID":       12625,
@@ -547,7 +980,8 @@ recipes = {
             "Arcanite Bar": 4,
 			"Huge Emerald": 2,
 			"Essence of Water": 2
-        }
+        },
+        "Phase":    1
     },
     "Dazzling Mithril Rapier": {
         "ID":       7944,
@@ -564,7 +998,8 @@ recipes = {
 			"Moss Agate": 2,
 			"Solid Grinding Stone": 1,
 			"Mageweave Cloth": 2
-        }
+        },
+        "Phase":    1
     },
     "Deadly Bronze Poniard": {
         "ID":       3490,
@@ -581,7 +1016,8 @@ recipes = {
 			"Shadowgem": 2, 
 			"Coarse Grinding Stone": 2,
 			"Medium Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Dense Grinding Stone": {
         "ID":       12644,
@@ -592,7 +1028,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Dense Stone": 4
-        }
+        },
+        "Phase":    1
     },
     "Dense Sharpening Stone": {
         "ID":       12404,
@@ -603,7 +1040,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Dense Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Dense Weightstone": {
         "ID":       12643,
@@ -615,7 +1053,37 @@ recipes = {
         "Reagents": {
             "Dense Stone": 1,
             "Runecloth": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Earthforged Leggings": {
+        "ID":       30069,
+        "Learn":    260,
+        "Yellow":   280,
+        "Green":    290,
+        "Grey":     300,
+        "Source":   "Trainer",
+        "School":   "Armor",
+        "Reagents": {
+            "Mithril Bar": 16,
+            "Core of Earth": 2
+        },
+        "Phase":    1
+    },
+    "Earthpeace Breastplate": {
+        "ID":       23527,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 23617,
+        "Reagents": {
+            "Hardened Adamantite Bar": 4,
+            "Primal Life": 6,
+            "Primal Earth": 4
+        },
+        "Phase":    1
     },
     "Ebon Shiv": {
         "ID":       7947,
@@ -631,7 +1099,8 @@ recipes = {
 			"Star Ruby": 2,
 			"Solid Grinding Stone": 1,
 			"Thick Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Edge of Winter": {
         "ID":       17704,
@@ -648,7 +1117,82 @@ recipes = {
 			"Elemental Water": 2,
 			"Elemental Air": 2,
 			"Heavy Leather": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Elemental Sharpening Stone": {
+        "ID":       18262,
+        "Learn":    300,
+        "Yellow":   300,
+        "Green":    310,
+        "Grey":     320,
+        "Source":   "Drop",
+        "RecipeID": 18264,
+        "Reagents": {
+            "Elemental Earth": 2,
+            "Dense Stone": 3
+        },
+        "Phase":    1
+    },
+    "Enchanted Adamantite Belt": {
+        "ID":       23510,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Reputation",
+        "RecipeID": 23597,
+        "Reagents": {
+            "Hardened Adamantite Bar": 2,
+            "Arcane Dust": 8,
+            "Large Prismatic Shard": 2
+        },
+        "Phase":    1
+    },
+    "Enchanted Adamantite Boots": {
+        "ID":       23511,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Reputation",
+        "RecipeID": 23598,
+        "Reagents": {
+            "Hardened Adamantite Bar": 3,
+            "Arcane Dust": 12,
+            "Large Prismatic Shard": 2
+        },
+        "Phase":    1
+    },
+    "Enchanted Adamantite Breastplate": {
+        "ID":       23509,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 23599,
+        "Reagents": {
+            "Hardened Adamantite Bar": 4,
+            "Arcane Dust": 20,
+            "Large Prismatic Shard": 4
+        },
+        "Phase":    1
+    },
+    "Enchanted Adamantite Leggings": {
+        "ID":       23512,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Reputation",
+        "RecipeID": 23600,
+        "Reagents": {
+            "Hardened Adamantite Bar": 4,
+            "Arcane Dust": 24,
+            "Large Prismatic Shard": 4
+        },
+        "Phase":    1
     },
     "Enchanted Battlehammer": {
         "ID":       12776,
@@ -665,7 +1209,286 @@ recipes = {
 			"Huge Emerald": 2,
 			"Powerful Mojo": 4,
 			"Rugged Leather": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Enchanted Thorium Blade": {
+        "ID":       29203,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Enchanted Thorium Bar": 2,
+            "Thorium Bar": 6,
+            "Rugged Leather": 1
+        },
+        "Phase":    1
+    },
+    "Eternium Rod": {
+        "ID":       25845,
+        "Learn":    375,
+        "Yellow":   375,
+        "Green":    380,
+        "Grey":     385,
+        "Source":   "VendorLimited",
+        "RecipeID": 25847,
+        "Reagents": {
+            "Eternium Bar": 4
+        },
+        "Phase":    1
+    },
+    "Fel Iron Breastplate": {
+        "ID":       23489,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    345,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 10
+        },
+        "Phase":    1
+    },
+    "Fel Iron Bracer": {
+        "ID":       23494,
+        "Learn":    320,
+        "Yellow":   325,
+        "Green":    335,
+        "Grey":     345,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 6
+        },
+        "Phase":    1
+    },
+    "Fel Iron Coif": {
+        "ID":       23493,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 4
+        },
+        "Phase":    1
+    },
+    "Fel Iron Gloves": {
+        "ID":       23491,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 5
+        },
+        "Phase":    1
+    },
+    "Fel Iron Tunic": {
+        "ID":       23490,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    340,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 9
+        },
+        "Phase":    1
+    },
+    "Fel Iron Greatsword": {
+        "ID":       23499,
+        "Learn":    320,
+        "Yellow":   330,
+        "Green":    340,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 12
+        },
+        "Phase":    1
+    },
+    "Fel Iron Hammer": {
+        "ID":       23498,
+        "Learn":    315,
+        "Yellow":   325,
+        "Green":    335,
+        "Grey":     345,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 10
+        },
+        "Phase":    1
+    },
+    "Fel Iron Hatchet": {
+        "ID":       23497,
+        "Learn":    310,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 9
+        },
+        "Phase":    1
+    },
+    "Fel Iron Plate Belt": {
+        "ID":       23484,
+        "Learn":    305,
+        "Yellow":   315,
+        "Green":    325,
+        "Grey":     335,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 4
+        },
+        "Phase":    1
+    },
+    "Fel Iron Plate Boots": {
+        "ID":       23487,
+        "Learn":    315,
+        "Yellow":   325,
+        "Green":    335,
+        "Grey":     345,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 6
+        },
+        "Phase":    1
+    },
+    "Fel Iron Plate Gloves": {
+        "ID":       23482,
+        "Learn":    300,
+        "Yellow":   310,
+        "Green":    320,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 4
+        },
+        "Phase":    1
+    },
+    "Fel Iron Plate Pants": {
+        "ID":       23488,
+        "Learn":    315,
+        "Yellow":   325,
+        "Green":    335,
+        "Grey":     345,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 8
+        },
+        "Phase":    1
+    },
+    "Fel Iron Rod": {
+        "ID":       25843,
+        "Learn":    300,
+        "Yellow":   300,
+        "Green":    305,
+        "Grey":     310,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 6
+        },
+        "Phase":    1
+    },
+    "Fel Sharpening Stone": {
+        "ID":       23528,
+        "Learn":    300,
+        "Yellow":   300,
+        "Green":    305,
+        "Grey":     310,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 1,
+            "Mote of Earth": 1
+        },
+        "Phase":    1
+    },
+    "Fel Weightstone": {
+        "ID":       28420,
+        "Learn":    300,
+        "Yellow":   300,
+        "Green":    305,
+        "Grey":     310,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Fel Iron Bar": 1,
+            "Netherweave Cloth": 1
+        },
+        "Phase":    1
+    },
+    "Felsteel Gloves": {
+        "ID":       23517,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 23605,
+        "Reagents": {
+            "Felsteel Bar": 6
+        },
+        "Phase":    1
+    },
+    "Felsteel Helm": {
+        "ID":       23519,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 23605,
+        "Reagents": {
+            "Felsteel Bar": 8
+        },
+        "Phase":    1
+    },
+    "Felsteel Leggings": {
+        "ID":       23518,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 23606,
+        "Reagents": {
+            "Felsteel Bar": 8
+        },
+        "Phase":    1
+    },
+    "Felsteel Shield Spike": {
+        "ID":       23530,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 23619,
+        "Reagents": {
+            "Felsteel Bar": 4,
+            "Primal Fire": 4,
+            "Primal Earth": 4
+        },
+        "Phase":    1
+    },
+    "Felsteel Whisper Knives": {
+        "ID":       29204,
+        "Learn":    360,
+        "Yellow":   360,
+        "Green":    370,
+        "Grey":     380,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Felsteel Bar": 6,
+            "Primal Air": 2,
+            "Primal Fire": 2,
+            "Heavy Knothide Leather": 1
+        },
+        "Phase":    1
     },
     "Fiery Chain Girdle": {
         "ID":       16989,
@@ -680,7 +1503,24 @@ recipes = {
             "Dark Iron Bar": 6,
             "Fiery Core": 3,
 			"Lava Core": 3
-        }
+        },
+        "Phase":    1
+    },
+    "Fiery Chain Shoulders": {
+        "ID":       16988,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "School":   "Armor",
+        "RecipeID": 17053,
+        "Reagents": {
+            "Dark Iron Bar": 16,
+            "Fiery Core": 4,
+			"Lava Core": 5
+        },
+        "Phase":    1
     },
     "Fiery Plate Gauntlets": {
         "ID":       12631,
@@ -696,7 +1536,68 @@ recipes = {
             "Enchanted Thorium Bar": 6,
 			"Essence of Fire": 2,
 			"Star Ruby": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Flamebane Bracers": {
+        "ID":       23515,
+        "Learn":    350,
+        "Yellow":   360,
+        "Green":    380,
+        "Grey":     380,
+        "Source":   "Reputation",
+        "RecipeID": 23601,
+        "Reagents": {
+            "Fel Iron Bar": 6,
+            "Primal Water": 3,
+            "Primal Fire": 2
+        },
+        "Phase":    1
+    },
+    "Flamebane Breastplate": {
+        "ID":       23513,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Reputation",
+        "RecipeID": 23604,
+        "Reagents": {
+            "Fel Iron Bar": 16,
+            "Primal Water": 6,
+            "Primal Fire": 4
+        },
+        "Phase":    1
+    },
+    "Flamebane Gloves": {
+        "ID":       23514,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Reputation",
+        "RecipeID": 23603,
+        "Reagents": {
+            "Fel Iron Bar": 8,
+            "Primal Water": 4,
+            "Primal Fire": 4
+        },
+        "Phase":    1
+    },
+    "Flamebane Helm": {
+        "ID":       23516,
+        "Learn":    355,
+        "Yellow":   365,
+        "Green":    375,
+        "Grey":     385,
+        "Source":   "Reputation",
+        "RecipeID": 23602,
+        "Reagents": {
+            "Fel Iron Bar": 12,
+            "Primal Water": 5,
+            "Primal Fire": 3
+        },
+        "Phase":    1
     },
     "Frost Tiger Blade": {
         "ID":       3854,
@@ -713,7 +1614,8 @@ recipes = {
 			"Jade": 2,
 			"Frost Oil": 1,
 			"Heavy Leather": 4
-        }
+        },
+        "Phase":    1
     },
     "Gemmed Copper Gauntlets": {
         "ID":       3474,
@@ -727,7 +1629,8 @@ recipes = {
             "Copper Bar": 8,
             "Tigerseye": 1,
 			"Malachite": 1
-        }
+        },
+        "Phase":    1
     },
     "Girdle of the Dawn": {
         "ID":       19051,
@@ -741,7 +1644,8 @@ recipes = {
             "Thorium Bar": 8,
             "Truesilver Bar": 6,
 			"Righteous Orb": 1
-        }
+        },
+        "Phase":    1
     },
     "Glinting Steel Dagger": {
         "ID":       12259,
@@ -756,7 +1660,23 @@ recipes = {
 			"Moss Agate": 1,
 			"Elemental Earth": 1,
 			"Heavy Leather": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Gloves of the Dawn": {
+        "ID":       19057,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 19205,
+        "Reagents": {
+            "Arcanite Bar": 2,
+            "Truesilver Bar": 10,
+            "Righteous Orb": 1
+        },
+        "Phase":    1
     },
     "Golder Iron Destroyer": {
         "ID":       3852,
@@ -773,7 +1693,8 @@ recipes = {
 			"Strong Flux": 2,
 			"Heavy Leather": 2,
 			"Heavy Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Golden Rod": {
         "ID":       11128,
@@ -785,7 +1706,8 @@ recipes = {
         "Reagents": {
             "Gold Bar": 1,
             "Coarse Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Golden Scale Boots": {
         "ID":       3847,
@@ -800,7 +1722,8 @@ recipes = {
             "Gold Bar": 4,
 			"Heavy Grinding Stone": 4,
 			"Citrine": 1
-        }
+        },
+        "Phase":    1
     },
     "Golden Scale Bracers": {
         "ID":       6040,
@@ -812,7 +1735,8 @@ recipes = {
         "Reagents": {
             "Steel Bar": 5,
             "Heavy Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Golden Scale Coif": {
         "ID":       3837,
@@ -826,7 +1750,8 @@ recipes = {
             "Steel Bar": 8,
 			"Gold Bar": 2,
 			"Heavy Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Golden Scale Cuirass": {
         "ID":       3845,
@@ -841,7 +1766,8 @@ recipes = {
 			"Gold Bar": 2,
 			"Heavy Grinding Stone": 4,
 			"Jade": 2
-        }
+        },
+        "Phase":    1
     },
     "Golden Scale Gauntlets": {
         "ID":       9366,
@@ -857,7 +1783,8 @@ recipes = {
 			"Gold Bar": 4,
 			"Heavy Grinding Stone": 4,
 			"Citrine": 1
-        }
+        },
+        "Phase":    1
     },
     "Golden Scale Leggings": {
         "ID":       3843,
@@ -871,7 +1798,8 @@ recipes = {
             "Iron Bar": 10,
 			"Gold Bar": 2,
 			"Heavy Grinding Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Golden Scale Shoulders": {
         "ID":       3841,
@@ -885,7 +1813,8 @@ recipes = {
             "Steel Bar": 6,
 			"Gold Bar": 2,
 			"Heavy Grinding Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Golden Skeleton Key": {
         "ID":       15870,
@@ -898,7 +1827,48 @@ recipes = {
             "Gold Bar": 1,
 			"Heavy Grinding Stone": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
+    },
+    "Great Earthforged Hammer": {
+        "ID":       30093,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "School":   "Weapon",
+        "Reagents": {
+            "Adamantite Bar": 12,
+            "Primal Earth": 6
+        },
+        "Phase":    1
+    },
+    "Greater Rune of Warding": {
+        "ID":       25521,
+        "Learn":    350,
+        "Yellow":   350,
+        "Green":    355,
+        "Grey":     360,
+        "Source":   "Reputation",
+        "RecipeID": 25526,
+        "Reagents": {
+            "Khorium Bar": 1
+        },
+        "Phase":    1
+    },
+    "Greater Ward of Shielding": {
+        "ID":       23576,
+        "Learn":    375,
+        "Yellow":   375,
+        "Green":    375,
+        "Grey":     375,
+        "Source":   "Drop",
+        "RecipeID": 23639,
+        "Reagents": {
+            "Eternium Bar": 1
+        },
+        "Phase":    1
     },
     "Green Iron Boots": {
         "ID":       3484,
@@ -913,7 +1883,8 @@ recipes = {
 			"Lesser Moonstone": 2,
 			"Coarse Grinding Stone": 2,
 			"Green Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Iron Bracers": {
         "ID":       3835,
@@ -925,7 +1896,8 @@ recipes = {
         "Reagents": {
             "Iron Bar": 6,
 			"Green Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Iron Gauntlets": {
         "ID":       3485,
@@ -940,7 +1912,8 @@ recipes = {
 			"Small Lustrous Pearl": 2,
 			"Coarse Grinding Stone": 2,
 			"Green Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Iron Hauberk": {
         "ID":       3844,
@@ -955,7 +1928,8 @@ recipes = {
 			"Jade": 2,
 			"Moss Agate": 2,
 			"Green Leather Armor": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Iron Helm": {
         "ID":       3836,
@@ -968,7 +1942,8 @@ recipes = {
             "Iron Bar": 12,
 			"Citrine": 1,
 			"Green Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Iron Leggings": {
         "ID":       3842,
@@ -981,7 +1956,8 @@ recipes = {
             "Iron Bar": 8,
 			"Heavy Grinding Stone": 1,
 			"Green Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Green Iron Shoulders": {
         "ID":       3840,
@@ -995,7 +1971,8 @@ recipes = {
             "Iron Bar": 7,
 			"Heavy Grinding Stone": 1,
 			"Green Dye": 1
-        }
+        },
+        "Phase":    1
     },
     "Hardened Iron Shortsword": {
         "ID":       3849,
@@ -1011,7 +1988,8 @@ recipes = {
 			"Heavy Grinding Stone": 1,
 			"Lesser Moonstone": 2,
 			"Heavy Leather": 3
-        }
+        },
+        "Phase":    1
     },
     "Heavy Bronze Mace": {
         "ID":       3491,
@@ -1027,7 +2005,8 @@ recipes = {
 			"Shadowgem": 1,
 			"Coarse Grinding Stone": 2,
 			"Medium Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Heavy Copper Broadsword": {
         "ID":       3487,
@@ -1041,7 +2020,24 @@ recipes = {
 			"Weak Flux": 2,
 			"Tigerseye": 2,
 			"Medium Leather": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Heavy Copper Longsword": {
+        "ID":       3487,
+        "Learn":    95,
+        "Yellow":   135,
+        "Green":    155,
+        "Grey":     175,
+        "Source":   "Drop",
+        "RecipeID": 33792,
+        "Faction":  "Alliance",
+        "Reagents": {
+            "Copper Bar": 10,
+			"Tigerseye": 1,
+			"Rough Grinding Stone": 2
+        },
+        "Phase":    1
     },
     "Heavy Copper Maul": {
         "ID":       6214,
@@ -1054,7 +2050,8 @@ recipes = {
             "Copper Bar": 12,
 			"Weak Flux": 2,
 			"Light Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Heavy Grinding Stone": {
         "ID":       3486,
@@ -1065,7 +2062,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Heavy Stone": 3
-        }
+        },
+        "Phase":    1
     },
     "Heavy Mithril Axe": {
         "ID":       7941,
@@ -1079,7 +2077,8 @@ recipes = {
 			"Citrine": 2,
 			"Solid Grinding Stone": 1,
 			"Heavy Leather": 4
-        }
+        },
+        "Phase":    1
     },
     "Heavy Mithril Boots": {
         "ID":       7933,
@@ -1091,7 +2090,8 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 14,
 			"Thick Leather": 4
-        }
+        },
+        "Phase":    1
     },
     "Heavy Mithril Breastplate": {
         "ID":       7930,
@@ -1102,7 +2102,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Mithril Bar": 16
-        }
+        },
+        "Phase":    1
     },
     "Heavy Mithril Gauntlet": {
         "ID":       7919,
@@ -1114,7 +2115,8 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 6,
 			"Mageweave Cloth": 4
-        }
+        },
+        "Phase":    1
     },
     "Heavy Mithril Helm": {
         "ID":       7934,
@@ -1127,7 +2129,8 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 14,
 			"Aquamarine": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Mithril Pants": {
         "ID":       7912,
@@ -1140,7 +2143,8 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 10,
 			"Lesser Moonstone": 2
-        }
+        },
+        "Phase":    1
     },
     "Heavy Mithril Shoulder": {
         "ID":       7918,
@@ -1152,7 +2156,23 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 8,
 			"Heavy Leather": 6
-        }
+        },
+        "Phase":    1
+    },
+    "Heavy Obsidian Belt": {
+        "ID":       22197,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22209,
+        "Reagents": {
+            "Small Obsidian Shard": 14,
+            "Enchanted Thorium Bar": 4,
+            "Essence of Earth": 2
+        },
+        "Phase":    1
     },
     "Heavy Sharpening Stone": {
         "ID":       2871,
@@ -1163,7 +2183,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Heavy Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Heavy Timbermaw Belt": {
         "ID":       19043,
@@ -1177,7 +2198,8 @@ recipes = {
             "Thorium Bar": 12,
 			"Essence of Earth": 3,
 			"Living Essence": 3
-        }
+        },
+        "Phase":    1
     },
     "Heavy Weightstone": {
         "ID":       3241,
@@ -1189,7 +2211,8 @@ recipes = {
         "Reagents": {
             "Heavy Stone": 1,
 			"Wool Cloth": 1
-        }
+        },
+        "Phase":    1
     },
     "Huge Thorium Battleaxe": {
         "ID":       12775,
@@ -1203,7 +2226,8 @@ recipes = {
             "Thorium Bar": 40,
 			"Dense Grinding Stone": 6,
 			"Rugged Leather": 6
-        }
+        },
+        "Phase":    1
     },
     "Imperial Plate Belt": {
         "ID":       12424,
@@ -1218,7 +2242,8 @@ recipes = {
             "Thorium Bar": 22,
 			"Rugged Leather": 6,
 			"Aquamarine": 1
-        }
+        },
+        "Phase":    1
     },
     "Imperial Plate Boots": {
         "ID":       12426,
@@ -1233,7 +2258,8 @@ recipes = {
             "Thorium Bar": 34,
 			"Star Ruby": 1,
 			"Aquamarine": 1
-        }
+        },
+        "Phase":    1
     },
     "Imperial Plate Bracers": {
         "ID":       12425,
@@ -1246,7 +2272,21 @@ recipes = {
         "Reagents": {
             "Thorium Bar": 20,
 			"Star Ruby": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Imperial Plate Chest": {
+        "ID":       12422,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Quest",
+        "RecipeID": 12705,
+        "Reagents": {
+            "Thorium Bar": 20
+        },
+        "Phase":    1
     },
     "Imperial Plate Helm": {
         "ID":       12427,
@@ -1259,7 +2299,21 @@ recipes = {
         "Reagents": {
             "Thorium Bar": 34,
 			"Star Ruby": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Imperial Plate Leggings": {
+        "ID":       12429,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Quest",
+        "RecipeID": 12690,
+        "Reagents": {
+            "Thorium Bar": 24
+        },
+        "Phase":    1
     },
     "Imperial Plate Shoulders": {
         "ID":       12428,
@@ -1273,7 +2327,8 @@ recipes = {
             "Thorium Bar": 24,
 			"Rugged Leather": 6,
 			"Citrine": 2
-        }
+        },
+        "Phase":    1
     },
     "Inlaid Mithril Cylinder": {
         "ID":       9060,
@@ -1287,7 +2342,8 @@ recipes = {
             "Mithril Bar": 5,
 			"Gold Bar": 1,
 			"Truesilver Bar": 1
-        }
+        },
+        "Phase":    1
     },
     "Iridescent Hammer": {
         "ID":       5541,
@@ -1303,7 +2359,8 @@ recipes = {
 			"Iridescent Pearl": 1,
 			"Coarse Grinding Stone": 2,
 			"Medium Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Iron Buckle": {
         "ID":       7071,
@@ -1315,7 +2372,8 @@ recipes = {
         "Reagents": {
             "Iron Bar": 1
         },
-        "AmountCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
     "Iron Counterweight": {
         "ID":       6043,
@@ -1329,7 +2387,8 @@ recipes = {
             "Iron Bar": 4,
 			"Coarse Grinding Stone": 2,
 			"Lesser Moonstone": 1
-        }
+        },
+        "Phase":    1
     },
     "Iron Shield Spike": {
         "ID":       6042,
@@ -1342,7 +2401,8 @@ recipes = {
         "Reagents": {
             "Iron Bar": 6,
 			"Coarse Grinding Stone": 4
-        }
+        },
+        "Phase":    1
     },
     "Ironforge Breastplate": {
         "ID":       6731,
@@ -1357,7 +2417,53 @@ recipes = {
             "Copper Bar": 16,
 			"Tigerseye": 2,
 			"Rough Grinding Stone": 3
-        }
+        },
+        "Phase":    1
+    },
+    "Ironvine Belt": {
+        "ID":       22764,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22768,
+        "Reagents": {
+            "Enchanted Thorium Bar": 6,
+            "Living Essence": 2
+        },
+        "Phase":    1
+    },
+    "Ironvine Breastplate": {
+        "ID":       22762,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22766,
+        "Reagents": {
+            "Enchanted Thorium Bar": 12,
+            "Bloodvine": 2,
+            "Arcanite Bar": 2,
+            "Living Essence": 2
+        },
+        "Phase":    1
+    },
+    "Ironvine Gloves": {
+        "ID":       22763,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22767,
+        "Reagents": {
+            "Enchanted Thorium Bar": 6,
+            "Bloodvine": 1,
+            "Living Essence": 2
+        },
+        "Phase":    1
     },
     "Jade Serpentblade": {
         "ID":       3850,
@@ -1373,7 +2479,164 @@ recipes = {
 			"Heavy Grinding Stone": 2,
 			"Jade": 2,
 			"Heavy Leather": 3
-        }
+        },
+        "Phase":    1
+    },
+    "Jagged Obsidian Shield": {
+        "ID":       22198,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22219,
+        "Reagents": {
+            "Large Obsidian Shard": 8,
+            "Small Obsidian Shard": 24,
+            "Enchanted Thorium Bar": 8,
+            "Essence of Earth": 4
+        },
+        "Phase":    1
+    },
+    "Khorium Belt": {
+        "ID":       23524,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 23608,
+        "Reagents": {
+            "Khorium Bar": 3,
+            "Primal Water": 2,
+            "Primal Mana": 2
+        },
+        "Phase":    1
+    },
+    "Khorium Boots": {
+        "ID":       23525,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 23610,
+        "Reagents": {
+            "Khorium Bar": 4,
+            "Primal Water": 3,
+            "Primal Mana": 3
+        },
+        "Phase":    1
+    },
+    "Khorium Pants": {
+        "ID":       23523,
+        "Learn":    360,
+        "Yellow":   370,
+        "Green":    380,
+        "Grey":     390,
+        "Source":   "Drop",
+        "RecipeID": 23609,
+        "Reagents": {
+            "Khorium Bar": 6,
+            "Primal Water": 4,
+            "Primal Mana": 4
+        },
+        "Phase":    1
+    },
+    "Lavaforged Warhammer": {
+        "ID":       30089,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "School":   "Weapon",
+        "Reagents": {
+            "Adamantite Bar": 8,
+            "Primal Fire": 6
+        },
+        "Phase":    1
+    },
+    "Lesser Rune of Warding": {
+        "ID":       23559,
+        "Learn":    325,
+        "Yellow":   325,
+        "Green":    330,
+        "Grey":     335,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Adamantite Bar": 1
+        },
+        "Phase":    1
+    },
+    "Lesser Rune of Shielding": {
+        "ID":       23575,
+        "Learn":    340,
+        "Yellow":   340,
+        "Green":    345,
+        "Grey":     350,
+        "Source":   "Vendor",
+        "RecipeID": 23638,
+        "Reagents": {
+            "Adamantite Bar": 1
+        },
+        "Phase":    1
+    },
+    "Light Earthforged Blade": {
+        "ID":       30071,
+        "Learn":    260,
+        "Yellow":   280,
+        "Green":    290,
+        "Grey":     300,
+        "Source":   "Trainer",
+        "School":   "Weapon",
+        "Reagents": {
+            "Mithril Bar": 12,
+            "Core of Earth": 4
+        },
+        "Phase":    1
+    },
+    "Light Earthforged Hammer": {
+        "ID":       30073,
+        "Learn":    260,
+        "Yellow":   280,
+        "Green":    290,
+        "Grey":     300,
+        "Source":   "Trainer",
+        "School":   "Weapon",
+        "Reagents": {
+            "Mithril Bar": 12,
+            "Heart of Fire": 4
+        },
+        "Phase":    1
+    },
+    "Light Obsidian Belt": {
+        "ID":       22195,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Reputation",
+        "RecipeID": 22214,
+        "Reagents": {
+            "Small Obsidian Shard": 14,
+            "Enchanted Leather": 4
+        },
+        "Phase":    1
+    },
+    "Light Skyforged Axe": {
+        "ID":       30072,
+        "Learn":    260,
+        "Yellow":   280,
+        "Green":    290,
+        "Grey":     300,
+        "Source":   "Trainer",
+        "School":   "Weapon",
+        "Reagents": {
+            "Mithril Bar": 12,
+            "Breath of Wind": 4
+        },
+        "Phase":    1
     },
     "Massive Iron Axe": {
         "ID":       3855,
@@ -1389,7 +2652,8 @@ recipes = {
 			"Heavy Grinding Stone": 2,
 			"Gold Bar": 4,
 			"Heavy Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Mighty Iron Hammer": {
         "ID":       3492,
@@ -1406,7 +2670,8 @@ recipes = {
 			"Lesser Moonstone": 2,
 			"Coarse Grinding Stone": 2,
 			"Medium Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Mithril Coif": {
         "ID":       7931,
@@ -1418,7 +2683,8 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 10,
 			"Mageweave Cloth": 6
-        }
+        },
+        "Phase":    1
     },
     "Mithril Scale Bracers": {
         "ID":       7924,
@@ -1431,7 +2697,8 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 8,
 			"Citrine": 2
-        }
+        },
+        "Phase":    1
     },
     "Mithril Scale Pants": {
         "ID":       7920,
@@ -1442,7 +2709,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Mithril Bar": 12
-        }
+        },
+        "Phase":    1
     },
     "Mithril Scale Shoulders": {
         "ID":       7932,
@@ -1456,7 +2724,8 @@ recipes = {
             "Mithril Bar": 14,
 			"Thick Leather": 4,
 			"Citrine": 4
-        }
+        },
+        "Phase":    1
     },
     "Mithril Shield Spike": {
         "ID":       7967,
@@ -1470,7 +2739,8 @@ recipes = {
             "Mithril Bar": 4,
 			"Truesilver Bar": 2,
 			"Solid Grinding Stone": 4
-        }
+        },
+        "Phase":    1
     },
     "Mithril Spurs": {
         "ID":       7969,
@@ -1483,7 +2753,8 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 4,
 			"Solid Grinding Stone": 3
-        }
+        },
+        "Phase":    1
     },
     "Moonsteel Broadsword": {
         "ID":       3853,
@@ -1499,7 +2770,8 @@ recipes = {
 			"Heavy Grinding Stone": 2,
 			"Lesser Moonstone": 3,
 			"Heavy Leather": 3,
-        }
+        },
+        "Phase":    1
     },
     "Orcish War Leggings": {
         "ID":       7929,
@@ -1513,7 +2785,8 @@ recipes = {
         "Reagents": {
             "Mithril Bar": 12,
 			"Elemental Earth": 1
-        }
+        },
+        "Phase":    1
     },
     "Ornate Mithril Boots": {
         "ID":       7936,
@@ -1530,7 +2803,8 @@ recipes = {
 			"Thick Leather": 4,
 			"Solid Grinding Stone": 1,
 			"Aquamarine": 1
-        }
+        },
+        "Phase":    1
     },
     "Ornate Mithril Breastplate": {
         "ID":       7935,
@@ -1546,7 +2820,8 @@ recipes = {
 			"Truesilver Bar": 6,
 			"Heart of Fire": 1,
 			"Solid Grinding Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Ornate Mithril Gloves": {
         "ID":       7927,
@@ -1562,7 +2837,8 @@ recipes = {
 			"Mageweave Cloth": 6,
 			"Truesilver Bar": 1,
 			"Solid Grinding Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Ornate Mithril Helm": {
         "ID":       7937,
@@ -1578,7 +2854,8 @@ recipes = {
 			"Truesilver Bar": 2,
 			"Black Pearl": 1,
 			"Solid Grinding Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Ornate Mithril Pants": {
         "ID":       7926,
@@ -1594,7 +2871,8 @@ recipes = {
 			"Truesilver Bar": 1,
 			"Solid Grinding Stone": 1,
 			"Aquamarine": 1
-        }
+        },
+        "Phase":    1
     },
     "Ornate Mithril Shoulders": {
         "ID":       7928,
@@ -1609,7 +2887,8 @@ recipes = {
             "Mithril Bar": 12,
 			"Truesilver Bar": 1,
 			"Thick Leather": 6
-        }
+        },
+        "Phase":    1
     },
     "Ornate Thorium Handaxe": {
         "ID":       12773,
@@ -1624,7 +2903,8 @@ recipes = {
 			"Large Opal": 2,
 			"Dense Grinding Stone": 2,
 			"Rugged Leather": 4
-        }
+        },
+        "Phase":    1
     },
     "Patterned Bronze Bracers": {
         "ID":       2868,
@@ -1636,7 +2916,8 @@ recipes = {
         "Reagents": {
             "Bronze Bar": 5,
 			"Coarse Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Pearl-handled Dagger": {
         "ID":       5540,
@@ -1650,7 +2931,8 @@ recipes = {
 			"Strong Flux": 1,
 			"Small Lustrous Pearl": 2,
 			"Coarse Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Phandom Blade": {
         "ID":       7961,
@@ -1668,7 +2950,8 @@ recipes = {
 			"Aquamarine": 6,
 			"Solid Grinding Stone": 4,
 			"Thick Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Polished Steel Boots": {
         "ID":       3846,
@@ -1683,7 +2966,8 @@ recipes = {
 			"Citrine": 1,
 			"Lesser Moonstone": 1,
 			"Heavy Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Radiant Belt": {
         "ID":       12416,
@@ -1696,7 +2980,8 @@ recipes = {
         "Reagents": {
             "Thorium Bar": 10,
 			"Heart of Fire": 2
-        }
+        },
+        "Phase":    1
     },
     "Radiant Boots": {
         "ID":       12419,
@@ -1709,7 +2994,8 @@ recipes = {
         "Reagents": {
             "Thorium Bar": 14,
 			"Heart of Fire": 4
-        }
+        },
+        "Phase":    1
     },
     "Radiant Breastplate": {
         "ID":       12415,
@@ -1723,7 +3009,8 @@ recipes = {
             "Thorium Bar": 18,
 			"Heart of Fire": 2,
 			"Star Ruby": 1
-        }
+        },
+        "Phase":    1
     },
     "Radiant Circlet": {
         "ID":       12417,
@@ -1736,7 +3023,8 @@ recipes = {
         "Reagents": {
             "Thorium Bar": 18,
 			"Heart of Fire": 4
-        }
+        },
+        "Phase":    1
     },
     "Radiant Gloves": {
         "ID":       12418,
@@ -1749,7 +3037,86 @@ recipes = {
         "Reagents": {
             "Thorium Bar": 18,
 			"Heart of Fire": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Radiant Leggings": {
+        "ID":       12420,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 12713,
+        "Reagents": {
+            "Thorium Bar": 20,
+			"Heart of Fire": 4
+        },
+        "Phase":    1
+    },
+    "Ragesteel Breastplate": {
+        "ID":       23522,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 23613,
+        "Reagents": {
+            "Fel Iron Bar": 12,
+            "Primal Fire": 10,
+            "Khorium Bar": 6,
+            "Elixir of Major Strength": 4
+        },
+        "Phase":    1
+    },
+    "Ragesteel Gloves": {
+        "ID":       23520,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 23611,
+        "Reagents": {
+            "Fel Iron Bar": 8,
+            "Primal Fire": 6,
+            "Khorium Bar": 3,
+            "Elixir of Major Strength": 2
+        },
+        "Phase":    1
+    },
+    "Ragesteel Helm": {
+        "ID":       23521,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 23612,
+        "Reagents": {
+            "Fel Iron Bar": 10,
+            "Primal Fire": 10,
+            "Khorium Bar": 4,
+            "Elixir of Major Strength": 4
+        },
+        "Phase":    1
+    },
+    "Ragesteel Shoulders": {
+        "ID":       33173,
+        "Learn":    365,
+        "Yellow":   375,
+        "Green":    385,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 23611,
+        "Reagents": {
+            "Fel Iron Bar": 12,
+            "Primal Fire": 2,
+            "Khorium Bar": 8,
+            "Scroll of Strength V": 2
+        },
+        "Phase":    1
     },
     "Rough Bronze Boots": {
         "ID":       6350,
@@ -1761,7 +3128,8 @@ recipes = {
         "Reagents": {
             "Bronze Bar": 6,
 			"Rough Grinding Stone": 6
-        }
+        },
+        "Phase":    1
     },
     "Rough Bronze Cuirass": {
         "ID":       2866,
@@ -1772,7 +3140,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Bronze Bar": 7
-        }
+        },
+        "Phase":    1
     },
     "Rough Bronze Leggings": {
         "ID":       2865,
@@ -1783,7 +3152,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Bronze Bar": 6
-        }
+        },
+        "Phase":    1
     },
     "Rough Bronze Shoulders": {
         "ID":       3480,
@@ -1796,7 +3166,8 @@ recipes = {
             "Bronze Bar": 5,
 			"Shadowgem": 1,
 			"Coarse Grinding Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Rough Copper Vest": {
         "ID":       10421,
@@ -1807,7 +3178,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Copper Bar": 4
-        }
+        },
+        "Phase":    1
     },
     "Rough Grinding Stone": {
         "ID":       3470,
@@ -1818,7 +3190,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Rough Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Rough Sharpening Stone": {
         "ID":       2862,
@@ -1829,7 +3202,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Rough Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Rough Weightstone": {
         "ID":       3239,
@@ -1841,7 +3215,8 @@ recipes = {
         "Reagents": {
             "Rough Stone": 1,
 			"Linen Cloth": 1
-        }
+        },
+        "Phase":    1
     },
     "Runed Copper Belt": {
         "ID":       2857,
@@ -1852,7 +3227,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Copper Bar": 10
-        }
+        },
+        "Phase":    1
     },
     "Runed Copper Bracers": {
         "ID":       2854,
@@ -1864,7 +3240,8 @@ recipes = {
         "Reagents": {
             "Copper Bar": 10,
 			"Rough Grinding Stone": 3
-        }
+        },
+        "Phase":    1
     },
     "Runed Copper Breastplate": {
         "ID":       2864,
@@ -1878,7 +3255,8 @@ recipes = {
             "Copper Bar": 12,
 			"Shadowgem": 1,
 			"Rough Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Runed Copper Gauntlets": {
         "ID":       3472,
@@ -1890,7 +3268,8 @@ recipes = {
         "Reagents": {
             "Copper Bar": 8,
 			"Rough Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Runed Copper Pants": {
         "ID":       3473,
@@ -1903,7 +3282,8 @@ recipes = {
             "Copper Bar": 8,
 			"Fine Thread": 2,
 			"Rough Grinding Stone": 3
-        }
+        },
+        "Phase":    1
     },
     "Runed Mithril Hammer": {
         "ID":       7946,
@@ -1918,7 +3298,8 @@ recipes = {
 			"Core of Earth": 2,
 			"Solid Grinding Stone": 1,
 			"Thick Leather": 4
-        }
+        },
+        "Phase":    1
     },
     "Searing Golden Blade": {
         "ID":       12260,
@@ -1933,7 +3314,8 @@ recipes = {
 			"Gold Bar": 4,
 			"Elemental Fire": 2,
 			"Heavy Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Serenity": {
         "ID":       12781,
@@ -1950,7 +3332,8 @@ recipes = {
 			"Large Opal": 2,
 			"Blue Sapphire": 2,
 			"Huge Emerald": 1
-        }
+        },
+        "Phase":    1
     },
     "Shadow Crescent Axe": {
         "ID":       3856,
@@ -1966,7 +3349,8 @@ recipes = {
 			"Heavy Grinding Stone": 3,
 			"Shadow Oil": 1,
 			"Heavy Leather": 3
-        }
+        },
+        "Phase":    1
     },
     "Shining Silver Breastplate": {
         "ID":       2870,
@@ -1981,7 +3365,8 @@ recipes = {
 			"Lesser Moonstone": 2,
 			"Iridescent Pearl": 2,
 			"Silver Bar": 4
-        }
+        },
+        "Phase":    1
     },
     "Silver Rod": {
         "ID":       6338,
@@ -1993,7 +3378,8 @@ recipes = {
         "Reagents": {
             "Silver Bar": 1,
 			"Rough Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Silver Skeleton Key": {
         "ID":       15869,
@@ -2006,7 +3392,8 @@ recipes = {
             "Silver Bar": 1,
 			"Rough Grinding Stone": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
     "Silvered Bronze Boots": {
         "ID":       3482,
@@ -2019,7 +3406,8 @@ recipes = {
             "Bronze Bar": 6,
 			"Silver Bar": 1,
 			"Coarse Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Silvered Bronze Breastplate": {
         "ID":       2869,
@@ -2034,7 +3422,8 @@ recipes = {
 			"Silver Bar": 2,
 			"Coarse Grinding Stone": 2,
 			"Lesser Moonstone": 1
-        }
+        },
+        "Phase":    1
     },
     "Silvered Bronze Gauntlets": {
         "ID":       3483,
@@ -2047,7 +3436,8 @@ recipes = {
             "Bronze Bar": 8,
 			"Silver Bar": 1,
 			"Coarse Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Silvered Bronze Leggings": {
         "ID":       10423,
@@ -2061,7 +3451,8 @@ recipes = {
             "Bronze Bar": 12,
 			"Silver Bar": 4,
 			"Coarse Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Silvered Bronze Shoulders": {
         "ID":       3481,
@@ -2075,7 +3466,22 @@ recipes = {
             "Bronze Bar": 8,
 			"Silver Bar": 2,
 			"Coarse Grinding Stone": 2
-        }
+        },
+        "Phase":    1
+    },
+    "Skyforged Great Axe": {
+        "ID":       30088,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "School":   "Weapon",
+        "Reagents": {
+            "Adamantite Bar": 10,
+            "Primal Air": 6
+        },
+        "Phase":    1
     },
     "Solid Grinding Stone": {
         "ID":       7966,
@@ -2086,7 +3492,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Solid Stone": 4
-        }
+        },
+        "Phase":    1
     },
     "Solid Iron Maul": {
         "ID":       3851,
@@ -2102,7 +3509,8 @@ recipes = {
 			"Heavy Grinding Stone": 1,
 			"Silver Bar": 4,
 			"Heavy Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Solid Sharpening Stone": {
         "ID":       7964,
@@ -2113,7 +3521,8 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Solid Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Solid Weightstone": {
         "ID":       7965,
@@ -2125,7 +3534,8 @@ recipes = {
         "Reagents": {
             "Solid Stone": 1,
 			"Silk Cloth": 1
-        }
+        },
+        "Phase":    1
     },
     "Steel Breastplate": {
         "ID":       7963,
@@ -2137,7 +3547,8 @@ recipes = {
         "Reagents": {
             "Steel Bar": 16,
 			"Heavy Grinding Stone": 3
-        }
+        },
+        "Phase":    1
     },
     "Steel Plate Helm": {
         "ID":       7922,
@@ -2149,7 +3560,8 @@ recipes = {
         "Reagents": {
             "Steel Bar": 14,
 			"Solid Grinding Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Steel Weapon Chain": {
         "ID":       6041,
@@ -2163,7 +3575,22 @@ recipes = {
             "Steel Bar": 8,
 			"Heavy Grinding Stone": 2,
 			"Heavy Leather": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Stoneforged Claymore": {
+        "ID":       30086,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "School":   "Weapon",
+        "Reagents": {
+            "Adamantite Bar": 10,
+            "Primal Earth": 6
+        },
+        "Phase":    1
     },
     "Storm Gauntlets": {
         "ID":       12632,
@@ -2179,7 +3606,53 @@ recipes = {
 			"Enchanted Thorium Bar": 4,
 			"Essence of Water": 4,
 			"Blue Sapphire": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Stormforged Axe": {
+        "ID":       30087,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "School":   "Weapon",
+        "Reagents": {
+            "Adamantite Bar": 8,
+            "Primal Water": 3,
+            "Primal Air": 3
+        },
+        "Phase":    1
+    },
+    "Stormforged Hauberk": {
+        "ID":       30076,
+        "Learn":    340,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Adamantite Bar": 8,
+            "Primal Water": 2,
+            "Primal Air": 2
+        },
+        "Phase":    1
+    },
+    "Swiftsteel Gloves": {
+        "ID":       23526,
+        "Learn":    370,
+        "Yellow":   380,
+        "Green":    390,
+        "Grey":     400,
+        "Source":   "Drop",
+        "RecipeID": 23615,
+        "Reagents": {
+            "Felsteel Bar": 6,
+            "Large Prismatic Shard": 2,
+            "Elixir of Major Agility": 4,
+            "Primal Air": 4
+        },
+        "Phase":    1
     },
     "The Shatterer": {
         "ID":       7954,
@@ -2197,7 +3670,22 @@ recipes = {
 			"Jade": 5,
 			"Solid Grinding Stone": 4,
 			"Thick Leather": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Thick Bronze Darts": {
+        "ID":       23201,
+        "Learn":    100,
+        "Yellow":   130,
+        "Green":    145,
+        "Grey":     160,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Bronze Bar": 6,
+            "Rough Grinding Stone": 2,
+            "Medium Leather": 1
+        },
+        "Phase":    1
     },
     "Thick War Axe": {
         "ID":       3489,
@@ -2212,7 +3700,8 @@ recipes = {
 			"Silver Bar": 2,
 			"Rough Grinding Stone": 2,
 			"Light Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Thorium Armor": {
         "ID":       12405,
@@ -2226,7 +3715,8 @@ recipes = {
             "Thorium Bar": 16,
 			"Blue Sapphire": 1,
 			"Yellow Power Crystal": 4
-        }
+        },
+        "Phase":    1
     },
     "Thorium Belt": {
         "ID":       12406,
@@ -2239,7 +3729,8 @@ recipes = {
         "Reagents": {
             "Thorium Bar": 12,
 			"Red Power Crystal": 4
-        }
+        },
+        "Phase":    1
     },
     "Thorium Boots": {
         "ID":       12409,
@@ -2253,7 +3744,8 @@ recipes = {
             "Thorium Bar": 20,
 			"Rugged Leather": 8,
 			"Green Power Crystal": 4
-        }
+        },
+        "Phase":    1
     },
     "Thorium Bracers": {
         "ID":       12408,
@@ -2266,7 +3758,8 @@ recipes = {
         "Reagents": {
             "Thorium Bar": 12,
 			"Blue Power Crystal": 4
-        }
+        },
+        "Phase":    1
     },
     "Thorium Helm": {
         "ID":       12410,
@@ -2280,7 +3773,22 @@ recipes = {
             "Thorium Bar": 24,
 			"Star Ruby": 1,
 			"Yellow Power Crystal": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Thorium Leggings": {
+        "ID":       12414,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 12704,
+        "Reagents": {
+            "Thorium Bar": 26,
+			"Red Power Crystal": 4
+        },
+        "Phase":    1
     },
     "Thorium Shield Spike": {
         "ID":       12645,
@@ -2294,7 +3802,8 @@ recipes = {
             "Thorium Bar": 4,
 			"Dense Grinding Stone": 4,
 			"Essence of Earth": 2
-        }
+        },
+        "Phase":    1
     },
     "Truesilver Breastplate": {
         "ID":       7939,
@@ -2310,7 +3819,8 @@ recipes = {
 			"Star Ruby": 4,
 			"Black Pearl": 4,
 			"Solid Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Truesilver Champion": {
         "ID":       7960,
@@ -2327,7 +3837,8 @@ recipes = {
 			"Breath of Wind": 4,
 			"Solid Grinding Stone": 8,
 			"Thick Leather": 6
-        }
+        },
+        "Phase":    1
     },
     "Truesilver Gauntlets": {
         "ID":       7938,
@@ -2344,7 +3855,8 @@ recipes = {
 			"Citrine": 3,
 			"Guardian Gloves": 1,
 			"Solid Grinding Stone": 2
-        }
+        },
+        "Phase":    1
     },
     "Truesilver Rod": {
         "ID":       11144,
@@ -2356,7 +3868,8 @@ recipes = {
         "Reagents": {
             "Truesilver Bar": 1,
 			"Heavy Grinding Stone": 1
-        }
+        },
+        "Phase":    1
     },
     "Truesilver Skeleton Key": {
         "ID":       15871,
@@ -2369,7 +3882,8 @@ recipes = {
             "Truesilver Bar": 1,
 			"Solid Grinding Stone": 1
         },
-        "AmuntCrafted": 2
+        "AmountCrafted": 2,
+        "Phase":    1
     },
     "Volcanic Hammer": {
         "ID":       12792,
@@ -2384,7 +3898,40 @@ recipes = {
 			"Heart of Fire": 4,
 			"Star Ruby": 4,
 			"Rugged Leather": 4
-        }
+        },
+        "Phase":    1
+    },
+    "Whirling Steel Axes": {
+        "ID":       29202,
+        "Learn":    200,
+        "Yellow":   220,
+        "Green":    230,
+        "Grey":     240,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Steel Bar": 5,
+            "Elemental Air": 2,
+            "Heavy Grinding Stone": 2,
+            "Heavy Leather": 1
+        },
+        "Phase":    1
+    },
+    "Whitesoul Helm": {
+        "ID":       12633,
+        "Learn":    300,
+        "Yellow":   320,
+        "Green":    330,
+        "Grey":     340,
+        "Source":   "Drop",
+        "RecipeID": 12711,
+        "Reagents": {
+            "Thorium Bar": 20,
+			"Enchanted Thorium Bar": 4,
+            "Truesilver Bar": 6,
+            "Gold Bar": 6,
+            "Azerothian Diamond": 2
+        },
+        "Phase":    1
     },
     "Wicked Mithril Blade": {
         "ID":       7943,
@@ -2399,7 +3946,8 @@ recipes = {
 			"Truesilver Bar": 4,
 			"Solid Grinding Stone": 1,
 			"Thick Leather": 2
-        }
+        },
+        "Phase":    1
     },
     "Wildthorn Mail": {
         "ID":       12624,
@@ -2416,7 +3964,36 @@ recipes = {
 			"Living Essence": 4,
 			"Wildvine":  4,
 			"Huge Emerald": 1
-        }
+        },
+        "Phase":    1
+    },
+    "Windforged Leggings": {
+        "ID":       30070,
+        "Learn":    280,
+        "Yellow":   280,
+        "Green":    290,
+        "Grey":     300,
+        "Source":   "Trainer",
+        "School":   "Armor",
+        "Reagents": {
+            "Mithril Bar": 16,
+            "Breath of Wind": 2
+        },
+        "Phase":    1
+    },
+    "Windforged Rapier": {
+        "ID":       30077,
+        "Learn":    330,
+        "Yellow":   340,
+        "Green":    350,
+        "Grey":     360,
+        "Source":   "Trainer",
+        "School":   "Weapon",
+        "Reagents": {
+            "Adamantite Bar": 6,
+            "Primal Air": 6
+        },
+        "Phase":    1
     }
 }
 

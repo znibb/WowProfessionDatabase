@@ -159,7 +159,7 @@ items = {
     "Felsteel Stabilizer": 23787,
     "Felweed": 22785,
     "Fiery Core": 17010,
-    "Figluster Midfish": 27435,
+    "Figlusters Midfish": 27435,
     "Fine Leather Belt": 4246,
     "Fine Leather Gloves": 2312,
     "Fine Leather Tunic": 4243,

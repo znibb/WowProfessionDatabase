@@ -2838,7 +2838,7 @@ recipes = {
         "Phase":    1
     },
     "Runed Adamantite Rod": {
-        "ID":       22462,
+        "ID":       32665,
         "Learn":    350,
         "Yellow":   360,
         "Green":    375,
@@ -2901,7 +2901,7 @@ recipes = {
         "Phase":    1
     },
     "Runed Fel Iron Rod": {
-        "ID":       22461,
+        "ID":       32664,
         "Learn":    300,
         "Yellow":   310,
         "Green":    325,

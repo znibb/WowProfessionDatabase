@@ -880,7 +880,7 @@ recipes = {
         "Grey":     365,
         "Source":   "Trainer",
         "Reagents": {
-			"Icy Blasting Primers": 3,
+			"Icy Blasting Primers": 1,
             "Fel Iron Casing": 1,
             "Handful of Fel Iron Bolts": 1
         },

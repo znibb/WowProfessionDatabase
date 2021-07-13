@@ -2627,9 +2627,9 @@ recipes = {
 	"Thorium Shells": {
         "ID":       15997,
         "Learn":    285,
-        "Yellow":   305,
-        "Green":    315,
-        "Grey":     325,
+        "Yellow":   295,
+        "Green":    300,
+        "Grey":     305,
         "Source":   "Drop",
         "RecipeID": 16051,
         "Reagents": {

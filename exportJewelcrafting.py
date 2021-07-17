@@ -1456,7 +1456,7 @@ recipes = {
         "Phase": 1
     },
     "Ring of Silver Might": {
-        "ID":       20828,
+        "ID":       20827,
         "Learn":    80,
         "Yellow":   110,
         "Green":    135,

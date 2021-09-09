@@ -1,6 +1,20 @@
 #!/usr/bin/env python3.7
 
 recipes = {
+    "Adepts Elixir": {
+        "ID":       28103,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    322,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Dreamfoil": 1,
+            "Felweed": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
     "Arcane Elixir": {
         "ID":       9155,
         "Learn":    235,
@@ -216,6 +230,20 @@ recipes = {
         },
         "Phase":    1
     },
+    "Elixir of Draenic Wisdom": {
+        "ID":       32067,
+        "Learn":    320,
+        "Yellow":   335,
+        "Green":    342,
+        "Grey":     350,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Felweed": 1,
+            "Terocone": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
     "Elixir of Dream Vision": {
         "ID":       9197,
         "Learn":    240,
@@ -389,6 +417,20 @@ recipes = {
         },
         "Phase":    1
     },
+    "Elixir of Healing Power": {
+        "ID":       22825,
+        "Learn":    310,
+        "Yellow":   325,
+        "Green":    332,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Golden Sansam": 1,
+            "Dreaming Glory": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
     "Elixir of Ironskin": {
         "ID":       32068,
         "Learn":    330,
@@ -478,6 +520,20 @@ recipes = {
         },
         "Phase":    1
     },
+    "Elixir of Major Fortitude": {
+        "ID":       32062,
+        "Learn":    310,
+        "Yellow":   325,
+        "Green":    332,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Ragveil": 2,
+            "Felweed": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
     "Elixir of Major Frost Power": {
         "ID":       22827,
         "Learn":    320,
@@ -519,6 +575,34 @@ recipes = {
         "Reagents": {
             "Ancient Lichen": 1,
             "Nightmare Vine": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
+    "Elixir of Major Strength": {
+        "ID":       22824,
+        "Learn":    305,
+        "Yellow":   320,
+        "Green":    327,
+        "Grey":     335,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Mountain Silversage": 1,
+            "Felweed": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
+    "Elixir of Mastery": {
+        "ID":       28104,
+        "Learn":    315,
+        "Yellow":   330,
+        "Green":    337,
+        "Grey":     345,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Terocone": 3,
+            "Felweed": 1,
             "Imbued Vial": 1
         },
         "Phase":    1
@@ -1052,6 +1136,21 @@ recipes = {
         },
         "Phase":    1
     },
+    "Heroic Potion": {
+        "ID":       22837,
+        "Learn":    350,
+        "Yellow":   365,
+        "Green":    372,
+        "Grey":     380,
+        "Source":   "Drop",
+        "RecipeID": 22912,
+        "Reagents": {
+            "Terocone": 2,
+            "Ancient Lichen": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
     "Holy Protection Potion": {
         "ID":       6051,
         "Learn":    100,
@@ -1093,6 +1192,21 @@ recipes = {
             "Ghost Mushroom": 1,
             "Sungrass": 1,
             "Crystal Vial": 1
+        },
+        "Phase":    1
+    },
+    "Ironshield Potion": {
+        "ID":       22849,
+        "Learn":    365,
+        "Yellow":   380,
+        "Green":    387,
+        "Grey":     395,
+        "Source":   "Drop",
+        "RecipeID": 22927,
+        "Reagents": {
+            "Ancient Lichen": 2,
+            "Mote of Earth": 3,
+            "Imbued Vial": 1
         },
         "Phase":    1
     },
@@ -1181,6 +1295,20 @@ recipes = {
             "Mountain Silversage": 2,
             "Heart of the Wild": 2,
             "Crystal Vial": 1
+        },
+        "Phase":    1
+    },
+    "Mad Alchemists Potion": {
+        "ID":       34440,
+        "Learn":    325,
+        "Yellow":   335,
+        "Green":    342,
+        "Grey":     350,
+        "Source":   "Reputation",
+        "RecipeID": 34481,
+        "Reagents": {
+            "Crystal Vial": 1,
+            "Ragveil": 2
         },
         "Phase":    1
     },
@@ -1493,6 +1621,36 @@ recipes = {
         },
         "Phase":    1
     },
+    "Onslaught Elixir": {
+        "ID":       28102,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    322,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Mountain Silversage": 1,
+            "Felweed": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
+    "Philosophers Stone": {
+        "ID":       9149,
+        "Learn":    225,
+        "Yellow":   240,
+        "Green":    260,
+        "Grey":     280,
+        "Source":   "Vendor",
+        "RecipeID": 9303,
+        "Reagents": {
+            "Iron Bar": 4,
+            "Black Vitriol": 1,
+            "Purple Lotus": 4,
+            "Firebloom": 4
+        },
+        "Phase":    1
+    },
     "Potion of Curing": {
         "ID":       3386,
         "Learn":    120,
@@ -1641,6 +1799,20 @@ recipes = {
         },
         "Phase":    1
     },
+    "Super Healing Potion": {
+        "ID":       22829,
+        "Learn":    325,
+        "Yellow":   340,
+        "Green":    347,
+        "Grey":     355,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Netherbloom": 2,
+            "Felweed": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
     "Super Mana Potion": {
         "ID":       22832,
         "Learn":    340,
@@ -1711,6 +1883,34 @@ recipes = {
             "Swiftthistle": 1,
             "Blackmouth Oil": 1,
             "Empty Vial": 1
+        },
+        "Phase":    1
+    },
+    "Unstable Mana Potion": {
+        "ID":       28101,
+        "Learn":    310,
+        "Yellow":   325,
+        "Green":    332,
+        "Grey":     340,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Ragveil": 2,
+            "Felweed": 1,
+            "Imbued Vial": 1
+        },
+        "Phase":    1
+    },
+    "Volatile Healing Potion": {
+        "ID":       28100,
+        "Learn":    300,
+        "Yellow":   315,
+        "Green":    322,
+        "Grey":     330,
+        "Source":   "Trainer",
+        "Reagents": {
+            "Golden Sansam": 1,
+            "Felweed": 1,
+            "Imbued Vial": 1
         },
         "Phase":    1
     },

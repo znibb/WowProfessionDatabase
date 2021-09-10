@@ -343,6 +343,7 @@ recipes = {
         "Source":   "Trainer",
         "Reagents": {
             "Mithril Bar": 2,
+            "Elemental Water": 2,
             "Citrine": 1
         },
         "Phase": 1

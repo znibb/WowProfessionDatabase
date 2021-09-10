@@ -25,6 +25,7 @@ items = {
     "Black Lotus": 13468,
     "Black Mageweave Boots": 10026,
     "Black Pearl": 7971,
+    "Black Vitriol": 9262,
     "Black Whelp Scale": 7286,
     "Blackmouth Oil": 6370,
     "Blank Parchment": 10648,

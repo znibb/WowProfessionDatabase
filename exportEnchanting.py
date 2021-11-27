@@ -1523,9 +1523,9 @@ recipes = {
         "Source":   "Drop",
         "RecipeID": 20735,
         "Reagents": {
-            "Nexus Crystal": 4,
-			"Large Brilliant Shard": 6,
-            "Black Diamond": 2
+            "Small Prismatic Shard": 4,
+			      "Greater Planar Essence": 2,
+            "Primal Shadow": 8
         },
         "Phase":    1
     },
